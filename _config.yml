@@ -17,6 +17,9 @@ markdown: kramdown
 highlighter: pygments
 gems:
   - jekyll-sitemap
+  
+prose:
+  media: "images"
 
 
 # Site owner
