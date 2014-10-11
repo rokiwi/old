@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Sample Post Style Guide"
+title: "Two monts before departure"
 categories: articles
 modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
@@ -9,7 +9,7 @@ comments: true
 ads: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+It's really hard ...
 
 # Heading 1: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
