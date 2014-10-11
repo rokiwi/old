@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "A Post with Images"
+title: "A Post about New Zealand"
 categories: articles
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample, images, test]

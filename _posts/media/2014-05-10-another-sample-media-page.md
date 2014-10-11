@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "Another Media Post with Large Feature Image"
+title: "New Zealand"
 categories: media
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 ads: true
