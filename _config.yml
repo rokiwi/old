@@ -5,7 +5,7 @@ description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: //rokiwi.github.io/
+url: //rokiwi.github.io
 
 # Jekyll configuration
 
@@ -17,6 +17,9 @@ markdown: kramdown
 highlighter: pygments
 gems:
   - jekyll-sitemap
+  
+prose:
+  media: "images"
 
 
 # Site owner
