@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Author Override
-date: {}
 author: billy_rick
 modified: null
 categories: articles
