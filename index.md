@@ -69,7 +69,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">November 2015</h2>
-  <p class="post-excerpt">Stop over in Australia (Melbourn) and Thailand</p>
+  <p class="post-excerpt">Stopover in Australia (Melbourn) and Thailand</p>
 </div>
 
 <div class="tile">
