@@ -8,7 +8,7 @@ image:
   feature:
   teaser:
 ---
-
+<ul>
   {% for post in site.categories.articles %}
 	{% unless post.next %}
 	  <h3>{{ post.date | date: '%Y %b' }}</h3>
@@ -22,6 +22,7 @@ image:
 
 	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+</ul>
 
 <!-- {% include post-grid.html %} -->
 
