@@ -23,8 +23,6 @@ image:
 {% endif %}
 
 
-{% include post-grid.html %}
-
 {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
 {% capture pyear %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
 {% if year != pyear %}
@@ -32,6 +30,8 @@ image:
   <h3 style="clear: both">{{ post.date | date: '%b %Y' }}</h3>
   <div class="tiles">
 {% endif %}
+
+{% include post-grid.html %}
 
 {% if forloop.last %}
   </div><!-- /.tiles -->  
