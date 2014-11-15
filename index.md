@@ -7,7 +7,7 @@ image:
 
 {% for post in site.posts %}
 
-{% if post.previous == false and post.next == false %}
+{% if forloop.first and forloop.last %}
   <h3 style="clear: both">{{ post.date | date: '%b %Y' }}</h3>
   <div class="tiles">
     {% include post-grid.html %}
@@ -15,7 +15,7 @@ image:
   {% continue %}
 {% endif %}
 
-{% if post.previous == false %}
+{% if forloop.first %}
   <h3 style="clear: both">{{ post.date | date: '%b %Y' }}</h3>
   <div class="tiles">
     {% include post-grid.html %}
@@ -32,7 +32,7 @@ image:
 
 {% include post-grid.html %}
 
-{% if post.next == false %}
+{% if forloop.last %}
   </div><!-- /.tiles -->  
 {% endif %}
   
