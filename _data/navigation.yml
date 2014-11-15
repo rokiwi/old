@@ -1,9 +1,4 @@
 # Site navigation links
-
-- title: Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
   
 - title: Olivier
   url: /olivier/
