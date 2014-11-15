@@ -13,7 +13,6 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:year/:month/:title/
-relative_permalinks: false
 markdown: kramdown
 highlighter: pygments
 gems:

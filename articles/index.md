@@ -10,7 +10,14 @@ image:
 ---
 
 <div class="tiles">
+{% capture page-year %}{{page.date | date: "%Y"}}{% endcapture %}
+{% capture page-month %}{{page.date | date: "%M"}}{% endcapture %}
+<p>
+{% page-year %}
+</p>
 {% for post in site.categories.articles %}
-  {% include post-grid.html %}
+  {% if page-year == post-year %}
+    {% include post-grid.html %}
+  {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
