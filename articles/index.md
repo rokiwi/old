@@ -9,15 +9,17 @@ image:
   teaser:
 ---
 
-<div class="tiles">
 {% for post in site.categories.articles %}
   {% unless post.next %}
     <h3>{{ post.date | date: '%Y %b' }}</h3>
+	<div class="tiles">
   {% else %}
     {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
     {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
     {% if year != nyear %}
-	<h3>{{ post.date | date: '%Y %b' }}</h3>
+	</div><!-- /.tiles -->
+	  <h3>{{ post.date | date: '%Y %b' }}</h3>
+	<div class="tiles">
   {% endif %}
   {% endunless %}
   {% include post-grid.html %}
