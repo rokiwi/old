@@ -16,24 +16,29 @@ image:
 {% endif %}
 
 {% if forloop.first %}
+  <div style="float: left">
   <h3 style="clear: both">{{ post.date | date: '%b %Y' }}</h3>
   <div class="tiles">
     {% include post-grid.html %}
   {% continue %}
 {% endif %}
 
+{% include post-grid.html %}
+
 {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
 {% capture pyear %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
 {% if year != pyear %}
   </div><!-- /.tiles -->
+  </div>
+  <div style="float: left">
   <h3 style="clear: both">{{ post.date | date: '%b %Y' }}</h3>
+  <div style="float: left">
   <div class="tiles">
 {% endif %}
 
-{% include post-grid.html %}
-
 {% if forloop.last %}
   </div><!-- /.tiles -->  
+  </div>
 {% endif %}
   
 {% endfor %}
