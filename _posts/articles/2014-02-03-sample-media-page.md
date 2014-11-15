@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: "Media Post with Large Feature Image"
 categories: media
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."

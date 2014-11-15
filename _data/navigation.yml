@@ -1,13 +1,8 @@
 # Site navigation links
 
-- title: Sample Articles
+- title: Articles
   url: /articles/
   excerpt: "Examples of long form posts."
-  image: 400x250.gif
-
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
   
 - title: Olivier
