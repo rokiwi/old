@@ -20,6 +20,10 @@ image:
   {% continue %}  
 {% endif %}
 
+{% if forloop.first %}
+  {% continue %}  
+{% endif %}
+
 {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
 {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
 {% if year != nyear %}
