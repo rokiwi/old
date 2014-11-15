@@ -1,20 +1,15 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo.jpg
-  twitter: extravagantman
-  google:
-    plus: +BillyRick
+olivier:
+  name: Olivier Wouters
+  web: https://be.linkedin.com/pub/olivier-wouters/70/215/80
+#  email: billy@rick.com
+#  bio: "What do you want, jewels? I am a very extravagant man."
+#  avatar: bio-photo.jpg
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: +CorneliusFiddlebone
+rossana:
+  name: Rossana Bacchetta
+  web: https://be.linkedin.com/pub/rossana-bacchetta/86/585/117
+#  email: cornelius@thewhip.com
+#  bio: "I ordered what?"
+#  avatar: bio-photo.jpg
