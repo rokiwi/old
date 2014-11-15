@@ -8,7 +8,7 @@ image:
 <ul>
   {% for post in site.posts %}
 	{% unless post.next %}
-	  <h3>{{ post.date | date: '%Y %b' }}</h3>
+	  <h3>{{ post.date | date: '%b %Y' }}</h3>
 	{% else %}
 	  {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
 	  {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
