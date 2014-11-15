@@ -1,8 +1,7 @@
 ---
 layout: home
 permalink: /
-image:
-  feature: main.jpg
+
 ---
 
 {% for post in site.posts %}
