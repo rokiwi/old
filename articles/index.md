@@ -20,11 +20,11 @@ image:
 	  {% endif %}
 	{% endunless %}
 
-	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	<div class="tiles">
+	  <!-- {% include post-grid.html %} -->
+	</div>
   {% endfor %}
 </ul>
 
-<!-- {% include post-grid.html %} -->
 
-<div class="tiles">
-</div>
+
