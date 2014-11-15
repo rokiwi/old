@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "New Zealand"
-categories: article
+categories: articles
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 ads: true
 share: false
