@@ -15,6 +15,8 @@ image:
   {% capture pyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
   {% if year != pyear %}  
     <h2 class="post-title">{{ post.date | date: '%b %Y' }}</h2>
+  {% else %}
+    <div style="height: 38px;"></div>
   {% endif %}
   
   <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
