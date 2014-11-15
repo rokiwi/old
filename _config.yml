@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Skinny Bones
-description: "A lightweight site starter for Jekyll"
+title: Rossana & Olivier in NZ
+description: "Blog about our journey in New Zeland"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -24,13 +24,13 @@ prose:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  name: Wouters	Olivier
+#  web: http://mademistakes.com
+#  email: michael@mademistakes.com
+#  twitter: mmistakes
+#  bio: "Just another boring, tattooed, time traveling designer."
+# avatar: bio-photo.jpg # 160x160 px image for author byline
+#  disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
