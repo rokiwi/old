@@ -11,7 +11,6 @@ image:
   feature: null
   teaser: null
   thumb: null
-published: false
 ---
 
 Salut Michel

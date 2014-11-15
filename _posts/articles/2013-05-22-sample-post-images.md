@@ -7,7 +7,6 @@ tags:
   - sample
   - images
   - test
-published: false
 ---
 
 ![jbnjk](/images/P9120398.JPG)

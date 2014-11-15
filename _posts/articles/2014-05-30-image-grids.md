@@ -12,7 +12,6 @@ image:
   teaser: branch-400x250.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
-published: false
 ---
 
 This is a post to test image grids.
