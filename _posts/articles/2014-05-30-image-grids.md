@@ -8,8 +8,10 @@ excerpt: "Demoing the various thumbnail grid styles."
 tags: []
 ads: true
 image:
-  feature:
-  teaser:
+  feature: branch-1600x800.jpg
+  teaser: branch-400x250.jpg
+  credit: Michael Rose
+  creditlink: http://mademistakes.com
 ---
 
 This is a post to test image grids.
