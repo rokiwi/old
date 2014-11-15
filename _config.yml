@@ -12,7 +12,7 @@ url: //rokiwi.github.io
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:title/
 markdown: kramdown
 highlighter: pygments
 gems:
