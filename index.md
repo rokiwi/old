@@ -8,6 +8,8 @@ image:
 <div class="tiles">
 {% for post in site.posts %}
 
+
+
 <article class="tile" itemscope itemtype="http://schema.org/Article">
   <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
   {% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
@@ -20,7 +22,7 @@ image:
 	{% capture pyear %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
 	{% if year != pyear %}
 	  
-	  <h2 class="post-title">{{ post.previous.date | date: '%b %Y' }}</h3>
+	  <h2 class="post-title">{{ post.previous.date | date: '%b %Y' }}</h2>
 
 	{% endif %}
   
