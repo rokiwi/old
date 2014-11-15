@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 gem "github-pages"
-gem "jekyll-sitemap"
+# gem "jekyll-sitemap"
 gem "sass"
 gem "bourbon"
 gem "neat"
