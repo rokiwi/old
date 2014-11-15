@@ -14,7 +14,7 @@ image:
   {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
   {% capture pyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
   {% if year != pyear %}  
-    <h2 class="post-title">{{ post.next.date | date: '%b %Y' }}</h2>
+    <h2 class="post-title">{{ post.date | date: '%b %Y' }}</h2>
   {% endif %}
   
   <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
