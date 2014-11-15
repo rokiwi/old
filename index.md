@@ -5,18 +5,18 @@ image:
   feature: main.jpg
 ---
 
-<ul>
-  {% for post in site.posts %}
-	{% unless post.next %}
-	  <h3>{{ post.date | date: '%b %Y' }}</h3>
-	{% else %}
-	  {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-	  {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-	  {% if year != nyear %}
-		<h3>{{ post.date | date: '%b %Y' }}</h3>
-	  {% endif %}
-	{% endunless %}
+<h3>Title 1</h3>
 
-	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<div class="tiles">
+{% for post in site.categories.articles %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<h3>Title 2</h3>
+
+<div class="tiles">
+{% for post in site.categories.articles %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
