@@ -5,7 +5,7 @@ image:
   feature: main.jpg
 ---
 
-<h3>Title 1</h3>
+<h3 style="clear: both" >Title 1</h3>
 
 <div class="tiles">
 {% for post in site.categories.articles %}
@@ -13,7 +13,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<h3>Title 2</h3>
+<h3 style="clear: both" >Title 2</h3>
 
 <div class="tiles">
 {% for post in site.categories.articles %}
