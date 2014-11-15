@@ -21,7 +21,7 @@ image:
 	{% endunless %}
 
 	<div class="tiles">
-	  <!-- {% include post-grid.html %} -->
+	  {% include post-grid.html %}
 	</div>
   {% endfor %}
 </ul>
