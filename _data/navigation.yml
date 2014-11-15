@@ -14,6 +14,16 @@
   url: /media/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
+  
+- title: Olivier
+  url: /olivier/
+  excerpt: "All about Olivier Wouters."
+  image: 400x250.gif
+  
+ - title: Rossana
+  url: /rossana/
+  excerpt: "All about Rossana Bacchetta."
+  image: 400x250.gif
 
 - title: About
   url: /about/
