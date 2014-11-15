@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Author Override
-author: billy_rick
+author: olivier
 modified: null
 categories: articles
 excerpt: A post to test author overrides using a data file.
