@@ -28,7 +28,7 @@ image:
 {% capture pyear %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
 {% if year != pyear %}
   </div><!-- /.tiles -->
-  <h3 style="clear: both">{{ post.date | date: '%b %Y' }}</h3>
+  <h3 style="clear: both">{{ post.previous.date | date: '%b %Y' }}</h3>
   <div class="tiles">
 {% endif %}
   
