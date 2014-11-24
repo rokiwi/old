@@ -5,7 +5,7 @@ categories: articles
 excerpt: A dummy article.
 author: olivier
 image: 
-  feature: maison 002.JPG
+  feature: maison20002.JPG
   teaser: P9120398.JPG
   credit: Wouters Olivier
 published: true
