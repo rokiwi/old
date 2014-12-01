@@ -14,6 +14,7 @@ sass:
   style: compressed
 permalink: /:categories/:year/:month/:title/
 markdown: kramdown
+encoding: "utf-8"
 highlighter: pygments
 gems:
   - jekyll-sitemap
