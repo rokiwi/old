@@ -32,7 +32,7 @@ owner:
 #  twitter: mmistakes
 #  bio: "Just another boring, tattooed, time traveling designer."
 # avatar: bio-photo.jpg # 160x160 px image for author byline
-#  disqus-shortname:
+  disqus-shortname: rokiwi
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
