@@ -20,10 +20,13 @@ image:
   {% endif %}
   
   <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
-  {% if post.image.teaser-ext %}<img src="{{ post.image.teaser }}" alt="teaser" itemprop="image">
-    {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}
-  {% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
-    {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
+  {% if post.image.teaser-ext %}<img src="{{ post.image.teaser-ext }}" alt="teaser" itemprop="image">
+  {% else %}
+    {% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
+      {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}
+  {% endif %}
+  </a>
+  
   {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
   {{ post.date | date: "%B %d, %Y" }}</time></p>
   {% endif %}  
