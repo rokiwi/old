@@ -3,7 +3,8 @@ layout: article
 title: "Christchurch"
 categories: articles
 tags: "christchurch, french"
-author: rossana
+image: 
+  teaser-ext: "https://farm9.staticflickr.com/8629/16145265705_5e2376edde.jpg"
 published: true
 ---
 
