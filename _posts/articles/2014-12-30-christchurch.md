@@ -12,6 +12,10 @@ Située à cheval sur la ceinture de Feu du Pacifique, Christchurch est fréquem
 
 <figure class="half">
   <img src="https://farm9.staticflickr.com/8599/15959548267_cf962e18c4_m.jpg">
+  <img src="https://farm8.staticflickr.com/7466/16144487532_ab071abe06_n.jpg">
+</figure>
+
+<figure class="half">
   <img src="https://farm8.staticflickr.com/7526/15959537297_bbb1d06fc4_m.jpg">
   <img src="https://farm8.staticflickr.com/7549/15522945504_f964f09f1b_m.jpg">
 </figure>
