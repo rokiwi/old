@@ -5,7 +5,7 @@ categories: articles
 tags: "Cromwell"
 image: 
   teaser-ext: ""
-published: true
+published: false
 ---
 
 
@@ -26,5 +26,3 @@ Le picker standard est soit Tchèque, soit Français et cueille entre 25 et 35 b
 Quand la packhouse est débordée, les pickers sont en congé. On en a profité pour visiter la région. Ce qu'on en retient: 
 * le lac Hawea [Wanaka]: balade en kayak sur le lac, ceux-ci aimablement prêtés par un autre campeur, rencontré 10 minutes plus tôt pendant qu'on faisait la vaisselle (merci Mike)
 * les Kawarau gorges [Gibbston]: bungee jumping (on ne l'a pas fait, le saut de seulement 43m coûtait 35 buckets), vignobles, le hérisson qui nous réveille en pleine nuit en défonçant notre poubelle "rangée" sous la voiture.
-
-<table style="width:194px;"><tr><td align="center" style="height:194px;background:url(https://www.gstatic.com/pwa/s/v/lighthousefe_20150128.00_p0/transparent_album_background.gif) no-repeat left"><a href="https://picasaweb.google.com/104897435834545155307/AuTempsDesCerises?authuser=0&authkey=Gv1sRgCPfT8pn34ZGRfg&feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-WP2i-gOmqZw/VNEjoogI21E/AAAAAAAAAEM/EEP987Jva84/s160-c/AuTempsDesCerises.jpg" width="160" height="160" style="margin:1px 0 0 4px;"></a></td></tr><tr><td style="text-align:center;font-family:arial,sans-serif;font-size:11px"><a href="https://picasaweb.google.com/104897435834545155307/AuTempsDesCerises?authuser=0&authkey=Gv1sRgCPfT8pn34ZGRfg&feat=embedwebsite" style="color:#4D4D4D;font-weight:bold;text-decoration:none;">Au Temps Des Cerises</a></td></tr></table>
