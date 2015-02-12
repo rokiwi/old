@@ -14,6 +14,9 @@ layout: default
 		{% endif %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
+    {% if page.album %} 
+      <h2><a href="{{ page.album }}"></a></h2>
+    {% end if %}
 		</div>
 		<div class="inner-wrap">
 			<nav class="toc"></nav><!-- /.toc -->
