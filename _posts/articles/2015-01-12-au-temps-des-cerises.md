@@ -4,7 +4,7 @@ title: "Au Temps Des Cerises"
 categories: articles
 tags: "Cromwell"
 image: 
-  teaser-ext: "https://picasaweb.google.com/104897435834545155307/AuTempsDesCerises?authkey=Gv1sRgCPfT8pn34ZGRfg#6111845904772317442"
+  teaser-ext: "http://lh6.ggpht.com/-ZhNQ0RaXpWY/VNGjd-vhQQI/AAAAAAAAAFU/GY5SNdtVr0k/s1280/IMG_0637.JPG"
 published: true
 album: "https://picasaweb.google.com/104897435834545155307/AuTempsDesCerises?authkey=Gv1sRgCPfT8pn34ZGRfg"
 ---
