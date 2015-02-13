@@ -26,7 +26,7 @@ C'est ainsi que notre nouvelle unité monétaire est devenue le seau (‘bucket�
 
 Le picker standard est soit Tchèque, soit Français et cueille entre 25 et 35 buckets répartis entre 6h30 et 15h. Chaque cerise non conforme peut être consommée mais, attention, l'ingestion excessive entraîne une perturbation du système digestif avec, pour effet, des gaz nauséabonds (le mot est faible, heureusement qu'on travaille en plein air).
 
-{% include image.html url="http://lh4.ggpht.com/-VdqwAccToRc/VN2ytvIs0PI/AAAAAAAAAkM/AgUWU2jWFYY/s1280/upload_-1.jpg" caption="Les cerises de Out Off Our Tree" %}
+{% include image.html url="http://lh4.ggpht.com/-VdqwAccToRc/VN2ytvIs0PI/AAAAAAAAAkM/AgUWU2jWFYY/s1280/upload_-1.jpg" caption="Les cerises de Off Our Tree" %}
 
 Quand la packhouse est débordée, les pickers sont en congé. On en a profité pour visiter la région. Ce qu'on en retient: 
 * le lac Hawea [Wanaka]: balade en kayak sur le lac, ceux-ci aimablement prêtés par un autre campeur, rencontré 10 minutes plus tôt pendant qu'on faisait la vaisselle (merci Mike)
@@ -34,9 +34,7 @@ Quand la packhouse est débordée, les pickers sont en congé. On en a profité 
 
 {% include image.html url="http://lh4.ggpht.com/-IwrQnWYzW6E/VNxRuvsBTNI/AAAAAAAAAi0/H1kpcSqiSmQ/s1280/upload_-1.jpg" caption="Lac Hawea" %}
 
-{% include image.html url="http://lh5.ggpht.com/-OlflLWjcku4/VN23MxyIEPI/AAAAAAAAAkg/qNy3mKztX-s/s1280/upload_-1.jpg" caption="Petite lessive à Cromwell" %}
-
 {% include image.html url="http://lh4.ggpht.com/-yhipqDeYh0w/VN25_fDF6NI/AAAAAAAAAks/5FqswZKlWbY/s1280/upload_-1.jpg" caption="Lac Hawea" %}
 
-{% include image.html url="http://lh5.ggpht.com/-Ljir7Vj3oh0/VN28FVfO1mI/AAAAAAAAAk4/Q0Mq37WF5c0/s1280/upload_-1.jpg" caption="Devinez quels pieds vont dans quelles sandales :)" %}
+{% include image.html url="http://lh5.ggpht.com/-Ljir7Vj3oh0/VN28FVfO1mI/AAAAAAAAAk4/Q0Mq37WF5c0/s1280/upload_-1.jpg" caption="Petit jeu : devinez quels pieds vont dans quelles sandales :)" %}
 
