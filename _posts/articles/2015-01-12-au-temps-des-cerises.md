@@ -38,5 +38,5 @@ Quand la packhouse est débordée, les pickers sont en congé. On en a profité 
 
 {% include image.html url="http://lh4.ggpht.com/-yhipqDeYh0w/VN25_fDF6NI/AAAAAAAAAks/5FqswZKlWbY/s1280/upload_-1.jpg" caption="Lac Hawea" %}
 
-{% include image.html url="http://lh5.ggpht.com/-Ljir7Vj3oh0/VN28FVfO1mI/AAAAAAAAAk4/Q0Mq37WF5c0/s1280/upload_-1.jpg" caption="Devinez quels pieds vont dans quelles sandale :)" %}
+{% include image.html url="http://lh5.ggpht.com/-Ljir7Vj3oh0/VN28FVfO1mI/AAAAAAAAAk4/Q0Mq37WF5c0/s1280/upload_-1.jpg" caption="Devinez quels pieds vont dans quelles sandales :)" %}
 
