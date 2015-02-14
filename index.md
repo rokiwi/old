@@ -8,7 +8,7 @@ image:
 <div class="tiles">
 {% for post in site.posts %}
 
-{% if post.tags contains not 'English' %}
+{% if post.tags contains 'English' == false %}
 
 <article class="tile" itemscope itemtype="http://schema.org/Article">
   {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
