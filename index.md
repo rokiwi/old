@@ -32,12 +32,7 @@ image:
   {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
   {{ post.date | date: "%B %d, %Y" }}</time></p>
   {% endif %}  
-
-  {% if post.translation %}
-    <a href="{% post_url test %}">English</a>
-  {% endif %}
   
-
   <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </article><!-- /.tile -->
