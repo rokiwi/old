@@ -2,7 +2,7 @@
 layout: article
 title: "A Week Off (vo)"
 categories: articles
-tags: "Lake Alexandrina"
+tags: ["Lake Alexandrina", French]
 image: 
   teaser-ext: ""
 published: false
