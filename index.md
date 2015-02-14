@@ -34,7 +34,7 @@ image:
   {% endif %}  
 
   {% if post.translation %}
-    <a href="{% post_url post.translation %}">English</a>
+    <a href="{{ post.translation }}">English</a>
   {% endif %}
   
 
