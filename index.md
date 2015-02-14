@@ -34,7 +34,7 @@ image:
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </article><!-- /.tile -->
 
-{℅ endif ℅}
+{% endif %}
   
 {% endfor %}
 </div><!-- /.tiles -->
