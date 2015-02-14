@@ -27,11 +27,11 @@ We spent our first night in a DOC campsite, cheap, wild and handled by the Depar
 
 {% include image.html url="http://lh5.ggpht.com/-Lsbu94YtElM/VNxRik_2PYI/AAAAAAAAAg4/W1aaQfh8X4E/s1280/upload_-1.jpg" caption="Lake Ohau" %}
 
-{% include image.html url="http://lh4.ggpht.com/-iW2bHqnM-j8/VNxRlepGlmI/AAAAAAAAAhA/-An51NoXSS4/s1280/upload_-1.jpg" caption="Lake Ohau - Premier camping du DOC" %}
+{% include image.html url="http://lh4.ggpht.com/-iW2bHqnM-j8/VNxRlepGlmI/AAAAAAAAAhA/-An51NoXSS4/s1280/upload_-1.jpg" caption="Lake Ohau - First DOC camp site" %}
 
-{% include image.html url="http://lh4.ggpht.com/-4kdyMQr_rQw/VNxR6s7B1KI/AAAAAAAAAho/9W-H3mFAlSE/s1280/upload_-1.jpg" caption="Lake Ohau - Cirque de North Temple Valley" %}
+{% include image.html url="http://lh4.ggpht.com/-4kdyMQr_rQw/VNxR6s7B1KI/AAAAAAAAAho/9W-H3mFAlSE/s1280/upload_-1.jpg" caption="Lake Ohau - North Temple Valley cirque" %}
 
-{% include image.html url="http://lh6.ggpht.com/-feHuKVDGwP8/VNxRx8EeyXI/AAAAAAAAAhg/4TqE9X1WgqE/s1280/upload_-1.jpg" caption="Lake Ohau - Deuxième camping du DOC" %}
+{% include image.html url="http://lh6.ggpht.com/-feHuKVDGwP8/VNxRx8EeyXI/AAAAAAAAAhg/4TqE9X1WgqE/s1280/upload_-1.jpg" caption="Lake Ohau - Second DOC camp site" %}
 
 {% include image.html url="http://lh6.ggpht.com/-gDwiuuom-5Y/VNxRreys1MI/AAAAAAAAAhQ/F9Mq44rL3I8/s1280/upload_-1.jpg" caption="Clay Cliffs" %}
 
