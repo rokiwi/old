@@ -14,6 +14,11 @@ La Nouvelle Zélande est réputée pour ses activités à forte décharge d'adr�
 
 Le chemin le plus court n'est pas toujours le plus rapide. On a choisit le plus court, Dansey's Pass: un col de 50 km de route en gravier, 1h30 de conduite, heureusement que notre "destrier" a tenu bon.
 
-Petite escapade géologique: elephants rocks.
+Petite escapade géologique: Elephants Rocks.
 
-Sur le conseil de Sue (voir article précédent), on passe la nuit à Kakanui, plage de surfeurs et coucher de soleil.
+Sur le conseil de Sue (voir article précédent), on passe la nuit à Kakanui, plage de surfeurs et coucher de soleil. La petite ville d'Oamaru nous a bien plu: anciens bâtiments en pierre calcaire, des colonies de pingouins, une vraie boulangerie (ça manque à l'étranger ! !), une fromagerie (ça manque aussi en Nouvelle Zélande) et un grand jardin botanique. On a été observer les pingouins antipodes (yellow-eyed Penguins) au coucher du soleil, quand ils rentrent à leur nid. On se "cache" en haut de la plage et on peut les voir de loin: ce sont des petites créatures timides, vite dérangées par les touristes.
+
+Deuxième escapade géologique : les Moeraki Boulders, une collection de pierre presque parfaitement sphériques. Plus d'infos. 
+
+Après s'être arrêté à Shag Point pour observer une colonie de phoques (fur seal), dernier stop: Trotters Gorge. Fidèles à leur réputation, les membres de la Motorvan Company sont toujours aussi attentionnés. On 
+
