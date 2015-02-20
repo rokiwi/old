@@ -20,5 +20,14 @@ Sur le conseil de Sue (voir article précédent), on passe la nuit à Kakanui, p
 
 Deuxième escapade géologique : les Moeraki Boulders, une collection de pierre presque parfaitement sphériques. Plus d'infos. 
 
-Après s'être arrêté à Shag Point pour observer une colonie de phoques (fur seal), dernier stop: Trotters Gorge. Fidèles à leur réputation, les membres de la Motorvan Company sont toujours aussi attentionnés. On 
+Après s'être arrêté à Shag Point pour observer une colonie de phoques (fur seal), dernier stop de la journee: Trotters Gorge. Fidèles à leur réputation, les membres de la Motorvan Company sont toujours aussi attentionnés. Après s'être inquiétés plusieurs fois si on avait assez d'eau potable, pas trop froid à l'extérieur et si on avait suffisamment à manger, nos voisins de la Motorvan Company nous on finalement offert des fraises pour le petit déjeuner, en échange d'un scone fraichement cuit.
+
+En continuant à longer la côte Est, on passe par Port Chalmers et la péninsule d'Aramoana. Un bébé lion de mer a élu domicile à côté de notre camping, heureusement qu'on n'a pas vu sa maman :) [il paraitrait qu'elle fait parfois son footing derrière des campeurs]
+
+Escapade citadine: la ville universitaire de Dunedin. Squat du wifi de la bibliothèque et visite rapide de la ville. ...Encore des pingouins et des lions de mer à Sandfly Bay... ;)
+
+Dernier arrêt avant notre prochain wwoofing: Laurence. On a malheureusement loupé de quelques heures le rodéo annuel du village donc on s'est rattrapé sur les vestiges de la ruée vers l'or.
+
+
+
 
