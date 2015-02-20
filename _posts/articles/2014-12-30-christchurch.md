@@ -5,6 +5,7 @@ categories: articles
 tags: "christchurch, french"
 image: 
   teaser-ext: "https://farm9.staticflickr.com/8629/16145265705_5e2376edde.jpg"
+album: "https://picasaweb.google.com/104897435834545155307/Christchurch02?authkey=Gv1sRgCPehg6OFqtOggQE"
 published: true
 ---
 
