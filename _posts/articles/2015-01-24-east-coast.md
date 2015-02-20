@@ -3,6 +3,9 @@ layout: article
 title: "East Coast"
 categories: articles
 tags: "Oamaru"
+image: 
+  teaser-ext: " http://lh6.ggpht.com/-lNSZRszsoB0/VOb5i5TcbNI/AAAAAAAABG0/zaml7vqi5fk/s1280/upload_-1.jpg "
+album: " https://picasaweb.google.com/104897435834545155307/EastCoast?authkey=Gv1sRgCLa176_kxdKmWQ "
 published: true
 ---
 
@@ -30,7 +33,15 @@ Sur le conseil de Sue (voir article précédent), on passe la nuit à Kakanui, p
 
 Deuxième escapade géologique : les Moeraki Boulders, une collection de pierre presque parfaitement sphériques. Plus d'infos. 
 
+{% include image.html url=" http://lh4.ggpht.com/-6c4IR06vsKg/VOeYxdv3JvI/AAAAAAAACDo/UxK3GhEXXGg/s1280/upload_-1.jpg " caption="Moeraki Boulders" %}
+
+{% include image.html url=" http://lh3.ggpht.com/-60ZiZr3FMeM/VOeYzpf9K8I/AAAAAAAACDw/Q2zGYQxvFro/s1280/upload_-1.jpg " caption="Moeraki Village" %}
+
 Après s'être arrêté à Shag Point pour observer une colonie de phoques (fur seal), dernier stop de la journee: Trotters Gorge. Fidèles à leur réputation, les membres de la Motorvan Company sont toujours aussi attentionnés. Après s'être inquiétés plusieurs fois si on avait assez d'eau potable, pas trop froid à l'extérieur et si on avait suffisamment à manger, nos voisins de la Motorvan Company nous on finalement offert des fraises pour le petit déjeuner, en échange d'un scone fraichement cuit.
+
+{% include image.html url=" http://lh5.ggpht.com/-BWPGZBMJ_E0/VOeY21D6SOI/AAAAAAAACEA/gje3jZlMUvg/s1280/upload_-1.jpg " caption="Shag Point" %}
+
+{% include image.html url=" http://lh4.ggpht.com/-rvUcn1Sej6I/VOeY1eYHb3I/AAAAAAAACD4/hhcJFgc2rIk/s1280/upload_-1.jpg " caption="Shag Point" %}
 
 En continuant à longer la côte Est, on passe par Port Chalmers et la péninsule d'Aramoana. Un bébé lion de mer a élu domicile à côté de notre camping, heureusement qu'on n'a pas vu sa maman :) [il paraitrait qu'elle fait parfois son footing derrière des campeurs]
 
@@ -38,6 +49,6 @@ Escapade citadine: la ville universitaire de Dunedin. Squat du wifi de la biblio
 
 Dernier arrêt avant notre prochain wwoofing: Laurence. On a malheureusement loupé de quelques heures le rodéo annuel du village donc on s'est rattrapé sur les vestiges de la ruée vers l'or.
 
-
+{% include image.html url=" http://lh4.ggpht.com/-BIYNPbCmv7g/VOeYvm8qkCI/AAAAAAAACDg/p2fNZMjoGTE/s1280/upload_-1.jpg " caption="Glencoe DOC campsite et bain dans la rivière" %}
 
 
