@@ -10,7 +10,7 @@ Pour fêter la fin de la saison des cerises, Gary, notre patron, a offert un bbq
 
 On traverse le central Otago réputé pour son climat extrême. Il paraîtrait qu'il fait tellement froid en hiver que les pies tombent des arbres, congelées. Toutefois, c'est sous un soleil de plomb (Pb) que nous avons visité d'anciennes mines d'or (Au). 
 
-{% include image.html url=" https://picasaweb.google.com/104897435834545155307/EastCoast?authkey=Gv1sRgCLa176_kxdKmWQ#6118026376550702226 " caption="Blue Lake et le camping de St Bathans" %}
+{% include image.html url="https://picasaweb.google.com/104897435834545155307/EastCoast?authkey=Gv1sRgCLa176_kxdKmWQ#6118026376550702226" caption="Blue Lake et le camping de St Bathans" %}
 
 
 
