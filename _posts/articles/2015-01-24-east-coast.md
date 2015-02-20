@@ -12,15 +12,21 @@ On traverse le central Otago réputé pour son climat extrême. Il paraîtrait q
 
 {% include image.html url=" http://lh5.ggpht.com/-VAxyF3Cw4fc/VOeYkyTGXJI/AAAAAAAACC4/yGLQadiazbE/s1280/upload_-1.jpg " caption="Blue Lake et le camping de St Bathans" %}
 
-
-
 La Nouvelle Zélande est réputée pour ses activités à forte décharge d'adrénaline (bungee jumping, skydiving, parapente, etc) mais aussi pour le curling, dont on a traversé la capitale, Naseby (environ 500 habitants) en plein weekend de championnat. C'était malgré tout, un peu beaucoup trop peu calme... 
 
 Le chemin le plus court n'est pas toujours le plus rapide. On a choisit le plus court, Dansey's Pass: un col de 50 km de route en gravier, 1h30 de conduite, heureusement que notre "destrier" a tenu bon.
 
+{% include image.html url=" http://lh3.ggpht.com/-qUJYs-xhnho/VOeYmiM9gdI/AAAAAAAACDA/vzSp6TxGQNY/s1280/upload_-1.jpg " caption="Dansey's Pass" %}
+
 Petite escapade géologique: Elephants Rocks.
 
+{% include image.html url=" http://lh5.ggpht.com/-xtNo_hYopx0/VOeYqTkggrI/AAAAAAAACDI/qBZiJTJVSi8/s1280/upload_-1.jpg " caption="Elephants Rocks" %}
+
 Sur le conseil de Sue (voir article précédent), on passe la nuit à Kakanui, plage de surfeurs et coucher de soleil. La petite ville d'Oamaru nous a bien plu: anciens bâtiments en pierre calcaire, des colonies de pingouins, une vraie boulangerie (ça manque à l'étranger ! !), une fromagerie (ça manque aussi en Nouvelle Zélande) et un grand jardin botanique. On a été observer les pingouins antipodes (yellow-eyed Penguins) au coucher du soleil, quand ils rentrent à leur nid. On se "cache" en haut de la plage et on peut les voir de loin: ce sont des petites créatures timides, vite dérangées par les touristes.
+
+{% include image.html url=" http://lh6.ggpht.com/-BR6r8QbYgnc/VOeYsNiCFkI/AAAAAAAACDQ/nRszwDBivuc/s1280/upload_-1.jpg " caption="Oamaru" %}
+
+{% include image.html url=" http://lh3.ggpht.com/-5xKq-d3xHiY/VOeYtykA5-I/AAAAAAAACDY/-Dgiwl2j34Q/s1280/upload_-1.jpg " caption="Pingouins Antipodes" %}
 
 Deuxième escapade géologique : les Moeraki Boulders, une collection de pierre presque parfaitement sphériques. Plus d'infos. 
 
