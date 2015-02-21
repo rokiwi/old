@@ -47,13 +47,13 @@ En continuant à longer la côte Est, on passe par Port Chalmers et la péninsul
 
 Escapade citadine: la ville universitaire de Dunedin. Squat du wifi de la bibliothèque et visite rapide de la ville. ...Encore des pingouins et des lions de mer à Sandfly Bay... ;)
 
-{% include image.html url="" caption="Dunedin" %}
+{% include image.html url=" http://lh6.ggpht.com/-8Y7KH9BLsf4/VOjV3LMlMRI/AAAAAAAACHE/YJjaJzGS2ak/s1280/upload_-1.jpg " caption="Dunedin" %}
 
-{% include image.html url="" caption="Sandfly Bay" %}
+{% include image.html url=" http://lh4.ggpht.com/-LsN8qQjKcjg/VOjVmuyRIoI/AAAAAAAACGs/dGOBvgG_NxI/s1280/upload_-1.jpg " caption="Sandfly Bay" %}
 
 Dernier arrêt avant notre prochain wwoofing: Laurence. On a malheureusement loupé de quelques heures le rodéo annuel du village donc on s'est rattrapé sur les vestiges de la ruée vers l'or.
 
-{% include image.html url="" caption="Clutha River" %}
+{% include image.html url=" http://lh5.ggpht.com/-9cF0M2La44E/VOjVyf3Xe8I/AAAAAAAACG8/Y7K6BvGr26s/s1280/upload_-1.jpg " caption="Clutha River" %}
 
 {% include image.html url=" http://lh4.ggpht.com/-BIYNPbCmv7g/VOeYvm8qkCI/AAAAAAAACDg/p2fNZMjoGTE/s1280/upload_-1.jpg " caption="Glencoe DOC campsite et bain dans la rivière" %}
 
