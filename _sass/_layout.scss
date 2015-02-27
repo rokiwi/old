@@ -245,7 +245,7 @@
 		background-size: cover;
 	}
  svg {
-   preserveAspectRatio: none;
+   viewbox: none !important;
    width: 100%;
  }
 }
