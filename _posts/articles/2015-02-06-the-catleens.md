@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The catlins"
+title: "The Catlins"
 categories: articles
 tags: "Papatowai"
 image: 

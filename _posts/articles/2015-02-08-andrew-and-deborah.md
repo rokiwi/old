@@ -4,7 +4,7 @@ title: "Andrew and Deborah"
 categories: articles
 tags: "Tuetapere"
 image: 
-  teaser-ext: " https://picasaweb.google.com/104897435834545155307/AndrewAndDeborah?authkey=Gv1sRgCMb35NeLuOTNDw#6117868358899302530 "
+  teaser-ext: " http://lh6.ggpht.com/-5Cvpd4xZBCs/VOcI28rLgII/AAAAAAAABpc/oiqv-PYG2q4/s1280/upload_-1.jpg "
 album: " https://picasaweb.google.com/104897435834545155307/AndrewAndDeborah?authkey=Gv1sRgCMb35NeLuOTNDw "
 published: true
 ---
