@@ -244,6 +244,10 @@
 	@include media($large) {
 		background-size: cover;
 	}
+ svg {
+   preserveAspectRatio="none";
+   width="100%"
+ }
 }
 .page-lead-content {
 	padding: 1em;
