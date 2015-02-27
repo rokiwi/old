@@ -1,8 +1,6 @@
 ---
 layout: home
 permalink: /
-image:
-  feature: http://upload.wikimedia.org/wikipedia/commons/8/8b/NZ_fern_flag.svg
 ---
 
 <div class="tiles">
