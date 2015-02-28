@@ -17,6 +17,7 @@ Dans cet emploi du temps surchargé, toute aide est bienvenue... Et c'est là qu
 
 {% include image.html url=" http://lh4.ggpht.com/-YmrfrCW1lIU/VO_Uj9AFv_I/AAAAAAAACKE/3Km0Jqlul5E/s1280/upload_-1.jpg " caption="Véhicule de fonction" %}
 
+<iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEZXAyVVFGNEVFdUk/preview" width="640" height="480"></iframe>
 
 En cuisine, on assiste Hitomi, une co-wwoofeuse,de nationalité japonaise. Au menu, boulangerie (on a même préparé de véritables croissants!), soupes mijotées, pizzas, plum sauce... On promène aussi le kiki de la maison qui s'avère avoir des gènes de chien de ferme. Vu sa quantité de poils, ce n'est pas une super idée et on s'est donc essayé, sans grand succès, au toilettage canin. Hitomi a été remplacée par 3 Français, fans de Dikkenek.
 
