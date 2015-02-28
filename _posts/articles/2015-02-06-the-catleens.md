@@ -19,6 +19,13 @@ Kaka Point, navré de décevoir ceux qui ont l'humour d'un gosse de 10 ans mais 
 
 {% include image.html url=" http://lh6.ggpht.com/-7AfadZj3DqA/VOjV_Khh6nI/AAAAAAAACHU/BR18gNc8v88/s1280/upload_-1.jpg " caption="Jacks Bay" %}
 
+<figure>
+<iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEWTk5UHpnSVhYWDg/preview" width="640" height="480"></iframe>
+<figcaption>
+Jack's hole
+</figcaption>
+</figure>
+
 Détour par les cascades les plus photographiées de NZ, Purakaunui Falls, avant de s'étendre sous les étoiles du Purakaunui Bay Campsite.
 
 {% include image.html url=" http://lh5.ggpht.com/-lncfnlAPF-o/VOjWMt3icQI/AAAAAAAACHo/jKSynFPZ8JI/s1280/upload_-1.jpg " caption="Purakaunui Falls" %}
