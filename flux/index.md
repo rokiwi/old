@@ -9,7 +9,7 @@ layout: default
   {% continue %}
 {% endif %}
 
-<article class="tile" itemscope itemtype="http://schema.org/Article">
+<article itemscope itemtype="http://schema.org/Article">
 
   <h2 class="post-title" itemprop="name"></h2>
   
