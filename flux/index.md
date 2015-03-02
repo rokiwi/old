@@ -11,7 +11,7 @@ layout: default
 
 <article itemscope itemtype="http://schema.org/Article">
 
-  <h2 class="post-title" itemprop="name"></h2>
+  <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
   
   <div> {{ post.content }} </div>
 
