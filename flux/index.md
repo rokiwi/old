@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="tiles">
+<div>
 {% for post in site.posts %}
 
 {% if post.tags contains 'English' %}
@@ -15,8 +15,8 @@ layout: default
   
   <div> {{ post.content }} </div>
 
-</article><!-- /.tile -->
+</article>
   
 {% endfor %}
-</div><!-- /.tiles -->
+</div>
 
