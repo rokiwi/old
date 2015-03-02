@@ -8,7 +8,7 @@ layout: home
   {% continue %}
 {% endif %}
 
-	<article>
+	<article itemscope itemtype="http://schema.org/Article">
 		<div class="page-title">
 			<h1>{{ post.title }}</h1>
 		</div>
