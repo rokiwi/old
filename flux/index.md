@@ -11,8 +11,10 @@ layout: default
 
 <article class="tile" itemscope itemtype="http://schema.org/Article">
 
-  <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-  <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+  <h2 class="post-title" itemprop="name"></h2>
+  
+  <div> {{ post.content }} </div>
+
 </article><!-- /.tile -->
   
 {% endfor %}
