@@ -7,7 +7,7 @@ layout: home
 
 {% if post.tags contains 'English' %}
   {% continue %}
-{% endif
+{% endif %}
 
 <article class="tile" itemscope itemtype="http://schema.org/Article">
   {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
