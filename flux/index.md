@@ -10,33 +10,13 @@ layout: home
 {% endif %}
 
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
 		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-    {% if page.album %} 
-      <h2><a href="{{ page.album }}">Album Photo</a></h2>
-    {% endif %}
+			<h1>{{ post.title }}</h1>
 		</div>
 		<div class="inner-wrap">
-			<nav class="toc"></nav><!-- /.toc -->
 			<div id="content" class="page-content" itemprop="articleBody">
-				{{ content }}
+				{{ post.content }}
 				<hr />
-				<footer class="page-footer">
-					{% include page-meta.html %}
-				</footer><!-- /.footer -->
-				<aside>
-					{% if page.comments == null or page.comments == true %}
-					  {% include comments.html %}
-					{% endif %}
-				</aside>
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
 	</article><!-- ./wrap -->
