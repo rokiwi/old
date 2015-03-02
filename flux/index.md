@@ -1,4 +1,7 @@
---- layout: default --- 
+--- 
+layout: default
+--- 
+
 {% for post in site.posts %} 
 
 {% if post.tags contains 'English' %} 
