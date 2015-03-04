@@ -14,7 +14,7 @@ Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a 
 
 ### La route en gravier qui s'enfonce le plus loin dans les terres du Fjordland : *Borland Road*
 
-## Le lac avec le plus de sandflies : *South Arm of Lake Manapouri*
+### Le lac avec le plus de sandflies : *South Arm of Lake Manapouri*
 
 ### La rando qui nous a coûtée le plus chère : *Circle track à Manapouri*
 
