@@ -10,7 +10,9 @@ image:
 published: true
 ---
 
-Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a pas mal roulé et fait beaucoup de randos dans des décors à couper le souffle. Quelques records:
+Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a pas mal roulé et fait beaucoup de randos dans des décors à couper le souffle. 
+
+### Quelques records:
 
 * Le pont en bois le plus long de l'île du Sud : *Clifden Suspension Bridge*
 
@@ -24,7 +26,9 @@ Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a 
 
 {% include image.html url="http://lh3.ggpht.com/-MFAk1SohrBA/VPfBo7fcTrI/AAAAAAAAC6c/RvMQ7f4ln4w/s1280/upload_-1.jpg" caption="Végétation" %}
 
-{% include image.html url="http://lh3.ggpht.com/-rGYdNQDEkYA/VPfBmBcjDbI/AAAAAAAAC6U/bCcFCWFlmso/s1280/upload_-1.jpg" caption="Rouge-gorge néo-zelandais, toutouwai, peu farouche" %}
+* L'oiseau le moins farouche de NZ : *Le toutouwai*
+
+{% include image.html url="http://lh3.ggpht.com/-rGYdNQDEkYA/VPfBmBcjDbI/AAAAAAAAC6U/bCcFCWFlmso/s1280/upload_-1.jpg" caption="Rouge-gorge néo-zelandais ou toutouwai" %}
 
 
 * La route en gravier qui s'enfonce le plus loin dans les terres du Fjordland : *Borland Road*
