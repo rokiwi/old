@@ -1,4 +1,4 @@
----
+h---
 layout: article
 title: "A Week Off (vo)"
 categories: articles
@@ -36,4 +36,4 @@ We spent our first night in a DOC campsite, cheap, wild and handled by the Depar
 
 {% include image.html url="http://lh6.ggpht.com/-gDwiuuom-5Y/VNxRreys1MI/AAAAAAAAAhQ/F9Mq44rL3I8/s1280/upload_-1.jpg" caption="Clay Cliffs" %}
 
-Arrival : Clyde et its cherry orchards.
+Arrival : Clyde and its cherry orchards.
