@@ -30,6 +30,7 @@ Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a 
 
 {% include image.html url="http://lh3.ggpht.com/-rGYdNQDEkYA/VPfBmBcjDbI/AAAAAAAAC6U/bCcFCWFlmso/s1280/upload_-1.jpg" caption="Rouge-gorge néo-zelandais ou toutouwai" %}
 
+<iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEckRHdG91bjVjRlE/preview" width="640" height="480"></iframe>
 
 * La route en gravier qui s'enfonce le plus loin dans les terres du Fjordland : *Borland Road*
 
