@@ -5,7 +5,7 @@ categories: articles
 tags: "Milford Sound"
 date-begin: 2015-02-18
 date-end: 2015-02-25
-published: false
+published: true
 ---
 
 Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a pas mal roulé et fait beaucoup de randos dans des décors à couper le souffle. Quelques records:
