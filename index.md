@@ -32,7 +32,7 @@ permalink: /
   {% endif %}  
   
   {% if post.translation %}
-    <a href="{% post_url /articles/2015-01-11-sue-nev-vo %}">English</a>
+    <a href="{{ post.translation }}">English</a>
   {% endif %}
 
   <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
