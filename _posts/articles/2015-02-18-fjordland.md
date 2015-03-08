@@ -68,3 +68,6 @@ Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a 
 
 {% include image.html url="http://lh4.ggpht.com/-sAbm_S1yeRg/VPfBFt7-eCI/AAAAAAAAC48/hIfo0idWCGs/s1280/upload_-1.jpg" caption="Lac Hauroko" %}
 
+<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/8708662.js"></script>
+<noscript><a href="http://polldaddy.com/poll/8708662/">Ça vous dit de répondre à des petites questions (marrantes) de temps en temps ?</a></noscript>
+
