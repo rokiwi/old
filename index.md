@@ -42,7 +42,4 @@ permalink: /
 {% endfor %}
 </div><!-- /.tiles -->
 
-<div>
-<script language="JavaScript" src="http://www.questionpro.com/a/TakePoll?pollID=4146507"></script><noscript><a href="http://www.questionpro.com" title="online survey">Online Survey</a></noscript>
-</div>
 
