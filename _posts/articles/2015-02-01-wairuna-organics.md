@@ -17,7 +17,7 @@ La demande en main d'œuvre est élevée, Shaun peut donc loger jusqu'à 10 wwoo
 
 - Magdalena: l'exubérante Argentine
 - Simon: le Français qui prenait un an de pause (une césure quoi, mot que tout bon belge emploie souvent ;) ) pendant ses études d'ingénieur agronome
-- Axel: l'ancien 'Marine' Américain qui "grignote" des oeufs cuits dures à toute heure
+- Axel: l'ancien 'Marine' Américain qui "grignote" des oeufs cuits durs à toute heure
 - Sarah: Ingénieur ayant travaillé 2 ans à la reconstruction de Christchurch, se tâtant sur son retour en France
 - Massa: le jeune Japonais fraîchement débarqué en NZ avec une bouteille d'excellent saké dans ses bagages
 
