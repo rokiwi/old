@@ -7,7 +7,7 @@ date-begin: 2015-02-18
 date-end: 2015-02-25
 image: 
   teaser-ext: "http://lh3.ggpht.com/-aglojgKaOuM/VPfAVU7idJI/AAAAAAAAC4k/WDkdQ-FFJ3M/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/SherryAndJeff?locked=true"
+album: "https://picasaweb.google.com/104897435834545155307/Fjordland?locked=true"
 published: true
 ---
 
