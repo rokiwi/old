@@ -20,5 +20,5 @@ published: true
 
 {% include image.html url="http://lh4.ggpht.com/-hC-QZFwWo50/VPwT5iGdxNI/AAAAAAAADNw/AEffhnlzwCE/s1280/upload_-1.jpg" caption="Les 9 vaches à lait (du dessus à gauche à en bas à droite) : Pinkletoe, Socks, Rosie, Monka, Rosemary, Little Red, Lucy, Poppy, Tulip" %}
 
-{% include image.html url="http://lh4.ggpht.com/-hC-QZFwWo50/VPwT5iGdxNI/AAAAAAAADNw/AEffhnlzwCE/s1280/upload_-1.jpg" caption="Southland Coast" %}
+{% include image.html url="http://lh5.ggpht.com/-QwXXvNas0tc/VPwT8SanNeI/AAAAAAAADN4/UkmnrbszT9k/s1280/upload_-1.jpg" caption="Southland Coast" %}
 
