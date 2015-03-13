@@ -2,13 +2,13 @@
 layout: article
 title: "Le Fjordland"
 categories: articles
-tags: "Milford Sound"
+tags: ["Milford Sound", English]
 date-begin: 2015-02-18
 date-end: 2015-02-25
 image: 
   teaser-ext: "http://lh3.ggpht.com/-aglojgKaOuM/VPfAVU7idJI/AAAAAAAAC4k/WDkdQ-FFJ3M/s1280/upload_-1.jpg"
 album: "https://plus.google.com/photos/104897435834545155307/albums/6121920856713170433?authkey=CIrR7oLl_J-kigE"
-published: false
+published: true
 ---
 
 Like everybody we wanted to visit Fiordland and its famous Milford sound. We drove and hiked a lot in magic sceneries.

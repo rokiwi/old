@@ -6,6 +6,7 @@ tags: "Tuatapere"
 image: 
   teaser-ext: " http://lh6.ggpht.com/-5Cvpd4xZBCs/VOcI28rLgII/AAAAAAAABpc/oiqv-PYG2q4/s1280/upload_-1.jpg "
 album: " https://picasaweb.google.com/104897435834545155307/AndrewAndDeborah?authkey=Gv1sRgCMb35NeLuOTNDw "
+translation: "/articles/2015/02/andrew-and-deborah-vo"
 published: true
 ---
 

@@ -2,11 +2,11 @@
 layout: article
 title: "Andrew and Deborah"
 categories: articles
-tags: "Tuatapere"
+tags: ["Tuatapere", English]
 image: 
   teaser-ext: " http://lh6.ggpht.com/-5Cvpd4xZBCs/VOcI28rLgII/AAAAAAAABpc/oiqv-PYG2q4/s1280/upload_-1.jpg "
 album: " https://picasaweb.google.com/104897435834545155307/AndrewAndDeborah?authkey=Gv1sRgCMb35NeLuOTNDw "
-published: false
+published: true
 ---
 
 Is it possible to be a farmer and an IT specialist at the same time? We found a true example with Andrew, our new woof host. With his wife, Deborah, they bought a farm of 100 hectares 2 years ago. He's raising young milk cattle and sheep for other farmers. As you may noticed, he's also a software developer. She's a full-time school teacher. Two children's complete the family: Guy, Minecraft addict and Eva, a princess who knows what she wants; and a small doggy, Daisy (but we called her Chouchou!)
