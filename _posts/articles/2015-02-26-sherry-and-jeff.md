@@ -8,7 +8,7 @@ date-end: 2015-03-09
 image: 
   teaser-ext: "http://lh4.ggpht.com/-7NTv5HPPmH8/VPujsKKIcdI/AAAAAAAADB0/mXyZuivmRro/s1280/upload_-1.jpg"
 translation: "/articles/2015/02/sherry-and-jeff-vo"
-published: false
+published: true
 ---
 
 En route pour le woofing suivant, on longe la côte Sud depuis le Fjordland jusqu'à Invercargill. Parmi les curiosités du coin, une plage de pierres polies et Monkey Island, un "gros caillou" accessible à marée basse, d'où les Maori observaient le passage des baleines... On n'a malheureusement vu que des mouettes... 
@@ -30,6 +30,9 @@ La journée commence par la traite. On prépare les rations, on lance la balle p
 {% include image.html url="http://lh6.ggpht.com/-ytTOHGG9AEc/VPwT29J6L_I/AAAAAAAADNo/8zcWCcPJ1PI/s1280/upload_-1.jpg" caption="Fromage, Sirop d'érable et la vie à la ferme" %}
 
 L'après-midi est libre. On en a profité pour découvrir les environs à vélo, faire réviser la chariotte par des professionnels et visiter Bluff (le dernier village au bout de l'autoroute qui traverse l'île du nord au sud).
+
+{% include image.html url="http://lh4.ggpht.com/-tTWQ7WpN3jg/VQJcK-yWvNI/AAAAAAAADQM/x2c0ERdU5zY/s1280/upload_-1.jpg" caption="Bluff" %}
+
 
 La particularité de nos hôtes réside dans leur régime alimentaire. En bref, on mange, à l'heure actuelle, des produits trop transformés, allégés en matières grasses, trop de glucides... Tout ça est mauvais ! Il faut manger comme nos ancêtres : de la viande, des œufs et des produits laitiers crûs ( pas de pasteurisation, pas d'homogénéisation, ni d'écrémage), des fruits, des graines et des légumes. Les produits fermentés, riches en micro-organismes, sont excellents pour notre système digestif,on mange donc des yaourts, du kéfir, de la choucroute, du pain de seigle au levain. On oublie le sucre et on le remplace par du miel et du sirop d'érable. Pomme de terre et riz à la place du blé. Le "bon" gras est un élément clé du régime: God save the Cream :). Plus d'infos sur le site web de Sherry.
 

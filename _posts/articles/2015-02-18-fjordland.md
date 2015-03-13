@@ -71,4 +71,3 @@ Passage obligatoire par le Fjordland pour remonter jusqu'au Milford Sound. On a 
 
 <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/8708662.js"></script>
 <noscript><a href="http://polldaddy.com/poll/8708662/">Ça vous dit de répondre à des petites questions (marrantes) de temps en temps ?</a></noscript>
-

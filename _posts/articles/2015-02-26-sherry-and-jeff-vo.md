@@ -8,7 +8,7 @@ date-end: 2015-03-09
 image: 
   teaser-ext: "http://lh4.ggpht.com/-7NTv5HPPmH8/VPujsKKIcdI/AAAAAAAADB0/mXyZuivmRro/s1280/upload_-1.jpg"
 
-published: false
+published: true
 ---
 
 On the way to our next woofing, we follow the South Coast from Fiordland to Invercargill. Among the sightseeings, the Gemstone Beach and "Monkey Island", a small mountain reachable only at low tide where Maori spotted the whales... But we spotted only seagulls...
@@ -30,6 +30,8 @@ The day starts by the milking. We prepare the feed, we throw the ball for Polly,
 {% include image.html url="http://lh6.ggpht.com/-ytTOHGG9AEc/VPwT29J6L_I/AAAAAAAADNo/8zcWCcPJ1PI/s1280/upload_-1.jpg" caption="Cheese, maple syrup and farm life" %}
 
 The afternoon is free. So we went by bike to Oreti Beach, to the garage and to Bluff (the last village at the end of State Highway 1, going from the North to the South of the island)
+
+{% include image.html url="http://lh4.ggpht.com/-tTWQ7WpN3jg/VQJcK-yWvNI/AAAAAAAADQM/x2c0ERdU5zY/s1280/upload_-1.jpg" caption="Bluff" %}
 
 Our woof hosts have a specific diet. Shortly, currently, we eat a food that's too transformed, low-fat, with too much carbohydrates... That is not good for our metabolism! We should go back and eat like our ancestors: meat, eggs and raw dairy products (no pasteurisation, no homogenisation, no skimming), fruits, seeds and vegetables. Fermented products, rich in microorganisms, are good for our digestive system. So we eat a lot of yogurt, kefir, sauerkraut, rye bread. You forget the sugar, replaced by honey and maple syrup; wheat replaced by potatoes as rice. Good fat is a key element of the diet :"God save the cream". More info on Sherry's website.
 
