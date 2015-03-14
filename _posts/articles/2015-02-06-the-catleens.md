@@ -6,6 +6,7 @@ tags: "Papatowai"
 image: 
   teaser-ext: " http://lh4.ggpht.com/-m9p5tWUzKv4/VOcExp-SosI/AAAAAAAABfs/w9zJnuP1xwo/s1280/upload_-1.jpg "
 album: " https://picasaweb.google.com/104897435834545155307/TheCatlins?authkey=Gv1sRgCK2M0LSpjcfwnQE "
+translation: "/articles/2015/02/the-catlins-vo"
 published: true
 ---
 
