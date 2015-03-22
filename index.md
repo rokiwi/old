@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
+{% for post in articles %}
 
 {% if post.tags contains 'English' %}
   {% continue %}
