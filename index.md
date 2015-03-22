@@ -4,9 +4,13 @@ permalink: /
 ---
 
 <div class="tiles">
-{% for post in articles %}
+{% for post in site.posts %}
 
 {% if post.tags contains 'English' %}
+  {% continue %}
+{% endif %}
+
+{% if post.categories contains 'recipes' %}
   {% continue %}
 {% endif %}
 
