@@ -7,6 +7,14 @@ layout: default
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
 		</div>
+  <div>
+    <h2>Ingrédients</h2>
+    <ul>
+    {% for ingredient in page.ingredients %} 
+      <li>{{ ingredient }}</li>
+    {% end for %}
+    </ul>
+  </div>
 		<div class="inner-wrap">
 			<nav class="toc"></nav><!-- /.toc -->
 			<div id="content" class="page-content" itemprop="articleBody">
