@@ -10,6 +10,10 @@ layout: default
         <span style="font-size: 12pt;">de <a href="{{ page.origin.link }}">{{ page.origin.name }}</a></span>
       </h1>
 		</div>
+  Tags : 
+  {% for tag in page.tags %}
+    {{ tag }},
+  {% endfor %}
 		<div class="inner-wrap">
 			<nav class="toc"></nav><!-- /.toc -->
 			<div id="content" class="page-content" itemprop="articleBody">
