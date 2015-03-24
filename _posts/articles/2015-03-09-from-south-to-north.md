@@ -31,10 +31,10 @@ Conseil pour le voyageur : toujours avoir suffisamment de monnaie sur soi pour p
 
 Passage obligé par le village de Ross: somme toute assez banal si s'en est le nom. Arrêt à la petite ville d'Hokitika: visite d'un atelier de souffleurs de verre et du "musée des machines à tricoter des chaussettes". On campe au bord du sympathique petit lac de Kaniere quand, soudain, un gros oiseau brunâtre avec un bec légèrement courbé s'approche de notre chariotte...
 
-> **Rossana : ** 
+> **Rossana :** 
 > Olivier, regarde !! Un kiwi !!
 
-> **Olivier : ** 
+> **Olivier :** 
 > C'est pas possib' ! Les kiwis, c'est super rare et ça vit que la nuit...
 
 Notre voisin de camping nous apprendra plus tard qu'il s'agit d'un weka... On continue notre route vers le Nord via Greymouth, Westport et, comme toujours, un lot d'attractions : Glow worms (on apprendra que des larves d'insectes qui luisent dans le noir ne se visitent pas en journée), les pancake rocks (mieux au petit déjeuner ;) ... avant les bus remplis d'Asiatiques). 
