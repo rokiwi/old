@@ -8,7 +8,7 @@ date-end: 2015-03-20
 image: 
   teaser-ext: ""
 album: ""
-published: true
+published: false
 ---
 
 Déjà trois mois que l'on se prélasse en NZ. On mène une vie bien paisible quand on est en vacances pour un an :). De temps en temps, pour briser la monotonie, on se fixe des petits challenges. La mission impossible du jour est de rejoindre Nelson (dans le nord de l'île alors qu'on est actuellement au fin fond du sud) via la West Coast et d'y trouver un travail de fruit picker dans les 2 semaines. Pour pimenter le tout, un incontournable détour par les Catlins est ajouté au programme déjà bien chargé (il faut bien finir ce qu'on avait préalablement commencé).
