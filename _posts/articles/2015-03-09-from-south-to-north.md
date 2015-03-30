@@ -23,7 +23,7 @@ On est passé par le point le plus au Sud de la Nouvelle-Zélande, on a vu, entr
 
 ### Central Otago (le retour aussi)
 
-De retour à Cromwell ! Même camping, même ville, serait-on nostalgique ? Pas du tout, c'est le seul chemin du coin vers le Nord. Profitons-en pour prendre le thé chez Gary (notre sympathique patron, fraîchement édenté pour la petite histoire ... d'après notre expérience, les néo-zélandais vont souvent se faire arracher des dents). Gary nous offre également l'opportunité de récolter de miel de trois de ces ruches. Suit up and let's harvest the honey. Pas une piqûre et 2 pots de miel dans le coffre, l'opération est un succès!
+De retour à Cromwell ! Même camping, même ville, serait-on nostalgique ? Pas du tout, c'est le seul chemin du coin vers le Nord. Profitons-en pour prendre le thé chez Gary (notre sympathique patron, fraîchement édenté pour la petite histoire ... d'après notre expérience, les néo-zélandais vont souvent se faire arracher des dents). Gary nous offre également l'opportunité de récolter le miel de trois de ces ruches. "Suit up and let's harvest the honey!" Pas une piqûre et 2 pots de miel dans le coffre, l'opération est un succès!
 
 {% include image.html url="http://lh3.ggpht.com/-kSRavZbTj5s/VRkWZmEzA_I/AAAAAAAAD0Q/OHMu9h0mATY/s1280/upload_-1.jpg" caption="Glenorchy" %}
 
@@ -51,7 +51,7 @@ Passage obligé par le village de Ross: somme toute assez banal si s'en est le n
 
 {% include image.html url="http://lh6.ggpht.com/-t-bdPZs_RKU/VRkWFj4OmGI/AAAAAAAADzY/QXasn0P8-NY/s1280/upload_-1.jpg" caption="" %}
 
-On campe au bord du sympathique petit lac de Kaniere quand, soudain, un gros oiseau brunâtre avec un bec légèrement courbé s'approche de notre chariotte...
+On campe au bord du sympathique lac de Kaniere quand, soudain, un gros oiseau brunâtre avec un bec légèrement courbé s'approche de notre chariotte...
 
 > **Rossana :** 
 > Olivier, regarde !! Un kiwi !!
@@ -63,7 +63,7 @@ Notre voisin de camping nous apprendra plus tard qu'il s'agit d'un weka...
 
 {% include image.html url="http://lh3.ggpht.com/-QYniP3dQJZo/VRkWDEUpkJI/AAAAAAAADzQ/jAOliKq1YuI/s1280/upload_-1.jpg" caption="Le kiwi commun ou weka" %}
 
-On continue notre route vers le Nord via Greymouth, Westport et, comme toujours, un lot d'attractions : Glow worms (on apprendra que des larves d'insectes qui luisent dans le noir ne se visitent pas en journée), les pancake rocks (mieux au petit déjeuner ;) ... avant les bus remplis d'Asiatiques). 
+On continue notre route vers le Nord via Greymouth et Westport : Glow worms (on apprendra que des larves d'insectes qui luisent dans le noir ne se visitent pas en journée), les pancake rocks (mieux au petit déjeuner ;) ... avant les bus remplis d'Asiatiques). 
 
 {% include image.html url="http://lh5.ggpht.com/-ajw4_0CIO-w/VRkV_fbebsI/AAAAAAAADzI/OH1_saBciP8/s1280/upload_-1.jpg" caption="Pancake Rocks et la plage de Truman" %}
 
@@ -71,7 +71,7 @@ On continue notre route vers le Nord via Greymouth, Westport et, comme toujours,
 
 ### Nelson et Golden Bay
 
-On quitte la West Coast comme on y est entré, avec un passager clandestin, un jeune Suisse qui marchait plus vite que son ombre pour ne pas devoir payer les huttes en chemin. Il faisait du stop pour rejoindre sa voiture au début du Heaphy Track (80kms) fait en deux jours.
+On quitte la West Coast comme on y est entré, avec un passager clandestin, un jeune Suisse qui marchait plus vite que son ombre pour ne pas devoir payer les huttes en chemin. Il faisait du stop pour rejoindre sa voiture au début du Heaphy Track (80kms) bouclé en deux jours.
 
 Finalement, Nelson, capitale du soleil où on espère trouver un job de cueilleur de pommes dans un de ses nombreux vergers. Mission accomplie!
 
