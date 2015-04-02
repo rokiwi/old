@@ -15,9 +15,7 @@ Already three months we have been having a great time in NZ. Life is so peaceful
 
 ### Les Catlins: the come back
 
-We visit the most southern point in New Zealand. We spot, among other things, a beach with petrified wood, yellow-eyed penguins and Hector's dolphins (from far away). We also visit the cathedral caves (which you can reach only at low tide) at children price thanks to Olivier, freshly shaved, who 
-
-, fraichement rasé, qui a fait de l'oeil à la guichetière...
+We visit the most southern point in New Zealand. We spot, among other things, a beach with petrified wood, yellow-eyed penguins and Hector's dolphins (from far away). We also visit the cathedral caves (which you can reach only at low tide) at children price thanks to Olivier, freshly shaved, who teased the manager ...
 
 {% include image.html url="http://lh3.ggpht.com/-kA9w8IufUWQ/VRkWeqj7YyI/AAAAAAAAD0g/oJYDCxqIYlQ/s1280/upload_-1.jpg" caption="Slope Point and Curio Bay" %}
 
@@ -35,7 +33,7 @@ Cromwell again! Same campsite, same city, did we miss it, didn't we? Maybe not, 
 
 ### West Coast (this time, it's new stuff ;) )
 
-Change of region but still heaps of reason to stop : Blue Pools, Fantail Falls and Thunder Creek Falls. We don't know why but more anecdotes too. Early in the morning, we're tailing a very old and very smoky camper van. Suddenly it slows down and stops. So we stop too and there we carry our first clandestine passengers laying at the back of our car (on our bed :) ) to the next petrol station (50km away). Later in the day we had a break at a small shop to try a local dish : an omelette filled with little transparent fish, the whitebaits. The 50-year-old saleswoman offers us fresh tomatoes and apples. It seems that Olivier old-fashioned hair cut hit again.
+Change of region but still heaps of reason to stop : Blue Pools, Fantail Falls and Thunder Creek Falls. We don't know why but more anecdotes too. Early in the morning, we're tailing a very old and very smoky camper van. Suddenly it slows down and stops. So we stop too and there we carry our first stowaways  laying at the back of our car (on our bed :) ) to the next petrol station (50km away). Later in the day we had a break at a small shop to try a local dish : an omelette filled with little transparent fish, the whitebaits. The 50-year-old saleswoman offers us fresh tomatoes and apples. It seems that Olivier old-fashioned hair cut hit again.
 
 {% include image.html url="http://lh3.ggpht.com/-Rxf5hMYvE7k/VRkWQ2X2jBI/AAAAAAAADz4/Fei5mDF_laQ/s1280/upload_-1.jpg" caption="Blue Pools, Fantail and Thundercreek Falls" %}
 
@@ -53,9 +51,7 @@ Compulsory stop at Ross village: nothing special except its name. Quick look at 
 
 {% include image.html url="http://lh6.ggpht.com/-t-bdPZs_RKU/VRkWFj4OmGI/AAAAAAAADzY/QXasn0P8-NY/s1280/upload_-1.jpg" caption="" %}
 
-Camping around Kaniere pretty lake when, unexpectedly, a large brown bird with a slightly curved BEC¡!!!!!!!!!!!!!!!!!!!!!!!!
-
-gets close to our Chariot
+Camping around Kaniere pretty lake when, unexpectedly, a large brown bird with a slightly curved beak gets close to our Chariot
 
 > **Rossana :** 
 > Olivier, regarde !! Un kiwi !!
@@ -77,7 +73,7 @@ We keep on going North via Greymouth and Westport : Glow worms (another little t
 
 ### Nelson and Golden Bay
 
-We leave the West Coast the same way we entered it : with a clandestine passenger. This time it is a young Swiss who was walking faster than his shadow not to pay the huts on his way. He was hitchhiking to get to his car at the beginning of the Heaphy Track, 80kms finished in two days.
+We leave the West Coast the same way we entered it : with a stowaway. This time it is a young Swiss who was walking faster than his shadow not to pay the huts on his way. He was hitchhiking to get to his car at the beginning of the Heaphy Track, 80kms finished in two days.
 
 Finally we reach sunny Nelson where we hope to find a job as apple picker in one of the many orchards. Mission accomplished.
 
