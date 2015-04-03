@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div>
-{% for post in site.posts %}
+{% for post in site.posts | sort: 'title' %}
 
 {% if post.tags contains 'English' %}
   {% continue %}
