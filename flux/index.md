@@ -9,6 +9,10 @@ layout: default
   {% continue %}
 {% endif %}
 
+{% if post.categories contains 'recipes' %}
+  {% continue %}
+{% endif %}
+
 <article itemscope itemtype="http://schema.org/Article">
 
   <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
