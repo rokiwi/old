@@ -10,7 +10,7 @@ layout: default
 {% endif %}
 
 {% assign m = post.date | date: "%-m" %}
-{% if m < 3 %}
+{% if m != '3' %}
   {% continue %}
 {% endif %}
 
