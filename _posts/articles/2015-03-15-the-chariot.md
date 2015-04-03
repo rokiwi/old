@@ -30,7 +30,7 @@ Pimp my chariot ! Comme quelques photos valent mieux qu'un long discours, voici 
 {% include image.html url="http://lh3.ggpht.com/-p5PNuZX6JDw/VR5awXjXOAI/AAAAAAAAD2c/XcVBzSla7_Q/s1280/upload_-1.jpg" caption="" %}
 
 <figure>
-<iframe src="" width="640" height="480"></iframe>
+<iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEU0RhbURYYWtvMU0/preview" width="640" height="480"></iframe>
 <figcaption>
 Sensations de conduite dans la chariotte en temps réel
 </figcaption>
