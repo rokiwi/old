@@ -9,8 +9,8 @@ layout: default
   {% continue %}
 {% endif %}
 
-{% assign m = post.date | date: "%-m" %}
-{% if m != '3' %}
+{% assign m = post.date | date: "%s" %}
+{% if m > 1423565745 %}
   {% continue %}
 {% endif %}
 
