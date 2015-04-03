@@ -9,6 +9,11 @@ layout: default
   {% continue %}
 {% endif %}
 
+{% assign m = post.date | date: "%-m" %}
+{% if m < 3 %}
+  {% continue %}
+{% endif %}
+
 {% if post.categories contains 'recipes' %}
   {% continue %}
 {% endif %}
