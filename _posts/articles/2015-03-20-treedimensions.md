@@ -29,7 +29,7 @@ En terme de boulot (on n'a pas fait que manger!), on a beaucoup désherbé, mais
 
 {% include image.html url="http://lh3.ggpht.com/-VSP6otaV9z4/VStSu-6gj5I/AAAAAAAAEXg/u6agAMflZjc/s1280/upload_-1.jpg" caption="Les animaux" %}
 
-{% include image.html url="http://lh5.ggpht.com/-dPgDLUlAyjY/VStR5cUswQI/AAAAAAAAEWQ/01IfnotPDtc/s1280/upload_-1.jpg" caption="Preparation de la ferme à verre de terre" %}
+{% include image.html url="http://lh5.ggpht.com/-dPgDLUlAyjY/VStR5cUswQI/AAAAAAAAEWQ/01IfnotPDtc/s1280/upload_-1.jpg" caption="Préparation de la ferme à verre de terre" %}
 
 {% include image.html url="http://lh4.ggpht.com/-FjA7BhXu86c/VStSDS3DjmI/AAAAAAAAEWg/XXslqYORF7I/s1280/upload_-1.jpg" caption="Les poires" %}
 
@@ -37,7 +37,7 @@ En terme de boulot (on n'a pas fait que manger!), on a beaucoup désherbé, mais
 
 {% include image.html url="http://lh3.ggpht.com/-zlpYdaxXP2c/VStSIIG7e1I/AAAAAAAAEWo/JqPJFpLattg/s1280/upload_-1.jpg" caption="Les agrumes" %}
 
-{% include image.html url="http://lh4.ggpht.com/-PD_frR8Q4A8/VStSUYVXBjI/AAAAAAAAEW4/rEsoeAoW4_E/s1280/upload_-1.jpg" caption="Kiwi, feijoa, raisin, figue, kaki et tomated" %}
+{% include image.html url="http://lh4.ggpht.com/-PD_frR8Q4A8/VStSUYVXBjI/AAAAAAAAEW4/rEsoeAoW4_E/s1280/upload_-1.jpg" caption="Kiwi, feijoa, raisin, figue, kaki et tomates" %}
 
 {% include image.html url="http://lh3.ggpht.com/-428EaTx-zU8/VStSPP8zYGI/AAAAAAAAEWw/x6kxaLK_Gw4/s1280/upload_-1.jpg" caption="Les cucurbitacées" %}
 
