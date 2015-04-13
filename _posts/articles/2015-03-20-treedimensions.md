@@ -25,7 +25,7 @@ Son 'edible landscape' (paysage comestible) permet à tout wwoofer où qu'il soi
 
 {% include image.html url="http://lh6.ggpht.com/-7vc87c-uZgY/VStR-q3gihI/AAAAAAAAEWY/YpM8n6wH84s/s1280/upload_-1.jpg" caption="Le potager et les rhizomes de l'ennemi public numéro 1" %}
 
-En terme de boulot (on n'a pas fait que manger!), on a beaucoup désherbé, mais aussi récolté noix, noisette, châtaigne, maïs, pomme de terre, melon, pastèque, potiron, tomate, raisin, pomme et poire, ... On a " cuisiné " deux composts (il fallait d'abord préparer les ingrédients de base, à savoir du super caca de vache, de l'herbe fraîchement coupée, des mauvaises herbes et des cendres) et relancé la ferme à vers de terre. On a également passé en revue tous les arbres du verger pour couper d'éventuels gourmands.
+En terme de boulot (on n'a pas fait que manger!), on a beaucoup désherbé, mais aussi récolté noix, noisette, châtaigne, maïs, pomme de terre, melon, pastèque, potiron, tomate, raisin, pomme et poire, ... On a " cuisiné " deux composts (il fallait d'abord préparer les ingrédients de base, à savoir du super caca de vache, de l'herbe fraîchement coupée, des mauvaises herbes et des cendres) et relancé la ferme à vers de terre. On a également passé en revue tous les arbres du verger pour couper d'éventuels gourmands. 
 
 {% include image.html url="http://lh3.ggpht.com/-VSP6otaV9z4/VStSu-6gj5I/AAAAAAAAEXg/u6agAMflZjc/s1280/upload_-1.jpg" caption="Les animaux" %}
 
