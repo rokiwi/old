@@ -26,7 +26,7 @@ Son secret de production : la biodynamique qui s'inspire de tout le cosmos, depu
 
 Son 'edible landscape' (paysage comestible) permet à tout wwoofer où qu'il soit dans la propriété de jouir d'une source de vitamines dans les 10m à la ronde. Notre hôte vend ses surplus de fruits et légumes frais au marché local du dimanche ainsi que du jus de pomme et des fruits séchés, transformés chez lui.
 
-{% include image.html url="http://lh6.ggpht.com/-7vc87c-uZgY/VStR-q3gihI/AAAAAAAAEWY/YpM8n6wH84s/s1280/upload_-1.jpg" caption="Le potager et les rhizomes de l'ennemi public numéro 1" %}
+{% include image.html url="http://lh6.ggpht.com/-7vc87c-uZgY/VStR-q3gihI/AAAAAAAAEWY/YpM8n6wH84s/s1280/upload_-1.jpg" caption="Le potager et les rhizomes de l'ennemi public numéro 1 : le chiendent" %}
 
 En terme de boulot (on n'a pas fait que manger!), on a beaucoup désherbé, mais aussi récolté noix, noisette, châtaigne, maïs, pomme de terre, melon, pastèque, potiron, tomate, raisin, pomme et poire, ... On a " cuisiné " deux composts (il fallait d'abord préparer les ingrédients de base, à savoir du super caca de vache, de l'herbe fraîchement coupée, des mauvaises herbes et des cendres) et relancé la ferme à vers de terre. On a également passé en revue tous les arbres du verger pour couper d'éventuels gourmands. 
 
