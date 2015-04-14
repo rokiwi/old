@@ -29,6 +29,13 @@ En terme de boulot (on n'a pas fait que manger!), on a beaucoup désherbé, mais
 
 {% include image.html url="http://lh3.ggpht.com/-VSP6otaV9z4/VStSu-6gj5I/AAAAAAAAEXg/u6agAMflZjc/s1280/upload_-1.jpg" caption="Les animaux" %}
 
+<figure>
+<iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEREVvU3NSZ0FLTEk/preview" width="640" height="480"></iframe>
+<figcaption>
+Le cri du tui
+</figcaption>
+</figure>
+
 {% include image.html url="http://lh5.ggpht.com/-dPgDLUlAyjY/VStR5cUswQI/AAAAAAAAEWQ/01IfnotPDtc/s1280/upload_-1.jpg" caption="Préparation de la ferme à verre de terre" %}
 
 {% include image.html url="http://lh4.ggpht.com/-FjA7BhXu86c/VStSDS3DjmI/AAAAAAAAEWg/XXslqYORF7I/s1280/upload_-1.jpg" caption="Les poires" %}
