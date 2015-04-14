@@ -8,6 +8,7 @@ date-end: 2015-04-08
 image: 
   teaser-ext: "http://lh3.ggpht.com/-f4G8tUyLOc8/VSRPCeJJeAI/AAAAAAAAD7c/9y8rNaLdSQA/s1280/upload_-1.jpg"
 album: "https://picasaweb.google.com/104897435834545155307/TreeDimension?authkey=Gv1sRgCIviwNrIl_OkXQ"
+translation: "/articles/2015/03/treedimensions-vo"
 published: true
 ---
 

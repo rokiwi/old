@@ -8,55 +8,51 @@ date-end: 2015-04-08
 image: 
   teaser-ext: "http://lh3.ggpht.com/-f4G8tUyLOc8/VSRPCeJJeAI/AAAAAAAAD7c/9y8rNaLdSQA/s1280/upload_-1.jpg"
 album: "https://picasaweb.google.com/104897435834545155307/TreeDimension?authkey=Gv1sRgCIviwNrIl_OkXQ"
-published: false
+published: true
 ---
 
-New wwoofing means new diet! 
+New wwoofing means new diet and new boss :). Dieter introduced us to biodynamics, vegetarianism and german organisation (Bavarian to be accurate).
 
-Nouveau wwoofing : changement de régime alimentaire et politique. Dieter aux commandes : végétarisme, biodynamique et précision allemande (enfin bavaroise pour être exact). 
+Young shoot in May 68, Dieter uprooted from Bavaria in his twenties to "prick himself out" in Motueka hills after a worldwide trip. Meanwhile he turned a few hectares of bare paddocks into lush garden and orchard, cleverly arranged (putting demanding crops closer to the house,...).
 
-Jeune pousse en mai 68, Dieter s'est déraciné de Bavière dans sa vingtaine pour se repiquer quelques années plus tard, après un long voyage, dans les collines de Motueka. Entretemps il a transformé quelques hectares de prairies en jardin et verger luxuriants, habillement agencés (les cultures qui demandent le plus d'entretien sont situées les plus proches de la maison). 
+{% include image.html url="http://lh3.ggpht.com/-ILudnFwxAqg/VStSpgttWQI/AAAAAAAAEXY/MQ543H9gVYE/s1280/upload_-1.jpg" caption="Octagonal house" %}
 
-{% include image.html url="http://lh3.ggpht.com/-ILudnFwxAqg/VStSpgttWQI/AAAAAAAAEXY/MQ543H9gVYE/s1280/upload_-1.jpg" caption="Sa maison octogonale" %}
+His main production secret: biodynamics, which fuels inspiration from the cosmos, from the very small (microorganisms) to the very large (the Moon and the planets), maintain soil productivity without external fertilisers. Soil is the basis of biodynamics and "creating soil" needs compost, heaps of compost... And some kind of mystic preparations, stored in peat. Diversity is also really important, for instance there's about a hundred varieties of apples at Dieter's (sorry for Olivier's dad but "an apple a day keeps the doctor away).
 
-Son secret de production : la biodynamique qui s'inspire de tout le cosmos, depuis l'infiniment petit (les micro-organismes) jusqu'à l'infiniment grand (la lune et les planètes), pour assurer la productivité de son terrain sans ajouter d'engrais chimiques ou de produits phytos. La base de la biodynamique, c'est le sol et, pour en créer, il faut du compost, beaucoup de compost... Et quelques préparations semi-mystérieuses stockées dans de la tourbe. Il faut aussi de la diversité, par exemple, il y a une petite centaine de variétés de pommes qui se côtoient chez Dieter (désolé Michel mais "an apple a day keeps the doctor away"). 
+>A little tip from Dieter: If you need to pee, find a tree...
 
-> **Dieter**
->
-> If you need to pee, find a tree
+{% include image.html url="http://lh6.ggpht.com/-zqUXMkxQhDg/VStSkZd58hI/AAAAAAAAEXQ/GjFdhD0PruM/s1280/upload_-1.jpg" caption="Apple collection" %}
 
-{% include image.html url="http://lh6.ggpht.com/-zqUXMkxQhDg/VStSkZd58hI/AAAAAAAAEXQ/GjFdhD0PruM/s1280/upload_-1.jpg" caption="La collection de pommes" %}
+His edible landscape allows every woofer wherever he is in the property to find a source of vitamins within 10 metres. Our host sells his veggies and fruit surplus at the local market every Sunday as well as apple juice and dried fruits (home processed).
 
-Son 'edible landscape' (paysage comestible) permet à tout wwoofer où qu'il soit dans la propriété de jouir d'une source de vitamines dans les 10m à la ronde. Notre hôte vend ses surplus de fruits et légumes frais au marché local du dimanche ainsi que du jus de pomme et des fruits séchés, transformés chez lui.
+{% include image.html url="http://lh6.ggpht.com/-7vc87c-uZgY/VStR-q3gihI/AAAAAAAAEWY/YpM8n6wH84s/s1280/upload_-1.jpg" caption="The veggie garden and rhizomes from public enemy nr 1: twitch" %}
 
-{% include image.html url="http://lh6.ggpht.com/-7vc87c-uZgY/VStR-q3gihI/AAAAAAAAEWY/YpM8n6wH84s/s1280/upload_-1.jpg" caption="Le potager et les rhizomes de l'ennemi public numéro 1" %}
+What do we do when we're not eating? Weeding is always an ongoing thing but no to be bored, Dieter offers us to harvest a hell of a lot of veggies and fruit : walnut, chestnut, hazelnut, sweet corn, potatoes, rock melon, watermelon, pumpkin, tomato, grapes, apple and pear,... We "cooked" two compost heaps. First you get the ingredients : wonderful cow manure, greeneries and wood ashes. We also boosted the worm farm and cut all the suckers.  
 
-En terme de boulot (on n'a pas fait que manger!), on a beaucoup désherbé, mais aussi récolté noix, noisette, châtaigne, maïs, pomme de terre, melon, pastèque, potiron, tomate, raisin, pomme et poire, ... On a " cuisiné " deux composts (il fallait d'abord préparer les ingrédients de base, à savoir du super caca de vache, de l'herbe fraîchement coupée, des mauvaises herbes et des cendres) et relancé la ferme à vers de terre. On a également passé en revue tous les arbres du verger pour couper d'éventuels gourmands. 
-
-{% include image.html url="http://lh3.ggpht.com/-VSP6otaV9z4/VStSu-6gj5I/AAAAAAAAEXg/u6agAMflZjc/s1280/upload_-1.jpg" caption="Les animaux" %}
+{% include image.html url="http://lh3.ggpht.com/-VSP6otaV9z4/VStSu-6gj5I/AAAAAAAAEXg/u6agAMflZjc/s1280/upload_-1.jpg" caption="Animals" %}
 
 <figure>
 <iframe src="https://docs.google.com/file/d/0BzIZ3dfuz-CEREVvU3NSZ0FLTEk/preview" width="640" height="480"></iframe>
 <figcaption>
-Le cri du tui
+Tui sound
 </figcaption>
 </figure>
 
-{% include image.html url="http://lh5.ggpht.com/-dPgDLUlAyjY/VStR5cUswQI/AAAAAAAAEWQ/01IfnotPDtc/s1280/upload_-1.jpg" caption="Préparation de la ferme à verre de terre" %}
+{% include image.html url="http://lh5.ggpht.com/-dPgDLUlAyjY/VStR5cUswQI/AAAAAAAAEWQ/01IfnotPDtc/s1280/upload_-1.jpg" caption="Worm farm preparation" %}
 
-{% include image.html url="http://lh4.ggpht.com/-FjA7BhXu86c/VStSDS3DjmI/AAAAAAAAEWg/XXslqYORF7I/s1280/upload_-1.jpg" caption="Les poires" %}
+{% include image.html url="http://lh4.ggpht.com/-FjA7BhXu86c/VStSDS3DjmI/AAAAAAAAEWg/XXslqYORF7I/s1280/upload_-1.jpg" caption="Pears" %}
 
-{% include image.html url="http://lh4.ggpht.com/-crvPPx9VB1M/VStSeP_MSSI/AAAAAAAAEXI/YQmYh1y66eU/s1280/upload_-1.jpg" caption="Noix, noisette et châtaigne" %}
+{% include image.html url="http://lh4.ggpht.com/-crvPPx9VB1M/VStSeP_MSSI/AAAAAAAAEXI/YQmYh1y66eU/s1280/upload_-1.jpg" caption="Nuts" %}
 
-{% include image.html url="http://lh3.ggpht.com/-zlpYdaxXP2c/VStSIIG7e1I/AAAAAAAAEWo/JqPJFpLattg/s1280/upload_-1.jpg" caption="Les agrumes" %}
+{% include image.html url="http://lh3.ggpht.com/-zlpYdaxXP2c/VStSIIG7e1I/AAAAAAAAEWo/JqPJFpLattg/s1280/upload_-1.jpg" caption="Citrus" %}
 
-{% include image.html url="http://lh4.ggpht.com/-PD_frR8Q4A8/VStSUYVXBjI/AAAAAAAAEW4/rEsoeAoW4_E/s1280/upload_-1.jpg" caption="Kiwi, feijoa, raisin, figue, kaki et tomates" %}
+{% include image.html url="http://lh4.ggpht.com/-PD_frR8Q4A8/VStSUYVXBjI/AAAAAAAAEW4/rEsoeAoW4_E/s1280/upload_-1.jpg" caption="Kiwi, feijoa, grape, fig, kaki and tomato" %}
 
-{% include image.html url="http://lh3.ggpht.com/-428EaTx-zU8/VStSPP8zYGI/AAAAAAAAEWw/x6kxaLK_Gw4/s1280/upload_-1.jpg" caption="Les cucurbitacées" %}
+{% include image.html url="http://lh3.ggpht.com/-428EaTx-zU8/VStSPP8zYGI/AAAAAAAAEWw/x6kxaLK_Gw4/s1280/upload_-1.jpg" caption="Cucurbits" %}
 
 
-{% include image.html url="http://lh6.ggpht.com/-CU0cEfXugMs/VStSYhDQdfI/AAAAAAAAEXA/u5mtxqnBrRc/s1280/upload_-1.jpg" caption="Les légumes" %}
+{% include image.html url="http://lh6.ggpht.com/-CU0cEfXugMs/VStSYhDQdfI/AAAAAAAAEXA/u5mtxqnBrRc/s1280/upload_-1.jpg" caption="Some veggies" %}
 
-{% include image.html url="http://lh5.ggpht.com/-Giy3HWk2P-4/VStR0e70yTI/AAAAAAAAEWI/D1rh2AzEgM0/s1280/upload_-1.jpg" caption="Les autres" %}
+{% include image.html url="http://lh5.ggpht.com/-Giy3HWk2P-4/VStR0e70yTI/AAAAAAAAEWI/D1rh2AzEgM0/s1280/upload_-1.jpg" caption="" %}
 
 
