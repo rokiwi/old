@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "TreeDimensions (VO)"
+title: "TreeDimensions"
 categories: articles
 tags: ["Motueka", English]
 date-begin: 2015-03-20
