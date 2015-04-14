@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "TreeDimensions"
+title: "TreeDimensions (VO)"
 categories: articles
-tags: "Motueka"
+tags: ["Motueka", English]
 date-begin: 2015-03-20
 date-end: 2015-04-08
 image: 
@@ -11,6 +11,8 @@ album: "https://picasaweb.google.com/104897435834545155307/TreeDimension?authkey
 published: false
 ---
 
+New wwoofing means new diet! 
+
 Nouveau wwoofing : changement de régime alimentaire et politique. Dieter aux commandes : végétarisme, biodynamique et précision allemande (enfin bavaroise pour être exact). 
 
 Jeune pousse en mai 68, Dieter s'est déraciné de Bavière dans sa vingtaine pour se repiquer quelques années plus tard, après un long voyage, dans les collines de Motueka. Entretemps il a transformé quelques hectares de prairies en jardin et verger luxuriants, habillement agencés (les cultures qui demandent le plus d'entretien sont situées les plus proches de la maison). 
@@ -18,6 +20,10 @@ Jeune pousse en mai 68, Dieter s'est déraciné de Bavière dans sa vingtaine po
 {% include image.html url="http://lh3.ggpht.com/-ILudnFwxAqg/VStSpgttWQI/AAAAAAAAEXY/MQ543H9gVYE/s1280/upload_-1.jpg" caption="Sa maison octogonale" %}
 
 Son secret de production : la biodynamique qui s'inspire de tout le cosmos, depuis l'infiniment petit (les micro-organismes) jusqu'à l'infiniment grand (la lune et les planètes), pour assurer la productivité de son terrain sans ajouter d'engrais chimiques ou de produits phytos. La base de la biodynamique, c'est le sol et, pour en créer, il faut du compost, beaucoup de compost... Et quelques préparations semi-mystérieuses stockées dans de la tourbe. Il faut aussi de la diversité, par exemple, il y a une petite centaine de variétés de pommes qui se côtoient chez Dieter (désolé Michel mais "an apple a day keeps the doctor away"). 
+
+> **Dieter**
+>
+> If you need to pee, find a tree
 
 {% include image.html url="http://lh6.ggpht.com/-zqUXMkxQhDg/VStSkZd58hI/AAAAAAAAEXQ/GjFdhD0PruM/s1280/upload_-1.jpg" caption="La collection de pommes" %}
 

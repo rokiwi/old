@@ -19,6 +19,10 @@ Jeune pousse en mai 68, Dieter s'est déraciné de Bavière dans sa vingtaine po
 
 Son secret de production : la biodynamique qui s'inspire de tout le cosmos, depuis l'infiniment petit (les micro-organismes) jusqu'à l'infiniment grand (la lune et les planètes), pour assurer la productivité de son terrain sans ajouter d'engrais chimiques ou de produits phytos. La base de la biodynamique, c'est le sol et, pour en créer, il faut du compost, beaucoup de compost... Et quelques préparations semi-mystérieuses stockées dans de la tourbe. Il faut aussi de la diversité, par exemple, il y a une petite centaine de variétés de pommes qui se côtoient chez Dieter (désolé Michel mais "an apple a day keeps the doctor away"). 
 
+> **Dieter**
+>
+> If you need to pee, find a tree
+
 {% include image.html url="http://lh6.ggpht.com/-zqUXMkxQhDg/VStSkZd58hI/AAAAAAAAEXQ/GjFdhD0PruM/s1280/upload_-1.jpg" caption="La collection de pommes" %}
 
 Son 'edible landscape' (paysage comestible) permet à tout wwoofer où qu'il soit dans la propriété de jouir d'une source de vitamines dans les 10m à la ronde. Notre hôte vend ses surplus de fruits et légumes frais au marché local du dimanche ainsi que du jus de pomme et des fruits séchés, transformés chez lui.
