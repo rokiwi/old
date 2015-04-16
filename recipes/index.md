@@ -3,14 +3,14 @@ layout: home
 title: "Recettes/Recipes"
 ---
 
-<div class="tiles">
+<ul>
 {% for post in site.categories.recipes %}
 
-<article class="tile" itemscope itemtype="http://schema.org/Article">
-  <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-</article>
+<li>
+  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+</li>
   
 {% endfor %}
-</div><!-- /.tiles -->
+</ul>
 
 
