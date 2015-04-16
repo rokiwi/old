@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Test"
 ---
 
 <div class="tiles">
