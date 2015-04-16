@@ -2,6 +2,9 @@
 
 - title: Home
   url: /
+
+- title: "Recettes/Recipes"
+  url: /recipes/
   
 - title: Rossana
   url: /rossana/
