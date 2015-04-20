@@ -55,5 +55,3 @@ Le cri du tui
 {% include image.html url="http://lh6.ggpht.com/-CU0cEfXugMs/VStSYhDQdfI/AAAAAAAAEXA/u5mtxqnBrRc/s1280/upload_-1.jpg" caption="Les légumes" %}
 
 {% include image.html url="http://lh5.ggpht.com/-Giy3HWk2P-4/VStR0e70yTI/AAAAAAAAEWI/D1rh2AzEgM0/s1280/upload_-1.jpg" caption="Les autres" %}
-
-

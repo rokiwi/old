@@ -1,0 +1,11 @@
+<figure>
+
+  {% if include.url %}
+    <iframe src="{{ include.url }}" width="640" height="480"></iframe>
+  {% endif %}
+
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+
+</figure>
