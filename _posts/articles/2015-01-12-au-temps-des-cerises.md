@@ -3,7 +3,7 @@ layout: article
 title: "Au Temps Des Cerises"
 categories: articles
 tags: "Cromwell"
-location:"90+Ripponvale+Cromwell"
+location: "90+Ripponvale+Cromwell"
 image: 
   teaser-ext: "http://lh6.ggpht.com/-ZhNQ0RaXpWY/VNGjd-vhQQI/AAAAAAAAAFU/GY5SNdtVr0k/s1280/IMG_0637.JPG"
 published: true
