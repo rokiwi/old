@@ -17,6 +17,9 @@ layout: default
     {% if page.album %} 
       <h2><a href="{{ page.album }}">Album Photo</a></h2>
     {% endif %}
+    {% if page.location %} 
+      <img src="https://maps.googleapis.com/maps/api/staticmap?size=512x512&scale=2&markers=label:C%7CCarlsbourg&markers=label:M%7CMerni,6850" />
+    {% endif %}
 		</div>
 		<div class="inner-wrap">
 			<nav class="toc"></nav><!-- /.toc -->
