@@ -11,7 +11,7 @@ album: "https://picasaweb.google.com/104897435834545155307/MarlboroughSound?auth
 published: true
 ---
 
-Autumn is getting to us : dark at 6:30pm, wet to real showers. Why the hell did we leave the plenty of TreeDimension? Anyway we need to get going and catch "hippie" city, Takaka.
+Autumn is getting to us : dark at 6:30pm, wet weather or even real showers. Why the hell did we leave the plenty of TreeDimension? Anyway we need to get going and catch "hippie" city, Takaka.
 
 After some window shopping in Takaka and a starfish rescue mission on one of the endless beaches, there we are. We reach the end :  Farewell Spit, a 30km long narrow stretch of sand expanding east. On a map, it looks like a kiwi beak ☺.
 
@@ -46,11 +46,3 @@ We complete our food stock at Nelson Farmers Market (which was still half full t
 {% include image.html url="http://lh3.googleusercontent.com/-Rr5NYE0-eCo/VTR37jis8II/AAAAAAAAE8A/DWtkrZ6XtSg/s1280/upload_-1.jpg" caption="French Pass and our last -slurp- melon" %}
 
 {% include image.html url="http://lh3.googleusercontent.com/-X2aabBXHETM/VTR30dPHwRI/AAAAAAAAE7w/_t3gPuuzbc8/s1280/upload_-1.jpg" caption="Pelorus Bridge (in the Hobbit) and the ferry to the North Island" %}
-
-
-
-
-
-
-
-
