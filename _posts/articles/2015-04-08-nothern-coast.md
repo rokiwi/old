@@ -8,6 +8,7 @@ date-end: 2015-04-13
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-nUbkQJfCqek/VTG9ZHliKKI/AAAAAAAAEfM/GRHHp1gpvd8/s1280/upload_-1.jpg"
 album: "https://picasaweb.google.com/104897435834545155307/MarlboroughSound?authkey=Gv1sRgCPCZs9r5homilQE"
+translation: "/articles/2015/04/nothern-coast-vo"
 published: true
 ---
 
@@ -35,7 +36,7 @@ Comme Farewell Spit est un cul-de-sac (d'une centaine de kilomètres certes mais
 
 {% include image.html url="http://lh3.googleusercontent.com/-izlm2yznfXg/VTR4FauQKKI/AAAAAAAAE8Y/GTw2R3NlCio/s1280/upload_-1.jpg" caption="Chemin côtier d'Abel Tasman" %}
 
-On fignole notre stock, encore bien fourni grâce à Dieter, au marché fermier de Nelson (des légumes mais aussi du vrai pain !) et en route pour le French Pass au Marlborough Sound, un gruyère d'île et de presqu'îles au relief assez prononcé. Un plaisir pour la pellicule mais cette géographie particulière lui confère le rôle de pissotière de la région (bref, il pleut tout le temps). Les rafales de vent nous contraignent à cuisiner dans les toilettes et à repenser le sens dans lequel on gare la chariotte (on a cru que les rafales allaient la retourner mais tout va bien :)), on sillone la presqu'île de baie en baie : Elaine Bay, Piwakawaka Bay,... 50km plus loin, l'île suivante nous nargue mais l'option amphibie de la chariotte n'étant pas encore sortie, demi-tour toute! On retourne recharger nos batteries dans ... wait for it ... un woofing!!
+On fignole notre stock, encore bien fourni grâce à Dieter, au marché fermier de Nelson (des légumes mais aussi du vrai pain !) et en route pour le French Pass au Marlborough Sounds, un gruyère d'île et de presqu'îles au relief assez prononcé. Un plaisir pour la pellicule mais cette géographie particulière lui confère le rôle de pissotière de la région (bref, il pleut tout le temps). Les rafales de vent nous contraignent à cuisiner dans les toilettes et à repenser le sens dans lequel on gare la chariotte (on a cru que les rafales allaient la retourner mais tout va bien :)), on sillone la presqu'île de baie en baie : Elaine Bay, Piwakawaka Bay,... 50km plus loin, l'île suivante nous nargue mais l'option amphibie de la chariotte n'étant pas encore sortie, demi-tour toute! On retourne recharger nos batteries dans ... wait for it ... un woofing!!
 
 {% include image.html url="http://lh3.googleusercontent.com/-q6wrex3Choc/VTR4BQUPSkI/AAAAAAAAE8Q/tDXmAgsqGck/s1280/upload_-1.jpg" caption="Cable Bay walkway à Glenduan et camping McKee" %}
 
