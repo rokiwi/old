@@ -1,7 +1,8 @@
 ---
 layout: article
 title: "Landfall Estate"
-categories: [articles, wwoofing, English]
+categories: [articles, wwoofing]
+tags: English
 date-begin: 2015-04-13
 date-end: 2015-04-28
 image: 

@@ -1,7 +1,8 @@
 ---
 layout: article
 title: ""
-categories: [articles, English]
+categories: articles
+tags: English
 date-begin: 2015-04-28
 date-end: 2015-05-05
 image: 
