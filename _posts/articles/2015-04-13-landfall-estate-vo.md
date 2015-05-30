@@ -13,7 +13,7 @@ published: true
 
 What do you think of English producing French wine in New Zealand? No more cork tap and oak cask! Here we're modern...
 
-Who never felt "Big Brother" is watching you at each time you go on internet when you stay at less than 200m than one of the main spying stations in the world (the second name of the valley where we wwoof is Spy Valley)?
+Who never felt "Big Brother" is watching you at each time you go on internet when you stay at less than 200m from one of the main spying stations in the world (the second name of the valley where we wwoof is Spy Valley)?
 
 What do you think of buying two plates in a second hand shop while you're feeling a 6.4 earthquake?
 

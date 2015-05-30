@@ -21,7 +21,7 @@ Il fait froid et humide, on ne s'arrête donc que brièvement dans le Nelson Lak
 
 {% include image.html url="https://lh3.googleusercontent.com/-VJLBrln0eD8/VU2dhV3XO5I/AAAAAAAAFM0/EAxzhauQ2xI/s512/PhotoGrid_1430796612808.jpg" caption="Lewis Pass, premiere rando dans la neige" %}
 
-Deux étés d'affilé (un dans chaque hémisphère) et on a presque oublié ce que c'était d'avoir froid!! On entamé des fouilles jusqu'au fin fond de nos sacs pour retrouver grosses chaussettes et gants. L'intérieur des vitres de la chariotte était couvert de givre en se levant au lac Tennyson, pour vous donner une idée ;). Heureusement que le grand soleil a vite réchauffé l'atmosphère.
+Deux étés d'affilé (un dans chaque hémisphère) et on a presque oublié ce que c'était d'avoir froid!! On entame des fouilles jusqu'au fin fond de nos sacs pour retrouver grosses chaussettes et gants. L'intérieur des vitres de la chariotte était couvert de givre en se levant au lac Tennyson, pour vous donner une idée ;). Heureusement que le grand soleil a vite réchauffé l'atmosphère.
 
 Un dernier crochet de 72km de route en gravier : lake Taylor et loch Katrine. On pensait aller camper sur les rives de ce dernier mais les trous dans la route ont eu raison du bas de caisse de la chariotte (qui n'est malheureusement pas un 4x4). On a donc marché jusqu'au loch Katrine le lendemain.
 
