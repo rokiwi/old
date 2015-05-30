@@ -7,6 +7,7 @@ date-end: 2015-04-28
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-Bt2BHGGLWbE/VU2Y8iBkJuI/AAAAAAAAFFc/YGFyZ6cwNi4/s640/IMG_3188.JPG"
 album: "https://plus.google.com/photos/104897435834545155307/albums/6142247041019927633?authkey=CLGLxpSah43ErAE"
+translation: "/articles/2015/04/landfall-estate-vo"
 published: true
 ---
 
