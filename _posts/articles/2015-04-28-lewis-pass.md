@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Retour aux sources"
-categories: [articles]
+categories: articles
 date-begin: 2015-04-28
 date-end: 2015-05-05
 image: 
