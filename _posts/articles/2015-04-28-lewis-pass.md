@@ -15,7 +15,7 @@ Comme Sue et Nev (de notre premier wwoofing) étaient super sympas, on avait dé
 
 Il fait froid et humide, on ne s'arrête donc que brièvement dans le Nelson Lakes National Parc. En plus de nos maintenant traditionnelles randos, on s'arrête à Maruia Springs. Ce sont des sources d'eaux chaudes, riches en soufre. On se prélasse deux heures entre 38-40°C dans des piscines en plein air (il y avait tout de même une forte odeur d'œuf à cause du soufre).
 
-{% include image.html url="https://lh3.googleusercontent.com/-k67JJ9_6nMM/VU2dsnXwijI/AAAAAAAAFNI/3Butx2ndLaw/s512/PhotoGrid_1430795986498.jpg" caption="Nelson Lakes National Park et les chutes Maruia" %}
+{% include image.html url="https://lh3.googleusercontent.com/-k67JJ9_6nMM/VU2dsnXwijI/AAAAAAAAFNI/3Butx2ndLaw/s1280/PhotoGrid_1430795986498.jpg" caption="Nelson Lakes National Park et les chutes Maruia" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-bYoCli9oO7U/VU2dslxF9eI/AAAAAAAAFNE/mbWKtHWgJ2I/s512/PhotoGrid_1430796247392.jpg" caption="Lac Daniell" %}
 
