@@ -23,11 +23,11 @@ Qui, enfant de l'Europe, ne s'est jamais retrouvé à court d'arguments pour la 
 
 Et si on replaçait ces considérations dans leur contexte ☺. Rosemary et Jeremy, septuagénaire néo-zélandais d'origine anglaise, se sont installés dans la Waihopai Valley pour y faire pousser des pivoines et des oliviers. Drôle de mélange ? Dans leur vallée au climat capricieux, pas tant que ça puisque le gel est un facteur de réussite dans la culture des pivoines mais peu apprécié des olives... Détrônant tout rival italien lors des concours, leur huile d'olive n'était malheureusement pas un eldorado financier : trop de travail pour pas assez de revenus. Changement de culture donc et les vignes remplacent maintenant les oliviers. 
 
-{% include image.html url="https://lh3.googleusercontent.com/-qzD1G5JYQuA/VU2c8ShamKI/AAAAAAAAFMA/aM7Q23vvrm8/s512/PhotoGrid_1430470265573.jpg" caption="Les vignes, la vendangeuse et son travail à gauche; les 2 boules blanches de Spy Valley au centre; les pivoines avant et après la taille à droite" %}
+{% include image.html url="https://lh3.googleusercontent.com/-qzD1G5JYQuA/VU2c8ShamKI/AAAAAAAAFMA/aM7Q23vvrm8/s1280/PhotoGrid_1430470265573.jpg" caption="Les vignes, la vendangeuse et son travail à gauche; les 2 boules blanches de Spy Valley au centre; les pivoines avant et après la taille à droite" %}
 
 Nos matinées sont occupées par la taille d'automne des pivoines, moralement assistés par Archie et Jessy (les deux vieux chiens de la maison). Et après un copieux dîner, après-midi libre : direction la piscine ou découverte de Blenheim et ses environs. Après un copieux souper, on choisit notre programme cinéma de la soirée parmi leur collection de DVDs et retour dans notre annexe.
 
-{% include image.html url="https://lh3.googleusercontent.com/-IabLRq_ZEbI/VU2c8w-iBuI/AAAAAAAAFMM/TiqTFUZxBDU/s512/PhotoGrid_1430469333858.jpg" caption="Chez Rosemary et Jeremy : le jardin, la maison et Archie" %}
+{% include image.html url="https://lh3.googleusercontent.com/-IabLRq_ZEbI/VU2c8w-iBuI/AAAAAAAAFMM/TiqTFUZxBDU/s1280/PhotoGrid_1430469333858.jpg" caption="Chez Rosemary et Jeremy : le jardin, la maison et Archie" %}
 
 ### Conseil films néo-zélandais : 
 - "The world fastest Indian" avec A. Hopkins
@@ -37,4 +37,4 @@ Nos matinées sont occupées par la taille d'automne des pivoines, moralement as
 - "Momo", un sauvignon blanc cultivé à Landfall Estate et mis en bouteille par Seresin Estate.
 
 
-{% include image.html url="https://lh3.googleusercontent.com/-YehyYEkAaSo/VU2c8ggBs7I/AAAAAAAAFMI/3DUTLrHb5gM/s512/PhotoGrid_1430468912473.jpg" caption="La terrasse des wwoofers, la piscine, Blenheim et ses environs" %}
+{% include image.html url="https://lh3.googleusercontent.com/-YehyYEkAaSo/VU2c8ggBs7I/AAAAAAAAFMI/3DUTLrHb5gM/s1280/PhotoGrid_1430468912473.jpg" caption="La terrasse des wwoofers, la piscine, Blenheim et ses environs" %}
