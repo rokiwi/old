@@ -5,9 +5,9 @@ categories: articles
 date-begin: 2015-05-25
 date-end: 2015-07-07
 image: 
-  teaser-ext: ""
+  teaser-ext: "http://lh3.googleusercontent.com/-HgZ1JWj35gE/VYzuTx6IpyI/AAAAAAAAFqs/IL4Bjsk76cw/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/oQNW58aD5EvzE4wC7"
-published: true
+published: false
 ---
 
 Lundi matin, 8h, comme tout le monde, on va au travail... Nos particularités : on a passé la nuit au camping municipal, on est habillé comme des cosmonautes (il fait froid !) et on reçoit un sécateur en guise de matériel. Le boulot commence ...
