@@ -7,7 +7,7 @@ date-end: 2015-07-07
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-HgZ1JWj35gE/VYzuTx6IpyI/AAAAAAAAFqs/IL4Bjsk76cw/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/oQNW58aD5EvzE4wC7"
-published: false
+published: true
 ---
 
 Lundi matin, 8h, comme tout le monde, on va au travail... Nos particularités : on a passé la nuit au camping municipal, on est habillé comme des cosmonautes (il fait froid !) et on reçoit un sécateur en guise de matériel. Le boulot commence ...
@@ -30,12 +30,12 @@ On profite des week-ends pour aider Susie: rangement des ses différents garages
 
 Week-end spécial : on part à Kaikoura avec Ron (car Susie est en vacances à Wanaka) et Jenn, dans la maison de vacances de son patron (il nous a même proposé son bateau mais on ne sait pas naviguer :) ). 
 
-{% include image.html url="" caption="Kaikoura Beach" %}
+{% include image.html url="http://lh3.googleusercontent.com/-Fwm9UCtrYbY/VZ2wiOq9WLI/AAAAAAAAF5k/ssBNKXFCxdU/s1280/PhotoGrid_1436256539833.jpg" caption="Kaikoura Beach" %}
 
-{% include image.html url="" caption="Sawcut Gorge, ou la balade aux 25 traversées de rivière (ça doit être vraiment super en été ;) )" %}
+{% include image.html url="http://lh3.googleusercontent.com/-rhGKFKrhrag/VZ2wiPGqOhI/AAAAAAAAF5Y/wrA0y9rvHc8/s1280/PhotoGrid_1436256800063.jpg" caption="Sawcut Gorge, ou la balade aux 25 traversées de rivière (ça doit être vraiment super en été ;) )" %}
 
 {% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEbk1hNDEzTE02Zm8/preview" caption="Ron n'aime pas quand on croise d'autres véhicules sur la route" %}
 
 Pimp my chariot - épisode 3: la cuisine. Nos petits gaz cookers bon marché ne sont même plus capables de faire bouillir de l'eau, il est temps d'investir ! Le nouveau modèle est entièrement en fonte et fonctionne avec une bonbonne de gaz. Le tout est dans un tiroir sur mesure qui s'ouvre à l'abri du coffre ouvert.
 
-{% include image.html url="" caption="Avant, après" %}
+{% include image.html url="http://lh3.googleusercontent.com/-4uiBBABowX4/VaCb_XhsVyI/AAAAAAAAF6s/eV6Xhajxt7c/s1280/PhotoGrid_1436569515374.jpg" caption="Avant, après" %}
