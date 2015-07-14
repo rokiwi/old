@@ -22,7 +22,7 @@ Lundi matin, 8h, comme tout le monde, on va au travail... Nos particularités : 
 
 {% include image.html url="http://lh3.googleusercontent.com/-OoP45dT7DWI/VYzujtb0RWI/AAAAAAAAFsE/oSrsll4AVEE/s1280/upload_-1.jpg" caption="Amberley Beach et Mount Grey" %}
 
-On profite des week-ends pour aider Susie: rangement des ses différents garages (dont un servira de petit nid douillet à la chariotte) et granges, préparation de composts, vaccination des moutons, peinture et bricolage en tous genres. On pratique 'l'échange culturel alimentaire': Susie, qui est Anglaise, nous mijote d'excellents stews, Jenn nous initie à de nombreuses spécialités asiatiques (on vous conseille le hot pot) et on leur a cuisiné du gibier avec poires aux airelles et croquettes (de Belgique svp!). Ron, part contre, est végétarien :  le pauvre ami à développé une allergie à la viande, un comble pour un chien !
+On profite des week-ends pour aider Susie: rangement de ses différents garages (dont un servira de petit nid douillet à la chariotte) et granges, préparation de composts, vaccination des moutons, peinture et bricolage en tous genres. On pratique 'l'échange culturel alimentaire': Susie, qui est Anglaise, nous mijote d'excellents stews, Jenn nous initie à de nombreuses spécialités asiatiques (on vous conseille le hot pot) et on leur a cuisiné du gibier avec poires aux airelles et croquettes (de Belgique svp!). Ron, part contre, est végétarien :  le pauvre ami à développé une allergie à la viande, un comble pour un chien !
 
 {% include image.html url="http://lh3.googleusercontent.com/-0Qgc0NmTqV0/VYzus_59X7I/AAAAAAAAFs8/4jgOqnX6Y_A/s1280/upload_-1.jpg" caption="Ron" %}
 
