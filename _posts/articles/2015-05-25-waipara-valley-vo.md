@@ -11,16 +11,16 @@ album: "https://goo.gl/photos/oQNW58aD5EvzE4wC7"
 published: true
 ---
 
-Monday morning, 8am, like everybody, we're going to work... Why are we special ? We spent the night at a campsite, we're dressed like astronauts (it's cold outside!) and we receive a secateur as working tool. Our job starts...
+Monday morning, 8am, like everybody, we're going to work... What's special about us ? We spent the night at a campsite, we're dressed like astronauts (it's cold outside!) and we received a secateur as working tool. Our job starts...
 
-{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEVVVUUUdzaFpUSkE/preview" caption="In short, our job" %}
+{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEVVVUUUdzaFpUSkE/preview" caption="Our job in a nutshell" %}
 
 
 {% include image.html url="http://lh3.googleusercontent.com/-0c_MLDtSqi4/VYzuZd_dcGI/AAAAAAAAFrM/T2Nwsekb3ik/s1280/upload_-1.jpg" caption="Winter pruning in the vineyard" %}
 
 
 
-4pm, the day is over and we go to the library. To borrow a book? To get an accommodation! :) We're told that one of the librarian, Susie, sometimes welcomes people like us. Two hours later, we're driving along her driveway. We're welcomed by Jenn and Ron. Jenn is the Taiwanese vet who also rent a room at Susie's and Ron is the old working dog from the house. There's a huge fire, the house is bright and our room is really comfortable, heaven!! In these excellent conditions, we keep on working at the vineyard.
+4pm, the day is over and we go to the library. Is it to borrow a book? No, not this time. It's to ask for an accommodation! :) We're told that one of the librarian, Susie, sometimes welcomes people like us. Two hours later, we're driving along her driveway. We're let in by Jenn and Ron. Jenn is the Taiwanese vet who also rent a room at Susie's and Ron is the old working dog from the house. There's a huge fire, the house is bright and our room is really comfortable, we're in heaven!! In these excellent conditions, we keep on working at the vineyard.
 
 {% include image.html url="http://lh3.googleusercontent.com/-mXRwpDYYcL8/VYzudtKtKHI/AAAAAAAAFrk/e_IUzGlxw80/s1280/upload_-1.jpg" caption="Susie's Victorian house" %}
 
@@ -34,7 +34,7 @@ We help Susie during the weekends: tidying her several garages (one of them is m
 
 {% include image.html url="http://lh3.googleusercontent.com/-DzcigE65uHU/VYzuo6MnQkI/AAAAAAAAFsk/aCEN5gLh0FY/s1280/upload_-1.jpg" caption="Amazon, another of Susie's guest" %}
 
-Special weekend : we go to Kaikoura with Ron (Susie is on holiday in Wanaka) and Jen. Jen's boss offered us his holiday home (the boat was even part of the deal but no one got his navigation permit :) )
+Special weekend : we go to Kaikoura with Ron (Susie is on holiday in Wanaka) and Jen. Jen's boss offered us his holiday home (the boat was even part of the deal but no one got his navigation permit ... :) )
 
 {% include image.html url="http://lh3.googleusercontent.com/-Fwm9UCtrYbY/VZ2wiOq9WLI/AAAAAAAAF5k/ssBNKXFCxdU/s1280/PhotoGrid_1436256539833.jpg" caption="Kaikoura Beach" %}
 
@@ -42,6 +42,6 @@ Special weekend : we go to Kaikoura with Ron (Susie is on holiday in Wanaka) and
 
 {% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEbk1hNDEzTE02Zm8/preview" caption="Ron seems to dislike crossing other vehicules" %}
 
-Pimp my chariot - third episode : the kitchen. Our tiny cheap gaz cookers are no longer able to boil water. We need to invest. We purchase a new machine made of cast iron that can be plugged into a gaz bottle. The whole is in tailor-made drawer that retracts under the cover of the open rear door.
+Pimp my chariot - third episode : the kitchen. Our tiny cheap gaz cookers are no longer able to boil water. We need to invest. We purchase a new machine made of cast iron that can be plugged into a gaz bottle. The whole is in a tailored drawer that retracts under the cover of the open rear door.
 
 {% include image.html url="http://lh3.googleusercontent.com/-4uiBBABowX4/VaCb_XhsVyI/AAAAAAAAF6s/eV6Xhajxt7c/s1280/PhotoGrid_1436569515374.jpg" caption="Before, after" %}
