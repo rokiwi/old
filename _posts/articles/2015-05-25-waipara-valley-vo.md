@@ -2,6 +2,7 @@
 layout: article
 title: "Waipara Valley"
 categories: articles
+tags: English
 date-begin: 2015-05-25
 date-end: 2015-07-07
 image: 

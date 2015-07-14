@@ -7,6 +7,7 @@ date-end: 2015-07-07
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-HgZ1JWj35gE/VYzuTx6IpyI/AAAAAAAAFqs/IL4Bjsk76cw/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/oQNW58aD5EvzE4wC7"
+translation: "/articles/2015/05/waipara-valley-vo"
 published: true
 ---
 
