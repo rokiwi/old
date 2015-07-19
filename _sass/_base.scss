@@ -62,18 +62,14 @@ a {
 
 // Captions
 figcaption {
- // margin-top: -20px; // Olivier
- // margin-bottom: 20px; // Olivier
 	padding-left: 2 * $gutter;
 	padding-right: 2 * $gutter;
 	font-family: $alt-font;
 	@include font-size(12,no,15);
 	color: lighten($text-color, 10);
-	text-align: center;
+	text-align: cent;
 	clear: both;
 	@include media($large) {
-  // margin-top: 0px; // Olivier
-  // margin-bottom: 0px; // Olivier
 		position: absolute;
 		top: 1px;
 		right: (3 * $column + $gutter) * -1;
