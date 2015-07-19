@@ -10,9 +10,9 @@ album: "https://goo.gl/photos/suzRQQwiR77Z6rFe9"
 published: true
 ---
 
-Quand certains rêvent d'air conditionné ou de piscine, nous, on rêve d'un peu plus de chaleur, donc direction "le Nord" ! Vous pensez peut-être qu'on a perdu la carte, qu'il va faire encore plus froid là-bas... Mais non, car, dans l'hémisphère Sud, le Nord correspond au Sud de l'hémisphère Nord, vous suivez ;) ?
+Quand certains rêvent d'air conditionné ou de piscine, nous, on rêve d'un peu plus de chaleur, donc direction "le Nord" ! Vous pensez peut-être qu'on a perdu la carte, qu'il va faire encore plus froid là-bas... Mais non, car, dans l'hémisphère Sud, le Nord correspond au Sud de l'hémisphère Nord, vous suivez ? ;)
 
-Petite considération pas très relevée :) : "Quand tu marches vers le Nord, tu as le sudoku".
+Petite considération pas très relevée : "Quand tu marches vers le Nord, tu as le sudoku".
 
 On profite une dernière fois des plaisirs de l'île du Sud avant de monter vers ce que les gens du sud considère comme une grande ferme : l'île du Nord. Les derniers phoques à Kaikoura, les dernières routes en gravier entre Blenheim et Picton, les dernières montagnes enneigées, les derniers fjords dans le Marlborough Sound, ...
 
