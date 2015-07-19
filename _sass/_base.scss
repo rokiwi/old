@@ -192,8 +192,8 @@ figure {
 	}
 	@include clearfix;
 	img {
-		margin-bottom: 0px + $doc-line-height;
-		margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+		// margin-bottom: 0px + $doc-line-height;
+		// margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
 	}
 	a {
 		img {
