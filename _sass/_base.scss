@@ -67,7 +67,7 @@ figcaption {
 	font-family: $alt-font;
 	@include font-size(12,no,15);
 	color: lighten($text-color, 10);
-	text-align: cent;
+	text-align: center;
 	clear: both;
 	@include media($large) {
 		position: absolute;
