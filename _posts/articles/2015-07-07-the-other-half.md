@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "De l'autre côté du détroit de Cook"
+title: "Quand tu marches vers le Nord, tu as le sudoku"
 categories: articles
 date-begin: 2015-07-07
 date-end: 2015-07-13
