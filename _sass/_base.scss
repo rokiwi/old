@@ -62,7 +62,7 @@ a {
 
 // Captions
 figcaption {
- margin-bottom: 10px; // Olivier
+ padding-bottom: 10px; // Olivier
 	padding-left: 2 * $gutter;
 	padding-right: 2 * $gutter;
 	font-family: $alt-font;
@@ -75,6 +75,7 @@ figcaption {
 		top: 1px;
 		right: (3 * $column + $gutter) * -1;
 		padding-top: 10px;
+  padding-bottom: 0px; // Olivier
 		padding-left: 0;
 		padding-right: 0;
 		width: (3 * $column);
