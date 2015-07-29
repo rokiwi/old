@@ -7,6 +7,7 @@ date-end: 2015-07-13
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-yK32hXdAv1c/VaSfForyiDI/AAAAAAAAGEk/vSTxokDfdmA/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/suzRQQwiR77Z6rFe9"
+translation: "/articles/2015/07/the-other-half-vo"
 published: true
 ---
 
