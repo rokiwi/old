@@ -7,6 +7,7 @@ date-end: 2015-07-27
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-29BJUTxFKNQ/VbNovGFZ3UI/AAAAAAAAGQ8/Dcpxa4k63ik/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/CtHTfi1pg57k2NEq6"
+translation: "/articles/2015/07/beehive-garden-vo"
 published: true
 ---
 
