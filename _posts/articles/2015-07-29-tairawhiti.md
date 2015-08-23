@@ -51,7 +51,7 @@ Faits marquants:
 
 {% include image.html url="http://lh3.googleusercontent.com/-6D-qa4mJK30/VdleklV5YnI/AAAAAAAAHIE/ybyvGwnNtZs/s1280/upload_-1.jpg" caption="" %}
 
-* on campe dans le village de Waihau où le film 'Boy' a été tourné en 2010. On vous le recommande fortement c'est touchant, assez rigolo et ça donne un excellent aperçu de la région
+* on campe dans le village de Waihau où le film 'Boy' a été tourné en 2010. On vous le recommande fortement: c'est touchant, assez rigolo et ça donne un excellent aperçu de la région
 * le volcan de White Island est le dernier volcan actif de Nouvelle-Zélande, il fumait quand on est passé
 * la balade de Tauranga bridge où la rivière était tellement haute qu'il a fallu retirer nos pantalons pour traverser
 
