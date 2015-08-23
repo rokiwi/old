@@ -17,8 +17,8 @@ Le réseautage, utile pour trouver un travail, fonctionne aussi très bien pour 
 
 Présentation de la famille :
 
--*Rob* : fend du bois comme du beurre, apiculteur, gérant d'un verger d'oranges et de feijoas, se prépare de très généreuses tartines à l'avocat et au miel, fan des [All Blacks](http://www.youtube.com/watch?v=zmM7QeoCP1Y&sns=em)(c'est d'ailleurs chez lui qu'on vu notre premier match [enfin!]), ancien tondeur de montons et ancien champion de course de canoë.
--*An* : institutrix, Maori avec de la famille éloignée en Espagne, responsable des deux chiens de la maison, avait l'habitude de traverser des rivières en nageant accrochée à la queue de son cheval pour ne pas se faire emporter par le courant et joker de Rob quand il ne sait pas la réponse à un mots-croisés.
+-*Rob* : fend du bois comme du beurre, apiculteur, gérant d'un verger d'oranges et de feijoas, se prépare de très généreuses tartines à l'avocat et au miel, fan des [All Blacks](http://www.youtube.com/watch?v=zmM7QeoCP1Y&sns=em) (c'est d'ailleurs chez lui qu'on vu notre premier match de rugby [enfin!]), ancien tondeur de montons et ancien champion de course de canoë.
+-*An* : institutrix, Maori avec de la famille éloignée en Espagne, responsable des deux chiens de la maison, avait l'habitude, quand elle était petite, de traverser des rivières en nageant accrochée à la queue de son cheval pour ne pas se faire emporter par le courant et joker de Rob quand il ne sait pas la réponse à un mots-croisés.
 -*cKodez et Leia* : petits-enfants de An en pension assez stricte à Tokomaru, adolescents (c-à-d soucieux de leur apparence), rechignent parfois à rentrer du bois, faire la vaisselle, leurs devoirs (particulièrement ceux de génétique) ou leur répétition de piano, aiment utiliser leur temps libre à enregistrer des vidéos marrantes et trainer sur facebook.
 
 
@@ -29,13 +29,15 @@ En contrepartie, on déracine des arbustes-mauvaises herbes, on fend du bois, on
 
 
 Au milieu du séjour, on réveille la chariotte pour un road trip de deux nuits autour de la côte Est.
+
 Faits marquants:
-- la région était plus animée dans les années '50 grâce à l'export de laine et on retrouve les vestiges de pontons, usines et bars (un des villages, Waipiro, se traduit 'bière' en maori) dans chaque baie
-- le phare de Est Cape est le phare 'le plus à l'est du monde', il est donc le premier à voir le lever du jour. On monte les 500 marches jusqu'au sommet
-- on passe près du plus gros pohutukawa (c'est une espèce d'arbre pour ceux qui se posaient la question) et des sculptures à l'entrée des marae (lieu où la tribu maori se rassemble pour perpétuer les traditions, on vous re-conseille le film 'Whale Rider')
-- on campe dans le village de Waihau où le film 'Boy' a été tourné en 2010. On vous le recommande fortement c'est touchant, assez rigolo et ça donne un excellent aperçu de la région
-- le volcan de White Island est le dernier volcan actif de Nouvelle-Zélande, il fumait quand on est passé
-- la balade de Tauranga bridge où la rivière était tellement haute qu'il a fallu retirer nos pantalons pour traverser
+
+-la région était plus animée dans les années '50 grâce à l'export de laine et on retrouve les vestiges de pontons, usines et bars (un des villages, Waipiro, se traduit 'bière' en maori) dans chaque baie
+-le phare de Est Cape est le phare 'le plus à l'est du monde', il est donc le premier à voir le lever du jour. On monte les 500 marches jusqu'au sommet
+-on passe près du plus gros pohutukawa (c'est une espèce d'arbre pour ceux qui se posaient la question) et des sculptures à l'entrée des marae (lieu où la tribu maori se rassemble pour perpétuer les traditions, on vous re-conseille le film 'Whale Rider')
+-on campe dans le village de Waihau où le film 'Boy' a été tourné en 2010. On vous le recommande fortement c'est touchant, assez rigolo et ça donne un excellent aperçu de la région
+-le volcan de White Island est le dernier volcan actif de Nouvelle-Zélande, il fumait quand on est passé
+-la balade de Tauranga bridge où la rivière était tellement haute qu'il a fallu retirer nos pantalons pour traverser
 
 Afin de rendre jaloux la majorité de nous lecteurs, sachez qu'on part 10 jours aux îles Samoa, à la découverte d'une autre culture polynésienne... =)
 
