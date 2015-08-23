@@ -48,6 +48,9 @@ Faits marquants:
 {% include image.html url="http://lh3.googleusercontent.com/-SRyufpBtj9U/VdlN2xalssI/AAAAAAAAHDE/Repg7xkQpNI/s1280/upload_-1.jpg" caption="East Cape" %}
 
 * on passe près du plus gros pohutukawa (c'est une espèce d'arbre pour ceux qui se posaient la question) et des sculptures à l'entrée des marae (lieu où la tribu maori se rassemble pour perpétuer les traditions, on vous re-conseille le film 'Whale Rider')
+
+{% include image.html url="http://lh3.googleusercontent.com/-6D-qa4mJK30/VdleklV5YnI/AAAAAAAAHIE/ybyvGwnNtZs/s1280/upload_-1.jpg" caption="" %}
+
 * on campe dans le village de Waihau où le film 'Boy' a été tourné en 2010. On vous le recommande fortement c'est touchant, assez rigolo et ça donne un excellent aperçu de la région
 * le volcan de White Island est le dernier volcan actif de Nouvelle-Zélande, il fumait quand on est passé
 * la balade de Tauranga bridge où la rivière était tellement haute qu'il a fallu retirer nos pantalons pour traverser
@@ -55,13 +58,6 @@ Faits marquants:
 {% include image.html url="http://lh3.googleusercontent.com/-_XoVdaZJl5A/VdlNt6pZI1I/AAAAAAAAHCs/C72kG0ixrB4/s1280/upload_-1.jpg" caption="Tauranga" %}
 
 {% include image.html url="http://lh3.googleusercontent.com/-YjtdB5onWOg/VdlPZKff8PI/AAAAAAAAHHo/dDTFxPlAPv4/s1280/upload_-1.jpg" caption="Les environs d'Opotiki" %}
-
-
-
-
-{% include image.html url="http://lh3.googleusercontent.com/-_ufZwTT5xhI/VdlOneHD3bI/AAAAAAAAHFM/NRglLfG_P7E/s1280/upload_-1.jpg" caption="" %}
-
-
 
 {% include image.html url="http://lh3.googleusercontent.com/-qVL60yH54Do/VdlPFqN2n3I/AAAAAAAAHGs/9iBGp9JDs6g/s1280/upload_-1.jpg" caption="Gisborne, en revenant de la côte Est" %}
 
