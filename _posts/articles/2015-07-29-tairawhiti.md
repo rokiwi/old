@@ -16,6 +16,7 @@ published: true
 Le réseautage, utile pour trouver un travail, fonctionne aussi très bien pour dénicher un wwoofing original. Il s'avère que le beau-frère de Susie, Rob, habite une région reculée (very remote!), sauvage et bastion d'irréductibles Maoris résistant encore et toujours à l'envahisseur pakeha (descendants d'Européens). Tremblez mauvaises herbes de Tokomaru Bay, on arrive !
 
 Présentation de la famille :
+
 - *Rob* : fend du bois comme du beurre, apiculteur, gérant d'un verger d'oranges et de feijoas, se prépare de très généreuses tartines à l'avocat et au miel, fan des [All Blacks](http://www.youtube.com/watch?v=zmM7QeoCP1Y&sns=em)(c'est d'ailleurs chez lui qu'on vu notre premier match [enfin!]), ancien tondeur de montons et ancien champion de course de canoë.
 - *An* : institutrix, Maori avec de la famille éloignée en Espagne, responsable des deux chiens de la maison, avait l'habitude de traverser des rivières en nageant accrochée à la queue de son cheval pour ne pas se faire emporter par le courant et joker de Rob quand il ne sait pas la réponse à un mots-croisés.
 - *cKodez et Leia* : petits-enfants de An en pension assez stricte à Tokomaru, adolescents (c-à-d soucieux de leur apparence), rechignent parfois à rentrer du bois, faire la vaisselle, leurs devoirs (particulièrement ceux de génétique) ou leur répétition de piano, aiment utiliser leur temps libre à enregistrer des vidéos marrantes et trainer sur facebook.
