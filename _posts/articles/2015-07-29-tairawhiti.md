@@ -11,7 +11,7 @@ album: "https://goo.gl/photos/Ap2qFP9ixrRvzHNt6"
 published: true
 ---
 
-{% include image.html url="" caption="" %}
+
 
 Le réseautage, utile pour trouver un travail, fonctionne aussi très bien pour dénicher un wwoofing original. Il s'avère que le beau-frère de Susie, Rob, habite une région reculée (very remote!), sauvage et bastion d'irréductibles Maoris résistant encore et toujours à l'envahisseur pakeha (descendants d'Européens). Tremblez mauvaises herbes de Tokomaru Bay, on arrive !
 
