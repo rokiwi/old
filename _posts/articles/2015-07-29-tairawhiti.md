@@ -8,7 +8,7 @@ location: "160+hikuwai+tokomaru+"
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-GHJVjfeK77M/VdlPRHG03jI/AAAAAAAAHHQ/hohalE0yQ9I/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/Ap2qFP9ixrRvzHNt6"
-published: false
+published: true
 ---
 
 Le réseautage, utile pour trouver un travail, fonctionne aussi très bien pour dénicher un wwoofing original. Il s'avère que le beau-frère de Susie, Rob, habite une région reculée (very remote!), sauvage et bastion d'irréductibles Maoris résistant encore et toujours à l'envahisseur pakeha (descendants d'Européens). Tremblez mauvaises herbes de Tokomaru Bay, on arrive !
@@ -25,7 +25,7 @@ Présentation de la famille :
 
 {% include image.html url="http://lh3.googleusercontent.com/-wgiHsD3_fbI/VdlNo1kr-uI/AAAAAAAAHCc/w0VkYEgBkVo/s1280/upload_-1.jpg" caption="Les chiens : Tarua (aka mummy, la maman) et Choro (aka fristouille, le bébé emprunteur de chaussettes)" %}
 
-Dès le départ, nos hôtes mettent la barre très haut : on va pinter au club de rugby du village, on reçoit de la langouste pour souper (offertes par un ami pêcheur maori, il y en avait 8 énormes, tellement grosses qu'un en a eu pour deux jours !!), on nous initie à la cuisine locale, à savoir le hangi (plus d'infos dans la section recettes ;) ) et, chez eux, les avocats tombent du ciel.
+Dès le départ, nos hôtes mettent la barre très haut : on va pinter au club de rugby du village, on reçoit de la langouste pour souper (offertes par un ami pêcheur maori, il y en avait 8 énormes, tellement grosses qu'un en a eu pour deux jours !!), on nous initie à la cuisine locale, à savoir le hangi ([plus d'infos dans la section recettes](/recipes/2015/08/hangi) ;) ) et, chez eux, les avocats tombent du ciel.
 
 {% include image.html url="http://lh3.googleusercontent.com/-D962MPmy8V8/VdlPOY8-ZtI/AAAAAAAAHHI/Ngzv1PRqKJc/s1280/upload_-1.jpg" caption="Une langouste, les avocats à partager avec les oiseaux et ..." %}
 
