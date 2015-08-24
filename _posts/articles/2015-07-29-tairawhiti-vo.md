@@ -24,7 +24,7 @@ Family portrait :
 
 {% include image.html url="http://lh3.googleusercontent.com/-agRMlBo70Cs/VdlOwteejyI/AAAAAAAAHFs/zqlmgGGskLc/s1280/upload_-1.jpg" caption="Hikuwai road" %}
 
-{% include image.html url="http://lh3.googleusercontent.com/-wgiHsD3_fbI/VdlNo1kr-uI/AAAAAAAAHCc/w0VkYEgBkVo/s1280/upload_-1.jpg" caption="Les chiens : Tarua (aka mummy, the mum) et Choro (aka fristouille, the socks borrowing baby)" %}
+{% include image.html url="http://lh3.googleusercontent.com/-wgiHsD3_fbI/VdlNo1kr-uI/AAAAAAAAHCc/w0VkYEgBkVo/s1280/upload_-1.jpg" caption="The dogs : Tarua (aka mummy, the mum) et Choro (aka fristouille, the socks borrowing baby)" %}
 
 We are impressed from the beginning : our hosts take us to have a drink at the local rugby field, we are given crayfish for dinner (a gift from a Maori fishermen friend, the 8 were so fat it took two days to finish them), we have a go at the local cuisine : the hangi (see ['recipes'](/recipes/2015/08/hangi)) 
 
