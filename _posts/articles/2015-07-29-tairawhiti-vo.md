@@ -20,7 +20,7 @@ Family portrait :
 
 * *Rob* : splits wood like a hot knife in butter, beekeeper, orange and feijoa orchard manager, likes generous slices of bread with avocado and honey, [All Blacks](http://www.youtube.com/watch?v=zmM7QeoCP1Y&sns=em) supporter (we saw our first rugby match with him [finally!], former sheep shearer and former champion of canoe racing.
 * *An* : schoolteacher, Maori with distant relatives in Spain, looks after the two dogs of the house, when she was a kid, used to cross rivers swimming hooked to the tail of her horse to fight the flow and Rob's joker when he doesn't know the answer of a crossword.
-* *cKodez et Leia* : An's grandchildren on strict board at Tokomaru, teenagers (so worried about their look), sometimes reluctant to bring wood in, wash the dishes, do their homework (mainly the genetic ones) or practice piano, like their free time to go on Facebook or record funny videos.
+* *cKodez et Leia* : An's grandchildren on strict board at Tokomaru, teenagers (so worried about their look), sometimes reluctant to bring wood in, wash the dishes, do their homework (mainly the genetic ones) or practice piano, like to use their free time to go on Facebook or record funny videos.
 
 {% include image.html url="http://lh3.googleusercontent.com/-agRMlBo70Cs/VdlOwteejyI/AAAAAAAAHFs/zqlmgGGskLc/s1280/upload_-1.jpg" caption="Hikuwai road" %}
 
