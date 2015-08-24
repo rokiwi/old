@@ -12,13 +12,11 @@ album: "https://goo.gl/photos/Ap2qFP9ixrRvzHNt6"
 published: true
 ---
 
-The network 
-
-Le réseautage, utile pour trouver un travail, fonctionne aussi très bien pour dénicher un wwoofing original. Il s'avère que le beau-frère de Susie, Rob, habite une région reculée (very remote!), sauvage et bastion d'irréductibles Maoris résistant encore et toujours à l'envahisseur pakeha (descendants d'Européens). Tremblez mauvaises herbes de Tokomaru Bay, on arrive !
+Networking is as efficient at finding a job as at entering an out of the beaten track wwoofing. It turns out that Susie's brother-in-law, Rob, lives in a remote and wild area where indomitable Maoris still hold out against the paheka ('of European descent') invaders. Tremble before us, all Tokomaru Bay weeds, we are on our way.
 
 {% include image.html url="http://lh3.googleusercontent.com/-zxooENyUGEo/VdlNgW7rO3I/AAAAAAAAHCE/FWPTovirToc/s1280/upload_-1.jpg" caption="Mahia Peninsula" %}
 
-Présentation de la famille :
+Family portrait :
 
 * *Rob* : fend du bois comme du beurre, apiculteur, gérant d'un verger d'oranges et de feijoas, se prépare de très généreuses tartines à l'avocat et au miel, fan des [All Blacks](http://www.youtube.com/watch?v=zmM7QeoCP1Y&sns=em) (c'est d'ailleurs chez lui qu'on a vu notre premier match de rugby [enfin!]), ancien tondeur de montons et ancien champion de course de canoë.
 * *An* : institutrix, Maori avec de la famille éloignée en Espagne, responsable des deux chiens de la maison, avait l'habitude, quand elle était petite, de traverser des rivières en nageant accrochée à la queue de son cheval pour ne pas se faire emporter par le courant et joker de Rob quand il ne sait pas la réponse à un mots-croisés.
@@ -28,11 +26,11 @@ Présentation de la famille :
 
 {% include image.html url="http://lh3.googleusercontent.com/-wgiHsD3_fbI/VdlNo1kr-uI/AAAAAAAAHCc/w0VkYEgBkVo/s1280/upload_-1.jpg" caption="Les chiens : Tarua (aka mummy, the mum) et Choro (aka fristouille, the socks borrowing baby)" %}
 
-Dès le départ, nos hôtes mettent la barre très haut : on va pinter au club de rugby du village, on reçoit de la langouste pour souper (offertes par un ami pêcheur maori, il y en avait 8 énormes, tellement grosses qu'on en a eu pour deux jours !!), on nous initie à la cuisine locale, à savoir le hangi ([plus d'infos dans la section recettes](/recipes/2015/08/hangi) ;) ) et, chez eux, les avocats tombent du ciel.
+We are impressed from the beginning : our hosts take us to have a drink at the local rugby field, we are given crayfish for dinner (a gift from a Maori fishermen friend, the 8 were so fat it took two days to finish them), we have a go at the local cuisine : the hangi (see ['recipes'](/recipes/2015/08/hangi)) 
 
 {% include image.html url="http://lh3.googleusercontent.com/-D962MPmy8V8/VdlPOY8-ZtI/AAAAAAAAHHI/Ngzv1PRqKJc/s1280/upload_-1.jpg" caption="Crayfish, avocados to share with the birds and some other stuff " %}
 
-En contrepartie, on déracine des arbustes-mauvaises herbes, on fend du bois, on aide Rob à s'occuper de ses 200 ruches, et les après-midis, on explore les multiples baies de la côte. Les wwoofers ont la vie plus douce que les adolescents de la maison...
+But even in paradise you have to work : pulling tree-sized weeds, cutting wood, helping Rob taking care of the 200 hives. We spend the afternoons exploring the bay's around. Life seems easier as a wwoofer compared to the teenager one.
 
 {% include image.html url="http://lh3.googleusercontent.com/-8VoTNHM9gj0/VdlNdULO-wI/AAAAAAAAHB8/tnqzU6f9hLI/s1280/upload_-1.jpg" caption="Cook's Cove Walkway" %}
 
