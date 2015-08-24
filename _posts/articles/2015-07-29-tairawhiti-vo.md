@@ -12,7 +12,7 @@ album: "https://goo.gl/photos/Ap2qFP9ixrRvzHNt6"
 published: true
 ---
 
-The network ...
+The network 
 
 Le réseautage, utile pour trouver un travail, fonctionne aussi très bien pour dénicher un wwoofing original. Il s'avère que le beau-frère de Susie, Rob, habite une région reculée (very remote!), sauvage et bastion d'irréductibles Maoris résistant encore et toujours à l'envahisseur pakeha (descendants d'Européens). Tremblez mauvaises herbes de Tokomaru Bay, on arrive !
 
@@ -26,17 +26,17 @@ Présentation de la famille :
 
 {% include image.html url="http://lh3.googleusercontent.com/-agRMlBo70Cs/VdlOwteejyI/AAAAAAAAHFs/zqlmgGGskLc/s1280/upload_-1.jpg" caption="Hikuwai road" %}
 
-{% include image.html url="http://lh3.googleusercontent.com/-wgiHsD3_fbI/VdlNo1kr-uI/AAAAAAAAHCc/w0VkYEgBkVo/s1280/upload_-1.jpg" caption="Les chiens : Tarua (aka mummy, la maman) et Choro (aka fristouille, le bébé emprunteur de chaussettes)" %}
+{% include image.html url="http://lh3.googleusercontent.com/-wgiHsD3_fbI/VdlNo1kr-uI/AAAAAAAAHCc/w0VkYEgBkVo/s1280/upload_-1.jpg" caption="Les chiens : Tarua (aka mummy, the mum) et Choro (aka fristouille, the socks borrowing baby)" %}
 
 Dès le départ, nos hôtes mettent la barre très haut : on va pinter au club de rugby du village, on reçoit de la langouste pour souper (offertes par un ami pêcheur maori, il y en avait 8 énormes, tellement grosses qu'on en a eu pour deux jours !!), on nous initie à la cuisine locale, à savoir le hangi ([plus d'infos dans la section recettes](/recipes/2015/08/hangi) ;) ) et, chez eux, les avocats tombent du ciel.
 
-{% include image.html url="http://lh3.googleusercontent.com/-D962MPmy8V8/VdlPOY8-ZtI/AAAAAAAAHHI/Ngzv1PRqKJc/s1280/upload_-1.jpg" caption="Une langouste, les avocats à partager avec les oiseaux et ..." %}
+{% include image.html url="http://lh3.googleusercontent.com/-D962MPmy8V8/VdlPOY8-ZtI/AAAAAAAAHHI/Ngzv1PRqKJc/s1280/upload_-1.jpg" caption="Crayfish, avocados to share with the birds and some other stuff " %}
 
 En contrepartie, on déracine des arbustes-mauvaises herbes, on fend du bois, on aide Rob à s'occuper de ses 200 ruches, et les après-midis, on explore les multiples baies de la côte. Les wwoofers ont la vie plus douce que les adolescents de la maison...
 
 {% include image.html url="http://lh3.googleusercontent.com/-8VoTNHM9gj0/VdlNdULO-wI/AAAAAAAAHB8/tnqzU6f9hLI/s1280/upload_-1.jpg" caption="Cook's Cove Walkway" %}
 
-{% include image.html url="http://lh3.googleusercontent.com/-_JaJBZHwyQU/VdlNjbACrJI/AAAAAAAAHCM/Zo9IvVnQ50Y/s1280/upload_-1.jpg" caption="Tolaga Bay et son ponton en bois le plus long de l'hémisphère sud" %}
+{% include image.html url="http://lh3.googleusercontent.com/-_JaJBZHwyQU/VdlNjbACrJI/AAAAAAAAHCM/Zo9IvVnQ50Y/s1280/upload_-1.jpg" caption="Tolaga Bay and the longest wooden wharf in  the southern hemisphere" %}
 
 Au milieu du séjour, on réveille la chariotte pour un road trip de deux nuits autour de la côte Est.
 
@@ -60,13 +60,13 @@ Faits marquants:
 
 {% include image.html url="http://lh3.googleusercontent.com/-_XoVdaZJl5A/VdlNt6pZI1I/AAAAAAAAHCs/C72kG0ixrB4/s1280/upload_-1.jpg" caption="Tauranga" %}
 
-{% include image.html url="http://lh3.googleusercontent.com/-YjtdB5onWOg/VdlPZKff8PI/AAAAAAAAHHo/dDTFxPlAPv4/s1280/upload_-1.jpg" caption="Les environs d'Opotiki" %}
+{% include image.html url="http://lh3.googleusercontent.com/-YjtdB5onWOg/VdlPZKff8PI/AAAAAAAAHHo/dDTFxPlAPv4/s1280/upload_-1.jpg" caption="Opotiki surroundings" %}
 
-{% include image.html url="http://lh3.googleusercontent.com/-qVL60yH54Do/VdlPFqN2n3I/AAAAAAAAHGs/9iBGp9JDs6g/s1280/upload_-1.jpg" caption="Gisborne, en revenant de la côte Est" %}
+{% include image.html url="http://lh3.googleusercontent.com/-qVL60yH54Do/VdlPFqN2n3I/AAAAAAAAHGs/9iBGp9JDs6g/s1280/upload_-1.jpg" caption="Gisborne, back from the East Coast" %}
 
 Afin de rendre jaloux la majorité de nos lecteurs, sachez qu'on part 10 jours aux îles Samoa, à la découverte d'une autre culture polynésienne... =)
 
-{% include image.html url="http://lh3.googleusercontent.com/-lvf87HwNY4c/VdlOA4v_9qI/AAAAAAAAHDc/GHi-AYaHRTk/s1280/upload_-1.jpg" caption="Cette même Gisborne, en route pour l'aéroport" %}
+{% include image.html url="http://lh3.googleusercontent.com/-lvf87HwNY4c/VdlOA4v_9qI/AAAAAAAAHDc/GHi-AYaHRTk/s1280/upload_-1.jpg" caption="Gisborne again, on the way to the airport" %}
 
 
 
