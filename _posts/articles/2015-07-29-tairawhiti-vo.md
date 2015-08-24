@@ -1,16 +1,18 @@
 ---
 layout: article
-title: "Tairawhiti"
+title: "Tairawhiti (vo)"
 categories: articles
+tags: English
 date-begin: 2015-07-29
 date-end: 2015-08-09
 location: "160+hikuwai+tokomaru+"
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-GHJVjfeK77M/VdlPRHG03jI/AAAAAAAAHHQ/hohalE0yQ9I/s1280/upload_-1.jpg"
 album: "https://goo.gl/photos/Ap2qFP9ixrRvzHNt6"
-translation: "articles/2015/07/tairawhiti-vo"
 published: true
 ---
+
+The network ...
 
 Le réseautage, utile pour trouver un travail, fonctionne aussi très bien pour dénicher un wwoofing original. Il s'avère que le beau-frère de Susie, Rob, habite une région reculée (very remote!), sauvage et bastion d'irréductibles Maoris résistant encore et toujours à l'envahisseur pakeha (descendants d'Européens). Tremblez mauvaises herbes de Tokomaru Bay, on arrive !
 
