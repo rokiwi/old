@@ -40,7 +40,7 @@ Our chariot gets no rest : during our stay we take 2 nights off to visit the Eas
 
 Key facts:
 
-* the area was far more busy in the 50ies thanks to the wool export and a lot of wharf, factories and pub remainings can be found in each bay (even one of village names 'Waipiro' means 'beer' in Maori)
+* the area was far more busy in the 50ies thanks to the wool export and a lot of wharf, factories and pub remainings can be found in each bay (even one of the village names 'Waipiro' means 'beer' in Maori)
 
 {% include image.html url="http://lh3.googleusercontent.com/-2xaCAcAon3E/VdlNz203MRI/AAAAAAAAHC8/NaK8kb3xqoI/s1280/upload_-1.jpg" caption="" %}
 
