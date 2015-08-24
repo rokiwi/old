@@ -38,25 +38,25 @@ En contrepartie, on déracine des arbustes-mauvaises herbes, on fend du bois, on
 
 {% include image.html url="http://lh3.googleusercontent.com/-_JaJBZHwyQU/VdlNjbACrJI/AAAAAAAAHCM/Zo9IvVnQ50Y/s1280/upload_-1.jpg" caption="Tolaga Bay and the longest wooden wharf in  the southern hemisphere" %}
 
-Au milieu du séjour, on réveille la chariotte pour un road trip de deux nuits autour de la côte Est.
+Our chariot gets no rest : during our stay we take 2 nights off to visit the East Coast
 
-Faits marquants:
+Key facts:
 
-* la région était plus animée dans les années '50 grâce à l'export de laine et on retrouve les vestiges de pontons, usines et bars (un des villages, Waipiro, se traduit 'bière' en maori) dans chaque baie
+* the area was far more busy in the 50ies thanks to the wool export and a lot of wharf, factories and pub remainings can be found in each bay (even one of village names 'Waipiro' means 'beer' in Maori)
 
 {% include image.html url="http://lh3.googleusercontent.com/-2xaCAcAon3E/VdlNz203MRI/AAAAAAAAHC8/NaK8kb3xqoI/s1280/upload_-1.jpg" caption="" %}
 
-* le phare de Est Cape est le phare 'le plus à l'est du monde', il est donc le premier à voir le lever du jour. On monte les 500 marches jusqu'au sommet
+* the East Cape lighthouse is the most eastern of its kind in the world meaning it is the first to see the ... light. Ascending the 500 steps is a pretty good way to start your day.
 
 {% include image.html url="http://lh3.googleusercontent.com/-SRyufpBtj9U/VdlN2xalssI/AAAAAAAAHDE/Repg7xkQpNI/s1280/upload_-1.jpg" caption="East Cape" %}
 
-* on passe près du plus gros pohutukawa (c'est une espèce d'arbre pour ceux qui se posaient la question) et des sculptures à l'entrée des maraesa (lieu où la tribu maori se rassemble pour perpétuer les traditions, on vous re-conseille le film 'Whale Rider')
+* we park the chariot under the biggest pohutuka (it's a tree :) ) and come along some terrifying wooden carving at the entrance of maraes (Maori meeting house, you should definitely watch 'Whale Rider' ;) )
 
 {% include image.html url="http://lh3.googleusercontent.com/-6D-qa4mJK30/VdleklV5YnI/AAAAAAAAHIE/ybyvGwnNtZs/s1280/upload_-1.jpg" caption="" %}
 
-* on campe dans le village de Waihau où le film 'Boy' a été tourné en 2010. On vous le recommande fortement: c'est touchant, assez rigolo et ça donne un excellent aperçu de la région
-* le volcan de White Island est le dernier volcan actif de Nouvelle-Zélande, il fumait quand on est passé
-* la balade de Tauranga bridge où la rivière était tellement haute qu'il a fallu retirer nos pantalons pour traverser
+* we stay the night in Waihau, the village where the movie 'Boy' took place. It's another movie we recommend : a moving and funny journey across the area
+* far away in the blur the last NZ active volcano was smoking on White Island
+* the Tauranga bridge walkway and its river crossings, so high we had to take our pants off
 
 {% include image.html url="http://lh3.googleusercontent.com/-_XoVdaZJl5A/VdlNt6pZI1I/AAAAAAAAHCs/C72kG0ixrB4/s1280/upload_-1.jpg" caption="Tauranga" %}
 
@@ -64,7 +64,7 @@ Faits marquants:
 
 {% include image.html url="http://lh3.googleusercontent.com/-qVL60yH54Do/VdlPFqN2n3I/AAAAAAAAHGs/9iBGp9JDs6g/s1280/upload_-1.jpg" caption="Gisborne, back from the East Coast" %}
 
-Afin de rendre jaloux la majorité de nos lecteurs, sachez qu'on part 10 jours aux îles Samoa, à la découverte d'une autre culture polynésienne... =)
+We are not trying to make you jealous but you should know that we are going to the Samoa islands for 10 days. Let's discover another Polynesian culture.
 
 {% include image.html url="http://lh3.googleusercontent.com/-lvf87HwNY4c/VdlOA4v_9qI/AAAAAAAAHDc/GHi-AYaHRTk/s1280/upload_-1.jpg" caption="Gisborne again, on the way to the airport" %}
 

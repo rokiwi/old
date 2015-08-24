@@ -48,7 +48,7 @@ Faits marquants:
 
 {% include image.html url="http://lh3.googleusercontent.com/-SRyufpBtj9U/VdlN2xalssI/AAAAAAAAHDE/Repg7xkQpNI/s1280/upload_-1.jpg" caption="East Cape" %}
 
-* on passe près du plus gros pohutukawa (c'est une espèce d'arbre pour ceux qui se posaient la question) et des sculptures à l'entrée des maraesa (lieu où la tribu maori se rassemble pour perpétuer les traditions, on vous re-conseille le film 'Whale Rider')
+* on passe près du plus gros pohutukawa (c'est une espèce d'arbre pour ceux qui se posaient la question) et des sculptures à l'entrée des maraes (lieu où la tribu maori se rassemble pour perpétuer les traditions, on vous re-conseille le film 'Whale Rider')
 
 {% include image.html url="http://lh3.googleusercontent.com/-6D-qa4mJK30/VdleklV5YnI/AAAAAAAAHIE/ybyvGwnNtZs/s1280/upload_-1.jpg" caption="" %}
 
