@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Tairawhiti (vo)"
+title: "Tairawhiti"
 categories: articles
 tags: English
 date-begin: 2015-07-29
@@ -18,9 +18,9 @@ Networking is as efficient at finding a job as at entering an out of the beaten 
 
 Family portrait :
 
-* *Rob* : fend du bois comme du beurre, apiculteur, gérant d'un verger d'oranges et de feijoas, se prépare de très généreuses tartines à l'avocat et au miel, fan des [All Blacks](http://www.youtube.com/watch?v=zmM7QeoCP1Y&sns=em) (c'est d'ailleurs chez lui qu'on a vu notre premier match de rugby [enfin!]), ancien tondeur de montons et ancien champion de course de canoë.
-* *An* : institutrix, Maori avec de la famille éloignée en Espagne, responsable des deux chiens de la maison, avait l'habitude, quand elle était petite, de traverser des rivières en nageant accrochée à la queue de son cheval pour ne pas se faire emporter par le courant et joker de Rob quand il ne sait pas la réponse à un mots-croisés.
-* *cKodez et Leia* : petits-enfants de An en pension assez stricte à Tokomaru, adolescents (c-à-d soucieux de leur apparence), rechignent parfois à rentrer du bois, faire la vaisselle, leurs devoirs (particulièrement ceux de génétique) ou leur répétition de piano, aiment utiliser leur temps libre à enregistrer des vidéos marrantes et trainer sur facebook.
+* *Rob* : splits wood like a hot knife in butter, beekeeper, orange and feijoa orchard manager, likes generous slices of bread with avocado and honey, [All Blacks](http://www.youtube.com/watch?v=zmM7QeoCP1Y&sns=em) supporter (we saw our first rugby match with him [finally!], former sheep shearer and former champion of canoe racing.
+* *An* : schoolteacher, Maori with distant relatives in Spain, looks after the two dogs of the house, when she was a kid, used to cross rivers swimming hooked to the tail of her horse to fight the flow and Rob's joker when he doesn't know the answer of a crossword.
+* *cKodez et Leia* : An's grandchildren on strict board at Tokomaru, teenagers (so worried about their look), sometimes reluctant to bring wood in, wash the dishes, do their homework (mainly the genetic ones) or practice piano, like their free time to go on Facebook or record funny videos.
 
 {% include image.html url="http://lh3.googleusercontent.com/-agRMlBo70Cs/VdlOwteejyI/AAAAAAAAHFs/zqlmgGGskLc/s1280/upload_-1.jpg" caption="Hikuwai road" %}
 
