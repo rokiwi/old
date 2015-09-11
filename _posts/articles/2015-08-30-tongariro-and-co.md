@@ -28,7 +28,7 @@ Avant de s'enfoncer dans l'atmosphère sulfureuse de Rotorua, une cure "nature e
 
 {% include image.html url="https://lh3.googleusercontent.com/-BPjSA4_PHUk/VfJFmsdX6_I/AAAAAAAAHNM/UXZCOLe21HM/s1280-Ic42/PhotoGrid_1441787591843.jpg" caption="Waikaremoana" %}
 
-Pour deux jours, on est des "wilderness explorers" (kaw kaw kaw)! La région est plutôt humide, 6000mm de pluie par an, ça rend la végétation très luxuriante, ça fait encore plus de cascades, ça pimente la vie en camping. La route est étroite, sinueuse, en gravier, parsemée de chevaux et vaches en liberté, parfois d'un trappeur sortant des buissons avec un sac rempli de poils d'opossums (il parait que la facilité d'arrachage des poils est proportionnelle à la chaleur de la carcasse, gniark gniark gniark)... 
+Pour deux jours, on est des ["wilderness explorers" (kaw kaw kaw)!](https://youtu.be/Wc_kQsNzu7M) La région est plutôt humide, 6000mm de pluie par an, ça rend la végétation très luxuriante, ça fait encore plus de cascades, ça pimente la vie en camping. La route est étroite, sinueuse, en gravier, parsemée de chevaux et vaches en liberté, parfois d'un trappeur sortant des buissons avec un sac rempli de poils d'opossums (il parait que la facilité d'arrachage des poils est proportionnelle à la chaleur de la carcasse, gniark gniark gniark)... 
 
 {% include image.html url="https://lh3.googleusercontent.com/-WC3rGW9xWGg/VfJFmifBznI/AAAAAAAAHNM/kN9JoxsfOf4/s1280-Ic42/PhotoGrid_1441703283860.jpg" caption="Encore des cascades" %}
 
