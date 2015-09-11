@@ -7,7 +7,7 @@ date-end: 2015-09-05
 image: 
   teaser-ext: ""
 album: ""
-published: false
+published: true
 ---
 
 Après une petite semaine de ré-acclimatation à la NZ, on ne résiste plus à l'appel de l'aventure. Le chemin le plus rapide est rarement le plus beau : on se retrouve sur "Gentle Annie", la route entre Hastings et Taihape que personne ne connaît ... Grâce à Trevor, la route se fait maintenant sur fond de musique traditionnelle écossaise.
@@ -40,9 +40,9 @@ Notre dernière aventure dans ce parc est une marche, sous le couvert d'immenses
 
 Après une paisible nuit au bord d'un des 18 lacs de Rotorua (en NZ aussi les tenanciers de camping sont parfois hollandais :) ) et une trempette dans les "hot pools" de Kerosene Creek, on est boosté pour la journée : on écume les attractions touristiques de la célèbre ville géothermale tels que les lacs fumants, le jardin botanique, les marae, les égouts qui bouillonnent, les mares à boues (:p), ... On en profite un max avant que les trois millions de touristes annuels ne viennent respirer cet air sulfureux (l'odeur de vieux prout serait-elle enivrante ?).
 
-{% include image.html url="" caption="Rotorua-centre" %}
+{% include image.html url="https://lh3.googleusercontent.com/-5yi3QqhvJ7g/VfJFmnYTfgI/AAAAAAAAHNM/sT-3r4Eh7v4/s1280-Ic42/PhotoGrid_1441692181118.jpg" caption="Rotorua-centre" %}
 
-{% include image.html url="" caption="Rotorua-environs" %}
+{% include image.html url="https://lh3.googleusercontent.com/-znXy_0BS5_c/VfJFmnm5uPI/AAAAAAAAHNI/2QSoauLw040/s1280-Ic42/PhotoGrid_1441700518340.jpg" caption="Rotorua-environs" %}
 
 Le soleil nous accompagne pour la dernière journée de cet intense voyage. On longe toute la côte jusqu'à la péninsule de Coromandel où un wwoofing prometteur se dessine : d'après les photos, c'est casque sur la tête et baudrier autour des fesses que le désherbage s'effectue. Chut ... on ne t'en dit pas plus avant le prochain article ...
 
