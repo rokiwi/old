@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recettes/Recipes"
+title: "Recettes/Recipies"
 ---
 
 <ul>
