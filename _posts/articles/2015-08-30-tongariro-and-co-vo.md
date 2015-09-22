@@ -21,15 +21,15 @@ We arrive unhindered in one of the most touristy area of the North Island: Tonga
 
 {% include image.html url="https://lh3.googleusercontent.com/-dxSwXpjuWTY/VfJFmuprM6I/AAAAAAAAHNM/3iut1_1OHSo/s1280-Ic42/PhotoGrid_1441789068359.jpg" caption="Mont Ruapehu and a few waterfalls" %}
 
-We circumvent a snowy Tongariro (Soron and Frodon would have been freaking cold in a Mordor like this) and we focus on the waterfalls and gorges which proliferate all around. As we keep on driving to North, it starts smoking from everywhere!! We take the opportunity to paddle in the sulphurous (and free) public bath from Reporoa, at about 45°C.
+We circumvent a snowy Tongariro (Soron and Frodon would have been freaking cold in a Mordor like this) and we focus on the waterfalls and gorges which proliferate all around. As we keep on driving North, it starts smoking from everywhere!! We take the opportunity to paddle in the sulphurous (and free) public bath from Reporoa, at about 45°C.
 
-Before the smoky environment of Rotorua, a "nature and culture" break is essential. Te Urewera National Park remembers us that New Zealand is not only the big farm from Great Britain. It's Maoris territory, even more fierce than the ones from East Cape, rebels who didn't want to sign an agreement with European settlers (Waitangi treaty).
+Before the smoky environment of Rotorua, a "nature and culture" break is essential. Te Urewera National Park remembers us that New Zealand is not only Great Britain's big farm. It's Maoris territory, even more fierce than the ones from East Cape, rebels who didn't want to sign an agreement with European settlers (Waitangi treaty).
 
 {% include image.html url="https://lh3.googleusercontent.com/-TQXR8p0rwXw/VfJFmvzBFhI/AAAAAAAAHNI/bJPyfPIENHg/s1280-Ic42/PhotoGrid_1441787321920.jpg" caption="Lou's lookout and Fairy springs" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-BPjSA4_PHUk/VfJFmsdX6_I/AAAAAAAAHNM/UXZCOLe21HM/s1280-Ic42/PhotoGrid_1441787591843.jpg" caption="Waikaremoana" %}
 
-During two days, we're ["wilderness explorers" (kaw kaw kaw)!](https://youtu.be/Wc_kQsNzu7M) It's quite 'humid' here with 6000mm of rain power year: vegetation is so lush, waterfalls are numerous and camping life is more interesting. The gravel road is narrow, winding, with wandering stock, sometimes with a trapper coming out of the bush with a bag full of possum hair...
+During two days, we're ["wilderness explorers" (kaw kaw kaw)!](https://youtu.be/Wc_kQsNzu7M) It's quite 'humid' here with 6000mm of annual rain: vegetation is so lush, waterfalls are numerous and camping life is more interesting. The gravel road is narrow, winding, with wandering stock, sometimes with a trapper coming out of the bush with a bag full of possum hair...
 
 {% include image.html url="https://lh3.googleusercontent.com/-WC3rGW9xWGg/VfJFmifBznI/AAAAAAAAHNM/kN9JoxsfOf4/s1280-Ic42/PhotoGrid_1441703283860.jpg" caption="More waterfalls" %}
 
@@ -45,7 +45,7 @@ After a quiet night on the shore of one of the 18 lakes of Rotorua (in NZ the ca
 
 {% include image.html url="https://lh3.googleusercontent.com/-znXy_0BS5_c/VfJFmnm5uPI/AAAAAAAAHNI/2QSoauLw040/s1280-Ic42/PhotoGrid_1441700518340.jpg" caption="Rotorua-surrondings" %}
 
-The sun is with us for the last day of this intense trip. We follows the coast until Coronal peninsula where a wwoofing of a new kind is waiting for us. According to the pictures, you weed with climbing gear and helmet here... ;)
+The sun is with us for the last day of this intense trip. We follow the coast until Coromandel peninsula where a wwoofing of a new kind is waiting for us. According to the pictures, you weed with climbing gear and helmet here... ;)
 
 {% include image.html url="https://lh3.googleusercontent.com/-YXmAgSEsKiE/VfJFmtpu1fI/AAAAAAAAHNM/OZw-OPHkWE8/s1280-Ic42/PhotoGrid_1441789410067.jpg" caption="Whakatane" %}
 
