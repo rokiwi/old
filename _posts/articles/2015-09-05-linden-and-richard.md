@@ -30,13 +30,13 @@ Herbe de la pampa, wooly nightshade et honeysucckle sont nos objectifs principau
 
 Encore une fois, on profite de ce wwoofing pour explorer les environs, la péninsule de Coromandel. On rencontre les premiers kauris, ces arbres immenses qui peuvent vivre des centaines d'années. Ils ont été massivement abattu à l'arrivée des Européens mais les spécimens restants sont impressionnants ! 
 
-{% include image.html url="https://lh3.googleusercontent.com/-V3CfVuT-kNk/VgcmOl1QeZI/AAAAAAAAIo4/-jxG5AXiZyo/s576-Ic42/PhotoGrid_1443088335116.jpg" caption="La 'Coastal Walk' tout au bout de Coromandel" %}
+{% include image.html url="https://lh3.googleusercontent.com/-V3CfVuT-kNk/VgcmOl1QeZI/AAAAAAAAIo4/-jxG5AXiZyo/s912-Ic42/PhotoGrid_1443088335116.jpg" caption="La 'Coastal Walk' tout au bout de Coromandel" %}
 
-{% include image.html url="https://lh3.googleusercontent.com/-O5Oty-YVz1M/VgcmOieH5ZI/AAAAAAAAIo4/A1cSQMBlAMg/s128-Ic42/PhotoGrid_1443087801425.jpg" caption="La suite de la 'Coastal Walk' et un gecko rencontré en chemin" %}
+{% include image.html url="https://lh3.googleusercontent.com/-O5Oty-YVz1M/VgcmOieH5ZI/AAAAAAAAIo4/A1cSQMBlAMg/s912-Ic42/PhotoGrid_1443087801425.jpg" caption="La suite de la 'Coastal Walk' et un gecko rencontré en chemin" %}
 
-{% include image.html url="https://lh3.googleusercontent.com/-vsnRQsjvFmw/VgcmOts8GjI/AAAAAAAAIo4/66Nnns4pZ9U/s912-Ic42/PhotoGrid_1443086874756.jpg" caption="Hahei et un pluvier guinard [à vérifier] ('North Island dotterel')" %}
+{% include image.html url="https://lh3.googleusercontent.com/-vsnRQsjvFmw/VgcmOts8GjI/AAAAAAAAIo4/66Nnns4pZ9U/s912-Ic42/PhotoGrid_1443086874756.jpg" caption="Hahei et un pluvier ('North Island dotterel/tūturiwhatu')" %}
 
-{% include image.html url="https://lh3.googleusercontent.com/-xmLBeBphZF8/VgcmOnxozLI/AAAAAAAAIo4/EbM8PSqE1U8/s128-Ic42/PhotoGrid_1443086561583.jpg" caption="Cathedral Cove (les touristes ré-envahissent la NZ, on doit se garer 30min plus loin car le parking est rempli ... )" %}
+{% include image.html url="https://lh3.googleusercontent.com/-xmLBeBphZF8/VgcmOnxozLI/AAAAAAAAIo4/EbM8PSqE1U8/s912-Ic42/PhotoGrid_1443086561583.jpg" caption="Cathedral Cove (les touristes ré-envahissent la NZ, on doit se garer 30min plus loin car le parking est rempli ... )" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-1s3U5W4D28U/VgcmOhCGqdI/AAAAAAAAIo0/shS71r6m_to/s912-Ic42/PhotoGrid_1443086042751.jpg" caption="Deux mines d'or : l'une désaffectée et l'autre, à ciel ouvert, toujours en activité (enfin plus pour longtemps, va bientôt devenir un lac [encore un])" %}
 
@@ -44,9 +44,10 @@ Encore une fois, on profite de ce wwoofing pour explorer les environs, la pénin
 
 {% include image.html url="https://lh3.googleusercontent.com/-EYq5yb8ya98/VgcmOivSQLI/AAAAAAAAIo0/MBNqrAXfD3U/s912-Ic42/PhotoGrid_1443090195949.jpg" caption="Coromandel town et les kauris : à Coroglen, le long de route 309 (la route 66 du coin mais en gravier)" %}
 
-{% include image.html url="https://lh3.googleusercontent.com/-2_GDT9-gmHI/VgcmOlSUM_I/AAAAAAAAIo0/roVVGeZZwIo/s912-Ic42/PhotoGrid_1443091000843.jpg" caption="À compléter par notre expert phytopath" %}
+{% include image.html url="https://lh3.googleusercontent.com/-2_GDT9-gmHI/VgcmOlSUM_I/AAAAAAAAIo0/roVVGeZZwIo/s912-Ic42/PhotoGrid_1443091000843.jpg" caption="Note phytopathologique: les kauris sont décimés par un champignon (<i>Phytophthora</i>) transporté par le sol. Pour limiter la dispersion de la maladie, il faut brosser et désinfecter ses chaussures avant et après chaque balade." %}
 
 
-{% include image.html url="https://lh3.googleusercontent.com/-JfSovw2GueI/VgcmOoXbxxI/AAAAAAAAIo4/1re1F6H7csU/s912-Ic42/PhotoGrid_1443090315145.jpg" %}
+
+
 
 
