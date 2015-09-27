@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Linden and Richard"
+title: "Linden et Richard"
 categories: articles
 date-begin: 2015-09-05
 date-end: 2015-09-20
