@@ -1,6 +1,7 @@
 ---
 layout: samoa
 title: "Lava Fields"
+categories: samoa
 image: ""
 previous: "joelan"
 next: "crater-man"

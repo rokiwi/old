@@ -1,6 +1,7 @@
 ---
 layout: samoa
 title: "Piula Cave"
+categories: samoa
 image: ""
 previous: "apia"
 next: "manono"

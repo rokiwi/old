@@ -1,6 +1,7 @@
 ---
 layout: samoa
 title: "Maota-o-Ma'a Beach Fale"
+categories: samoa
 image: ""
 previous: "blow-hole"
 next: "coastal-walk"

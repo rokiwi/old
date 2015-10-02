@@ -1,6 +1,7 @@
 ---
 layout: samoa
 title: "Salelonga"
+categories: samoa
 image: ""
 previous: "bus"
 next: "joelan"

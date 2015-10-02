@@ -1,6 +1,7 @@
 ---
 layout: samoa
 title: "Afa Aau Waterfall"
+categories: samoa
 image: ""
 previous: "falealupo"
 next: "satuiatua"

@@ -14,6 +14,10 @@ permalink: /
   {% continue %}
 {% endif %}
 
+{% if post.categories contains 'samoa' %}
+  {% continue %}
+{% endif %}
+
 <article class="tile" itemscope itemtype="http://schema.org/Article">
   {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
   {% capture pyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}

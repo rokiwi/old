@@ -1,6 +1,7 @@
 ---
 layout: samoa
 title: "Da Crater Man"
+categories: samoa
 image: ""
 previous: "lava-fields"
 next: "falealupo"
