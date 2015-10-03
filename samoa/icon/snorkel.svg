@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sb="http://simplector.lyoshka.net/base/2.0"
+   xmlns:sp="http://simplector.lyoshka.net/pro/2.0"
+   width="38.0px"
+   height="30.0px"
+   viewBox="0 0 38.0 30.0"
+   sb:fontSize="Custom"
+   sb:pageOrientation="Portrait"
+   version="1.1"
+   sb:version="2.0.22"
+   >
+   <desc>Created in Simplector</desc>
+   <path
+      id="10"
+      transform="matrix(1.2463483,0.0,0.0,1.2463483,-5.347512,1.0977559)"
+      fill="rgb(0,0,0)"
+      fill-opacity="0.0"
+      stroke-width="1.5"
+      stroke-linecap="butt"
+      stroke-linejoin="miter"
+      stroke-miterlimit="1.0"
+      stroke="rgb(0,0,0)"
+      stroke-opacity="1.0"
+      d="
+      M 6.4467793 5.7796254 L 26.938898 5.782534 Q 26.99821 20.9729 16.565441 12.607868 
+      Q 5.121971 21.93069 5.5658603 5.7889624 Z 
+      "
+
+      sb:layerName="PathFigure-10"
+      sb:layerVisible="true"
+      sb:layerLocked="false"
+      sb:pathType="path"
+      >
+   </path>
+   <path
+      id="11"
+      transform="matrix(1.0,0.0,0.0,1.0897692,-2.1494179,-2.2870176)"
+      fill="rgb(0,0,0)"
+      fill-opacity="0.0"
+      stroke-width="1.5"
+      stroke-linecap="butt"
+      stroke-linejoin="miter"
+      stroke-miterlimit="2.0"
+      stroke="rgb(0,0,0)"
+      stroke-opacity="1.0"
+      d="
+      M 35.03919 3.094561 L 36.34068 3.1177864 C 36.131104 15.846119 37.00055 35.452366 23.346666 26.036236 
+      L 25.79997 24.282463 C 33.99284 29.839901 33.23057 15.656771 33.82234 3.181405 Z 
+      
+      "
+
+      sb:layerName="PathFigure-11"
+      sb:layerVisible="true"
+      sb:layerLocked="false"
+      sb:pathType="path"
+      >
+   </path>
+</svg>
