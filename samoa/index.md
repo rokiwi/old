@@ -18,8 +18,8 @@ title: "Samoa"
 
 <style>
 #map {
-  width: 500px;
-  height: 200px;
+  width: 1000px;
+  height: 500px;
 }
 </style>
 
