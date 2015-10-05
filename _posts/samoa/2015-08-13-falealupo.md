@@ -5,7 +5,7 @@ categories: samoa
 image: ""
 previous: "crater-man"
 next: "afa-aau-waterfall"
-published: true
+published: false
 ---
 
 {% include image.html url="" caption="" %}

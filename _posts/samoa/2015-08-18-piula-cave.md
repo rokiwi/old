@@ -5,7 +5,7 @@ categories: samoa
 image: ""
 previous: "apia"
 next: "manono"
-published: true
+published: false
 ---
 
 Dans le respect de la culture chrétienne samoaise, on loue une voiture pour visiter des églises ... Enfin plus particulièrement les "piscines" qui y sont liées. La première chapelle, Piula, est méthodiste et possède une piscine naturelle creusée dans la roche. L'eau est tellement claire qu'on voit les poissons nager. Une partie de la piscine est couverte par une grotte, si tu veux nager à l'ombre ;). 
