@@ -3,8 +3,6 @@ layout: home
 title: "Samoa"
 ---
 
-<div>
-
 <ul>
 {% for post in site.categories.samoa %}
 
@@ -17,7 +15,6 @@ title: "Samoa"
 
 <div id="map"></div>
 
-</div>
 
 <style>
 #map {
