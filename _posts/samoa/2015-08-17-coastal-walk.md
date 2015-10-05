@@ -2,7 +2,6 @@
 layout: samoa
 title: "Coastal Walk"
 categories: samoa
-image: ""
 previous: "maota-o-maa"
 next: "apia"
 published: true
