@@ -5,7 +5,7 @@ title: "Samoa"
 
 
 <ul>
-{% for post in site.categories.recipes %}
+{% for post in site.categories.samoa %}
 
 <li>
   <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
