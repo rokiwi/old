@@ -3,9 +3,6 @@ layout: home
 title: "Samoa"
 ---
 
-<div>
-
-<div id="map"></div>
 
 <ul>
 {% for post in site.categories.recipes %}
@@ -17,7 +14,9 @@ title: "Samoa"
 {% endfor %}
 </ul>
 
-</div>
+<div id="map"></div>
+
+
 
 <style>
 #map {
