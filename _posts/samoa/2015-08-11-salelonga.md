@@ -2,10 +2,9 @@
 layout: samoa
 title: "Salelonga"
 categories: samoa
-image: ""
-previous: "bus"
-next: "joelan"
-published: false
+prev: "bus"
+nex: "joelan"
+published: true
 ---
 
 Si tu cherches quelque chose à Savaii, c'est là que tu le trouveras. Voilà ce qu'on a acheté : des tongs, des lava-lava, un paillasson en chiffons de récupération, une carte de GSM, des cacahuètes samoaises, des beignets de poulet, du taro cuit à la noix de coco, un régime de bananes, une grande cuillère en bois.

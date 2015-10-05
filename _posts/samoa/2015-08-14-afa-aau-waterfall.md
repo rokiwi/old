@@ -2,10 +2,9 @@
 layout: samoa
 title: "Afa Aau Waterfall"
 categories: samoa
-image: ""
-previous: "falealupo"
-next: "satuiatua"
-published: false
+prev: "falealupo"
+nex: "satuiatua"
+published: true
 ---
 
 {% include image.html url="" caption="" %}
