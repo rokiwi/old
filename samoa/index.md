@@ -7,17 +7,15 @@ title: "Samoa"
 
 <div id="map"></div>
 
-{% for post in site.categories.samoa %}
+<ul>
+{% for post in site.categories.recipes %}
 
-<article itemscope itemtype="http://schema.org/Article">
-
-  <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
-  
-  <div> {{ post.content }} </div>
-
-</article>
+<li>
+  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+</li>
   
 {% endfor %}
+</ul>
 
 </div>
 
