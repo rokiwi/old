@@ -2,9 +2,9 @@
 layout: samoa
 title: "Coastal Walk"
 categories: samoa
-previous: "maota-o-maa"
-next: "apia"
-published: false
+prev: "maota-o-maa"
+nex: "apia"
+published: true
 ---
 
 Les déjeuners de chez Maota-O-Ma'a sont beaucoup trop copieux. On choisit la marche à pied comme activité pour dépenser quelques calories. Après avoir été obligeamment déposés par notre hôte le long de la route principale, on marche 3,5km pour rejoindre la 'coastal walk'. Promenade le long de falaises de lave sur lesquelles s'écrasent de monstrueuses vagues, arches et blowholes. La température grimpe et on craque notre première noix de coco/picnic. 

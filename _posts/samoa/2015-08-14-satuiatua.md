@@ -3,9 +3,9 @@ layout: samoa
 title: "Satuiatua Beach Fale"
 categories: samoa
 image: ""
-previous: "afa-aau-waterfall"
-next: "blow-hole"
-published: false
+prev: "afa-aau-waterfall"
+nex: "blow-hole"
+published: true
 ---
 
 {% include image.html url="" caption="" %}
