@@ -5,7 +5,7 @@ categories: samoa
 image: ""
 previous: "falealupo"
 next: "satuiatua"
-published: false
+published: true
 ---
 
 {% include image.html url="" caption="" %}

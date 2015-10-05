@@ -5,7 +5,7 @@ categories: samoa
 image: ""
 previous: "afa-aau-waterfall"
 next: "blow-hole"
-published: false
+published: true
 ---
 
 {% include image.html url="" caption="" %}
