@@ -21,7 +21,7 @@ title: "Samoa"
 
 <style>
 #map {
-  width: 100%;
+  width: 500px;
 }
 </style>
 
