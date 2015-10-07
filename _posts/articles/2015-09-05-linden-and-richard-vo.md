@@ -11,7 +11,7 @@ published: false
 ---
 
 - Pschkr ... " Richard to Linden! I can see one more two meters below where you are ... "
-- Pschkr ... " Linden to Richard ! Got it, put the cattle to boil. We will be there for tea in ten minutes ... "
+- Pschkr ... " Linden to Richard ! Got it, put the kettle to boil. We will be there for tea in ten minutes ... "
 - Pschkr ... " Over ! "
 
 Like policemen on duty, we go after the bad guys. We are looking for illegal weeds : pampa grass is one of it. Our uniform is ... blue of course, and we never go out without our weapons : a bottle of glyphosate, a shark and a talkie.
