@@ -2,12 +2,13 @@
 layout: article
 title: "Linden and Richard"
 categories: articles
+tags: English
 date-begin: 2015-09-05
 date-end: 2015-09-20
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-F-ckVf-6RAg/Vgcp0dqMvNI/AAAAAAAAIq4/Sr4uPB-gj7Y/s912-Ic42/IMG_6942.JPG"
 album: "https://goo.gl/photos/2omUuT3JjVxnYk3E9"
-published: false
+published: true
 ---
 
 - Pschkr ... " Richard to Linden! I can see one more, two meters below where you are ... "
@@ -20,7 +21,7 @@ Like policemen on duty, we go after the bad guys. We are looking for illegal wee
 
 Pampa grass, wooly nightshade and honeysuckle are what we are targeting the most. It's a pest and you better get rid of it if you want to restore the native bush as our host. Invasive animals (stoats, weasel and ferrets) have no rest as well. Traps are all over the property : we help to trigger it and put a new bait. The bait is an egg sprayed with a perfume a human would qualify disgusting but a mustelid cannot resist to (everyone's tastes are different). Then you throw the old egg onto a predefined target (often a tree) with or without success. Since kiwis nest in the valley, it's crucial to catch those little carnivorous mammals.
 
-{% include image.html url="https://lh3.googleusercontent.com/-jD3xf5Pv1Ps/VgcmOg50vqI/AAAAAAAAIo4/J1zOK-LQ55w/s912-Ic42/PhotoGrid_1443089580739.jpg" caption="The house, the pets (BD, Gully and a couple of sparrows), the pool (and by the way the shower to spare water in summer)" %}
+{% include image.html url="https://lh3.googleusercontent.com/-jD3xf5Pv1Ps/VgcmOg50vqI/AAAAAAAAIo4/J1zOK-LQ55w/s912-Ic42/PhotoGrid_1443089580739.jpg" caption="The house, the pets (BD, Gully and a couple of swallows), the pool (and by the way the shower to spare water in summer)" %}
 
 Weeding the garden and making compost are still part of our more traditional wwoofing life. Both our host are retired teacher even if they still correct our pronunciation ('thistle' was/is quite hard). Richard was lecturer at Auckland University, specialised in aboriginal and Pacific's traditional music (Samoa, Tonga, Papua-New-Guinea and some even less-known islands). Linden was an orchestra conductor, a music and english teacher. She also taught refugees how to fit in kiwi way of life. Often we get through the evening playing speed Scrabble or Farkle (a dice game).
 
