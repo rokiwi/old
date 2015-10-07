@@ -45,7 +45,7 @@ Once again we won't miss the opportunity to explore the area : Coromandel Penins
 
 {% include image.html url="https://lh3.googleusercontent.com/-EYq5yb8ya98/VgcmOivSQLI/AAAAAAAAIo0/MBNqrAXfD3U/s912-Ic42/PhotoGrid_1443090195949.jpg" caption="Coromandel town and the kauris : in Coroglen, along 309 road (the local gravel 66)" %}
 
-{% include image.html url="https:/M/lh3.googleusercontent.com/-2_GDT9-gmHI/VgcmOlSUM_I/AAAAAAAAIo0/roVVGeZZwIo/s912-Ic42/PhotoGrid_1443091000843.jpg" caption="Phytopathologic highlight : kauris are dying from a soilborne fungus (<i>Phytophthora</i>). To keep the disease from spreading, you ought to brush and disinfect your shoes before and after each walk." %}
+{% include image.html url="https://lh3.googleusercontent.com/-2_GDT9-gmHI/VgcmOlSUM_I/AAAAAAAAIo0/roVVGeZZwIo/s912-Ic42/PhotoGrid_1443091000843.jpg" caption="Phytopathologic highlight : kauris are dying from a soilborne fungus (<i>Phytophthora</i>). To keep the disease from spreading, you ought to brush and disinfect your shoes before and after each walk." %}
 
 
 
