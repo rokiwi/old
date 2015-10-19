@@ -7,6 +7,7 @@ date-end: 2015-09-20
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-F-ckVf-6RAg/Vgcp0dqMvNI/AAAAAAAAIq4/Sr4uPB-gj7Y/s912-Ic42/IMG_6942.JPG"
 album: "https://goo.gl/photos/2omUuT3JjVxnYk3E9"
+translation: "articles/2015/09/linden-and-richard-vo"
 published: true
 ---
 
