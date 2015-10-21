@@ -7,7 +7,7 @@ date-end: 2015-10-11
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-_ti03QkE2MQ/Vib1iGqLkgI/AAAAAAAAJew/fsnDwVQO57M/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
-published: true
+published: false
 ---
 
 Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c’est un peu kif kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
@@ -38,7 +38,9 @@ Chasse au lapin : Ben chasse à la carabine mais aussi à l’arc à flèche les
 
 {% include image.html url="https://lh3.googleusercontent.com/-oslKArtl6vE/VibyGpJ2jfI/AAAAAAAAJSQ/yO0_9UwsgaM/s912-Ic42/upload_-1.jpg" caption="'Épluchage' d'opossum frais, le lapinou et la voiture de fonction" %}
 
-Comme le profil de la ferme est assez escarpé, l’engrais est épandu par un petit avion. Le pilote est digne de la RAF : décollage et atterrissage depuis le dessus de la colline et chargement en 2’ top chrono; ensuite, frappe ‘chirurgicale’. En quelques heures, une cinquantaine de tonnes de superphosphate se retrouve sur les 300ha de collines. Si ça c’est pas efficace ?! (vidéo)
+Comme le profil de la ferme est assez escarpé, l’engrais est épandu par un petit avion. Le pilote est digne de la RAF : décollage et atterrissage depuis le dessus de la colline et chargement en 2’ top chrono; ensuite, frappe ‘chirurgicale’. En quelques heures, une cinquantaine de tonnes de superphosphate se retrouve sur les 300ha de collines. Si ça c’est pas efficace ?!
+
+{% include video.html url="" caption="Épandage du superphosphate" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg" caption="Épandage du superphosphate et le camion-remplisseur-fuel" %}
 
@@ -46,10 +48,7 @@ Parmi les autres ‘must-do’ accomplis :
 
 - La tonte de mouton : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique !
 
-<video width="640" height="480">
-  <source src="https://drive.google.com/uc?export=download&confirm=FrFO&id=0BzIZ3dfuz-CEYXRuTkMwZzBuNlE" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+{% include video.html url="" caption="Tonte des moutons" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg" caption="Tonte des moutons" %}
 
@@ -66,12 +65,3 @@ Your browser does not support the video tag.
 {% include image.html url="https://lh3.googleusercontent.com/-sf6k2oUHUpc/VibyNIxth9I/AAAAAAAAJSg/-ZvfpvLGhYg/s912-Ic42/upload_-1.jpg" caption="et on fait même un puzzle" %}
 
 La fin approche, on n’est plus qu’a 250km de Cape Reinga, Rerenga Wairua : lieu de départ des âmes des morts dans la culture maorie.
-
-
-
-
-
-
-
-
-
