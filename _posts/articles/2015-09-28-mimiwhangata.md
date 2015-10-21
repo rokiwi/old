@@ -7,7 +7,7 @@ date-end: 2015-10-11
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-_ti03QkE2MQ/Vib1iGqLkgI/AAAAAAAAJew/fsnDwVQO57M/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
-published: false
+published: true
 ---
 
 Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c’est un peu kif kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
@@ -40,7 +40,7 @@ Chasse au lapin : Ben chasse à la carabine mais aussi à l’arc à flèche les
 
 Comme le profil de la ferme est assez escarpé, l’engrais est épandu par un petit avion. Le pilote est digne de la RAF : décollage et atterrissage depuis le dessus de la colline et chargement en 2’ top chrono; ensuite, frappe ‘chirurgicale’. En quelques heures, une cinquantaine de tonnes de superphosphate se retrouve sur les 300ha de collines. Si ça c’est pas efficace ?!
 
-{% include video.html url="" caption="Épandage du superphosphate" %}
+{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Épandage du superphosphate" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg" caption="Épandage du superphosphate et le camion-remplisseur-fuel" %}
 
