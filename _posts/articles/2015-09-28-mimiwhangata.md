@@ -51,8 +51,6 @@ Parmi les autres ‘must-do’ accomplis :
 Your browser does not support the video tag.
 </video>
 
-
-
 {% include image.html url="https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg" caption="Tonte des moutons" %}
 
 - Dans la peau d’un ranger du DOC : conduire le pickup de fonction sur les collines mais aussi laver ledit véhicule ainsi que les toilettes du camping :)
