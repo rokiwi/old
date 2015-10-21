@@ -56,7 +56,7 @@ Parmi les autres ‘must-do’ accomplis :
 
 - Aller voir un **match de rugby** : Northland vs Otago. Pompom girls, mascottes, supporters plus ou moins enthousiastes. Malgré quelques très belles actions, le Northland a perdu 36 à 54 [Eoan nous avait prévenu :) ]
 
-- Faire une partie de 'golf champêtre' avec Ben dans le champ à côté de la maison. On a peaufine notre swing en visant les trous creusés par des taureaux excités. On a d’ailleurs dû aider à déplacer ces taureaux et on a pu mesurer la puissance des animaux. Ça vous saute une clôture aussi facilement qu’une chèvre mais on repassera pour la grâce.
+- Faire une partie de **golf champêtre** avec Ben dans le champ à côté de la maison. On a peaufine notre swing en visant les trous creusés par des taureaux excités. On a d’ailleurs dû aider à déplacer ces taureaux et on a pu mesurer la puissance des animaux. Ça vous saute une clôture aussi facilement qu’une chèvre mais on repassera pour la grâce.
 
 {% include image.html url="https://lh3.googleusercontent.com/-X4oCVJUHn94/Vibx5iAsS2I/AAAAAAAAJRw/vBd92ilTup0/s912-Ic42/upload_-1.jpg" caption="Pendant notre temps libre..." %}
 
