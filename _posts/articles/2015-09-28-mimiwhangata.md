@@ -47,7 +47,7 @@ Parmi les autres ‘must-do’ accomplis :
 - La tonte de mouton : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique !
 
 <video width="640" height="480">
-  <source src="https://drive.google.com/uc?export=download&id=0BzIZ3dfuz-CEYXRuTkMwZzBuNlE" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&confirm=FrFO&id=0BzIZ3dfuz-CEYXRuTkMwZzBuNlE" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
