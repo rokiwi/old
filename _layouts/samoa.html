@@ -109,12 +109,7 @@ function setMarkerAndInfo(infoWindow){
 
 
 function initialize() {
-  geocoder = new google.maps.Geocoder();
-
-  if (localStorage.map1) {
-    map = localStorage.map1;
-  } else {
-
+  geocoder = new google.maps.Geocoder();  
   var mapCanvas = document.getElementById('map');
   var mapOptions = {
     zoom: 15,
@@ -125,8 +120,6 @@ function initialize() {
   //geocode(TAFATAFA,setMarkerAndInfo(i2));
   //i3 = getInfoWindow("Piula","Pool cave");
   //geocode("faleapuna",setMarkerAndInfo(i3));
-  localStorage.map1 = map;
-  }
   geocode("papauta", setBounds);
   geocode("vavau", setBounds);
 }
