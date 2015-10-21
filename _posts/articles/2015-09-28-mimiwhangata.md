@@ -5,12 +5,12 @@ categories: articles
 date-begin: 2015-09-28
 date-end: 2015-10-11
 image: 
-  teaser-ext: ""
-album: ""
+  teaser-ext: "https://lh3.googleusercontent.com/-_ti03QkE2MQ/Vib1iGqLkgI/AAAAAAAAJew/fsnDwVQO57M/s912-Ic42/upload_-1.jpg"
+album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
 published: true
 ---
 
-Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c’est un peu kif kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’l'autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
+Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c’est un peu kif kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
 
 {% include image.html url="https://lh3.googleusercontent.com/-2x7y660JiOA/Vibxz0pBiSI/AAAAAAAAJRg/eXAAS-8Ymuw/s912-Ic42/upload_-1.jpg" caption="Vues de la péninsule de Mimiwhangata" %}
 
@@ -22,7 +22,7 @@ Mimiwhangata [à prononcer MimiFangata, c’est du Maori], c’est vachement per
 
 Quelques anecdotes :
 
-Pêche en mer : on n’a pas attrapé grand-chose mais une vingtaine de dauphins sont venus nous dire bonjour trois fois, ils aiment venir se gratter sur les rochers de la baie. On a aussi droit à une démonstration de pêche a l’oursin à mains nues (gare aux épines) suivie d’une dégustation immédiate. [Toujours au même endroit, on a vu une pieuvre cachée dans les rochers]. Pour accéder au site de pêche, il faut traverser quelques prairies, passer au-dessus d’une colline et crapahuter sur quelques rochers ; le tout en trimballant le matériel de pêche sous l’œil de quelques familles de cormorans. On rentre quand même avec deux petits rougets pour le souper.
+Pêche en mer : on n’a pas attrapé grand-chose mais une vingtaine de dauphins sont venus nous dire bonjour trois fois, ils aiment venir se gratter sur les rochers de la baie. On a aussi droit à une démonstration de pêche a l’oursin à mains nues (gare aux épines) suivie d’une dégustation immédiate. [Toujours au même endroit, on a vu une pieuvre cachée dans les rochers]. Pour accéder au site de pêche, il faut traverser une série de prairies, passer au-dessus d’une colline et crapahuter sur quelques rochers ; le tout en trimballant le matériel de pêche sous l’œil de quelques familles de cormorans. On rentre quand même avec deux petits rougets pour le souper.
 
 {% include image.html url="https://lh3.googleusercontent.com/-x37IQWNwiMQ/Vibx9pRo0yI/AAAAAAAAJR4/_hm0U0crfC0/s912-Ic42/upload_-1.jpg" caption="En route vers la plage (la photo verte en bas est, en fait, une tentative de photographier des perroquets exotiques colorés)" %}
 
