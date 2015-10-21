@@ -44,7 +44,14 @@ Comme le profil de la ferme est assez escarpé, l’engrais est épandu par un p
 
 Parmi les autres ‘must-do’ accomplis :
 
-- La tonte de mouton : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique ! (vidéo)
+- La tonte de mouton : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique !
+
+<video width="640" height="480" autoplay>
+  <source src="https://drive.google.com/uc?export=download&id=0BzIZ3dfuz-CEYXRuTkMwZzBuNlE" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
 
 {% include image.html url="https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg" caption="Tonte des moutons" %}
 
