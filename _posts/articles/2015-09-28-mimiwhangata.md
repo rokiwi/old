@@ -10,7 +10,7 @@ album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
 published: true
 ---
 
-Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c’est un peu kif kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
+Mais que nous arrive-t-il ? L’appel de l’inconnu ? Voilà que du traditionnel wwoofing, on jongle du couch surfing la semaine passée au volontariat ! Parfois c’est un peu kif-kif bourricot (le temps de travail et le nombre de repas offerts fluctuent d’une offre à l’autre). Mais, en fin de compte, on vient de cocher pas mal de ‘must-do néo-zélandais’ en un temps record. Voyez plutôt …
 
 {% include image.html url="https://lh3.googleusercontent.com/-2x7y660JiOA/Vibxz0pBiSI/AAAAAAAAJRg/eXAAS-8Ymuw/s912-Ic42/upload_-1.jpg" caption="Vues de la péninsule de Mimiwhangata" %}
 
@@ -22,46 +22,46 @@ Mimiwhangata [à prononcer MimiFangata, c’est du Maori], c’est vachement per
 
 Quelques anecdotes :
 
-Pêche en mer : on n’a pas attrapé grand-chose mais une vingtaine de dauphins sont venus nous dire bonjour trois fois, ils aiment venir se gratter sur les rochers de la baie. On a aussi droit à une démonstration de pêche a l’oursin à mains nues (gare aux épines) suivie d’une dégustation immédiate. [Toujours au même endroit, on a vu une pieuvre cachée dans les rochers]. Pour accéder au site de pêche, il faut traverser une série de prairies, passer au-dessus d’une colline et crapahuter sur quelques rochers ; le tout en trimballant le matériel de pêche sous l’œil de quelques familles de cormorans. On rentre quand même avec deux petits rougets pour le souper.
+- 'Pêche en mer' : on n’a pas attrapé grand-chose mais une vingtaine de dauphins sont venus nous dire bonjour trois fois, ils aiment venir se gratter sur les rochers de la baie. On a aussi droit à une démonstration de pêche a l’oursin à mains nues (gare aux épines) suivie d’une dégustation immédiate. [Toujours au même endroit, on a vu une pieuvre cachée dans les rochers]. Pour accéder au site de pêche, il faut traverser une série de prairies, passer au-dessus d’une colline et crapahuter sur quelques rochers ; le tout en trimballant le matériel de pêche sous l’œil de quelques familles de cormorans. On rentre quand même avec deux petits rougets pour le souper.
 
 {% include image.html url="https://lh3.googleusercontent.com/-x37IQWNwiMQ/Vibx9pRo0yI/AAAAAAAAJR4/_hm0U0crfC0/s912-Ic42/upload_-1.jpg" caption="En route vers la plage (la photo verte en bas est, en fait, une tentative de photographier des perroquets exotiques colorés)" %}
 
-Pêche en eau douce : on va titiller l’anguille cachée sous un gros rocher de la rivière. L’appât est un bout de cœur de mouton, préalablement découpé.
+- 'Pêche en eau douce' : on va titiller l’anguille cachée sous un gros rocher de la rivière. L’appât est un bout de cœur de mouton, préalablement découpé.
 
 {% include image.html url="https://lh3.googleusercontent.com/-XSTbt3I5Afk/VibyDYOkd-I/AAAAAAAAJSI/boIJnbc7LLs/s912-Ic42/upload_-1.jpg" caption="Parties de pêche" %}
 
-Atelier boucherie : on apprend comment dépecer, évider (rappelle-toi les cours de biologie) et découper un mouton fraichement égorgé. On a un peu raté notre coup mais Jack le chien n’est pas trop regardant.
+- 'Atelier boucherie' : on apprend comment dépecer, évider (rappelle-toi les cours de biologie) et découper un mouton fraichement égorgé. On a un peu raté notre coup mais Jack le chien n’est pas trop regardant.
 
-Piégeage d’opossums : on vous parle encore de ces bêtes noires des Néo-Zélandais. Importés d’Australie, ils prolifèrent au pays des kiwis. Pour le bien des forets endémiques, Ben pose des pièges dans l’après-midis. Le lendemain, on va relever ces pièges. (La suite est un peu gore …)
+- 'Piégeage d’opossums' : on vous parle encore de ces bêtes noires des Néo-Zélandais. Importés d’Australie, ils prolifèrent au pays des kiwis. Pour le bien des forets endémiques, Ben pose des pièges dans l’après-midis. Le lendemain, on va relever ces pièges. (La suite est un peu gore …)
 
-Chasse au lapin : Ben chasse à la carabine mais aussi à l’arc à flèche les lapins qui envahissent autant que les opossums. Il a trouvé un bébé lapin tout mignon qu’il a pris sous son aile.
+- 'Chasse au lapin' : Ben chasse à la carabine mais aussi à l’arc à flèche les lapins qui envahissent autant que les opossums. Il a trouvé un bébé lapin tout mignon qu’il a pris sous son aile.
 
 {% include image.html url="https://lh3.googleusercontent.com/-oslKArtl6vE/VibyGpJ2jfI/AAAAAAAAJSQ/yO0_9UwsgaM/s912-Ic42/upload_-1.jpg" caption="'Épluchage' d'opossum frais, le lapinou et la voiture de fonction" %}
 
 Comme le profil de la ferme est assez escarpé, l’engrais est épandu par un petit avion. Le pilote est digne de la RAF : décollage et atterrissage depuis le dessus de la colline et chargement en 2’ top chrono; ensuite, frappe ‘chirurgicale’. En quelques heures, une cinquantaine de tonnes de superphosphate se retrouve sur les 300ha de collines. Si ça c’est pas efficace ?!
 
-{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Épandage du superphosphate" %}
+{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEZ0FNMnlza1UzSjg/preview" caption="Ravitaillement en temps réel" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-zqT9y5zp6KI/VibySq6v-JI/AAAAAAAAJSw/JGTDYLroXRU/s912-Ic42/upload_-1.jpg" caption="Épandage du superphosphate et le camion-remplisseur-fuel" %}
 
 Parmi les autres ‘must-do’ accomplis :
 
-- La tonte de mouton : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique !
+- 'La tonte de mouton' : il n’y en avait que 16 et on a contribué pour un demi mouton seulement. Il faut croire qu’on est un peu trop lent… C’est toute une technique !
 
 {% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEYXRuTkMwZzBuNlE/preview" caption="Tonte des moutons" %}
 
-{% include image.html url="https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg" caption="Tonte des moutons" %}
+{% include image.html url="https://lh3.googleusercontent.com/-FhwjWacsHDQ/VibyQBd1zPI/AAAAAAAAJSo/RudCCC_AwfY/s912-Ic42/upload_-1.jpg" caption="Le shed, les moutons et la tonte" %}
 
-- Dans la peau d’un ranger du DOC : conduire le pickup de fonction sur les collines mais aussi laver ledit véhicule ainsi que les toilettes du camping :)
+- 'Dans la peau d’un ranger du DOC' : conduire le pickup de fonction sur les collines mais aussi laver ledit véhicule ainsi que les toilettes du camping :)
 
-- Aller voir un match de rugby : Northland vs Otago. Pompom girls, mascottes, supporters plus ou moins enthousiastes. Malgré quelques très belles actions, le Northland a perdu 36 à 54 [Eoan nous avait prévenu :) ]
+- Aller voir un 'match de rugby' : Northland vs Otago. Pompom girls, mascottes, supporters plus ou moins enthousiastes. Malgré quelques très belles actions, le Northland a perdu 36 à 54 [Eoan nous avait prévenu :) ]
 
-- Faire une partie de golf champêtre avec Ben dans le champ à côté de la maison. On a peaufine notre swing en visant les trous creusés par des taureaux excités. On a d’ailleurs dû aider à déplacer ces taureaux et on a pu mesurer la puissance des animaux. Ça vous saute une clôture aussi facilement qu’une chèvre mais on repassera pour la grâce.
+- Faire une partie de 'golf champêtre' avec Ben dans le champ à côté de la maison. On a peaufine notre swing en visant les trous creusés par des taureaux excités. On a d’ailleurs dû aider à déplacer ces taureaux et on a pu mesurer la puissance des animaux. Ça vous saute une clôture aussi facilement qu’une chèvre mais on repassera pour la grâce.
 
 {% include image.html url="https://lh3.googleusercontent.com/-X4oCVJUHn94/Vibx5iAsS2I/AAAAAAAAJRw/vBd92ilTup0/s912-Ic42/upload_-1.jpg" caption="Pendant notre temps libre..." %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-bqdshv5AiPw/Vibx26qAiJI/AAAAAAAAJRo/3EtCdzAz-Us/s912-Ic42/upload_-1.jpg" caption="on profite..." %}
 
-{% include image.html url="https://lh3.googleusercontent.com/-sf6k2oUHUpc/VibyNIxth9I/AAAAAAAAJSg/-ZvfpvLGhYg/s912-Ic42/upload_-1.jpg" caption="et on fait même un puzzle" %}
+{% include image.html url="https://lh3.googleusercontent.com/-sf6k2oUHUpc/VibyNIxth9I/AAAAAAAAJSg/-ZvfpvLGhYg/s912-Ic42/upload_-1.jpg" caption="et on même fait un puzzle" %}
 
 La fin approche, on n’est plus qu’a 250km de Cape Reinga, Rerenga Wairua : lieu de départ des âmes des morts dans la culture maorie.
