@@ -114,7 +114,6 @@ function setMarkerFromLocation(x,y,id,icon){
 
   {% else %}
 
-  setCenter(new google.maps.LatLng(-13.758136,-172.10477));
   map.setZoom(10);
 
   {% endif %}
@@ -142,6 +141,7 @@ function initialize() {
   var mapCanvas = document.getElementById('map');
   var mapOptions = {
     zoom: 10,
+    centre: new google.maps.LatLng(-13.758136,-172.10477),
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
   map = new google.maps.Map(mapCanvas, mapOptions);
@@ -161,7 +161,7 @@ function initialize() {
   setMarkerFromLocation(-13.834241,-171.77185, "apia");
   setMarkerFromLocation(-13.8756895,-171.60178, "piula-cave");
   setMarkerFromLocation(-13.853478,-172.11687, "manono");
-  setMarkerFromLocation(-13.83045,-172.0081,"plane");
+  setMarkerFromLocation(-13.83045,-172.0081, "plane");
 
 
   //geocode("Falealupo, samoa", setBounds);
