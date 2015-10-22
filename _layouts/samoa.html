@@ -74,6 +74,18 @@ function setMarker(id, icon){
   };
 }
 
+function setMarker(id){ 
+  return function(location) {
+    var marker = new google.maps.Marker( 
+    { map: map, 
+      url: '/samoa/2015/08/' + id,
+      position: location 
+    }); 
+    google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; });
+    setBounds(location); 
+  };
+}
+
 function setCenter(location){
   map.setCenter(location);
 }
@@ -101,8 +113,9 @@ function initialize() {
   //i3 = getInfoWindow("Piula","Pool cave");
   geocode("tafatafa", setMarker("maota-o-maa","fale"));
   geocode("satuiatuana", setMarker("satuiatuana","fale"));
-  geocode("lano", setMarker("joelan","fale"));
-  geocode("apia", setMarker("bus","bus"));
+  geocode("lano savaii", setMarker("joelan","fale"));
+  geocode("apia", setMarker("apia"));
+  geocode("faleolo", setMarker("plane"));
   geocode("papauta", setBounds);
   geocode("vavau", setBounds);
 }
