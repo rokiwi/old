@@ -61,29 +61,6 @@ var geocoder;
 var map;
 var bounds = new google.maps.LatLngBounds();
 
-function setMarker(id, icon){ 
-  return function(location) {
-    var marker;
-    if(typeof icon == "undefined") {
-      marker = new google.maps.Marker( 
-        { map: map, 
-          url: '/samoa/2015/08/' + id,
-          position: location 
-        }); 
-    }else{
-      marker = new google.maps.Marker( 
-        { map: map, 
-          icon: "/samoa/icon/" + icon + ".svg" ,
-          url: '/samoa/2015/08/' + id,
-          position: location 
-        }); 
-    }
-    google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; });
-    setBounds(location); 
-  };
-}
-
-
 function setMarkerFromLocation(x,y,id,icon){
   var location = new google.maps.LatLng(x,y);
   var marker;
@@ -128,8 +105,6 @@ function initialize() {
   };
   map = new google.maps.Map(mapCanvas, mapOptions);
   setStyles(map);
-  //geocode(TAFATAFA,setMarkerAndInfo(i2));
-  //i3 = getInfoWindow("Piula","Pool cave");
 
   setMarkerFromLocation(-13.823836,-172.1512,"ferry");
   setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
@@ -149,8 +124,8 @@ function initialize() {
   setMarkerFromLocation(-13.83045,-172.0081,"plane");
 
 
-  geocode("papauta", setBounds);
-  geocode("vavau", setBounds);
+  geocode("Falealupo, samoa", setBounds);
+  geocode("salelonga, samoa", setBounds);
 }
 
 
