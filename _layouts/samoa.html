@@ -70,7 +70,7 @@ function addInfoWindow(marker){
     content: contentString
   });
 
-  marker.addListener('click', function() {
+  marker.addListener('loaded', function() {
     infowindow.open(map, marker);
   });
 }
