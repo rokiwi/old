@@ -63,24 +63,20 @@ var bounds = new google.maps.LatLngBounds();
 
 function setMarker(id, icon){ 
   return function(location) {
-    var marker = new google.maps.Marker( 
-    { map: map, 
-      icon: "/samoa/icon/" + icon + ".svg" ,
-      url: '/samoa/2015/08/' + id,
-      position: location 
-    }); 
-    google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; });
-    setBounds(location); 
-  };
-}
-
-function setMarker(id){ 
-  return function(location) {
-    var marker = new google.maps.Marker( 
-    { map: map, 
-      url: '/samoa/2015/08/' + id,
-      position: location 
-    }); 
+    if(typeof icon !== "undefined") {
+      var marker = new google.maps.Marker( 
+        { map: map, 
+          url: '/samoa/2015/08/' + id,
+          position: location 
+        }); 
+    }else{
+      var marker = new google.maps.Marker( 
+        { map: map, 
+          icon: "/samoa/icon/" + icon + ".svg" ,
+          url: '/samoa/2015/08/' + id,
+          position: location 
+        }); 
+    }
     google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; });
     setBounds(location); 
   };
