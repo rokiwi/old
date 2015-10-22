@@ -69,6 +69,7 @@ function setMarker(id){
       url: '/samoa/2015/08/' + id,
       position: location 
     }); 
+    google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; });
     setBounds(location); 
   };
 }
