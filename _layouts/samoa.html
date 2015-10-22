@@ -85,9 +85,7 @@ function setMarker(id, icon){
 
 
 function setMarkerFromLocation(x,y,id,icon){
-  //var location = new google.maps.LatLng(x,y);
-  //alert(location);
-  /*
+  var location = new google.maps.LatLng(x,y);
   var marker;
   if(typeof icon == "undefined") {
     marker = new google.maps.Marker( 
@@ -104,8 +102,6 @@ function setMarkerFromLocation(x,y,id,icon){
       }); 
   }
   google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; });
-    setBounds(location); 
-  };*/
 }
 
 
