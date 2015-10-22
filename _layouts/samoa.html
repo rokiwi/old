@@ -81,12 +81,8 @@ function setMarkerFromLocation(x,y,id,icon){
       }); 
   }
 
-  if("{{ page.prev }}" == id){
-    setBounds(location);
-  }
-
-  if("{{ page.nex }}" == id){
-    setBounds(location);
+  if("{{ page.file }}" == id){
+    setCenter(location);
   }
   
   google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; }); 
@@ -111,7 +107,7 @@ function initialize() {
   geocoder = new google.maps.Geocoder();  
   var mapCanvas = document.getElementById('map');
   var mapOptions = {
-    zoom: 12,
+    zoom: 10,
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
   map = new google.maps.Map(mapCanvas, mapOptions);
