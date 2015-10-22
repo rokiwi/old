@@ -49,8 +49,6 @@ layout: default
 }
 </style>
 
-
-<script src="http://jsconsole.com/remote.js?0E74EF3C-FF07-4409-A91D-C86B6E6E51B8"></script>
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 <script>
 
@@ -133,22 +131,22 @@ function initialize() {
   //geocode(TAFATAFA,setMarkerAndInfo(i2));
   //i3 = getInfoWindow("Piula","Pool cave");
 
-  setMarkerFromLocation("ferry");
-  geocode("Tuasivi, Samoa",setMarker("bus","bus"));
-  geocode("Salelonga, Samoa",setMarker("salelonga"));
-  geocode("Lano, Samoa", setMarker("joelan","fale"));
-  geocode("Saleaula Lava Fields Church, Samoa",setMarker("lava-fields"));
-  geocode("Mt Matavanu, Samoa", setMarker("crater-man","crater"));
-  geocode("falealupo, Samoa", setMarker("falealupo","snorkel"));
-  geocode("Afa Aau Waterfall, Samoa", setMarker("afa-aau-waterfall","waterfall"));
-  geocode("satuiatuana", setMarker("satuiatua","fale"));
-  geocode("Alofaaga Blowholes, Samoa",setMarker("blow-hole","blow-hole"));
-  geocode("Tafatafa, Samoa", setMarker("maota-o-maa","fale"));
+  setMarkerFromLocation(-13.823836,-172.1512,"ferry");
+  setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
+  setMarkerFromLocation(-13.748744,-172.22913,"salelonga");
+  setMarkerFromLocation(-13.613283,-172.20215, "joelan","fale");
+  setMarkerFromLocation(-13.451613,-172.33061, "lava-fields");
+  setMarkerFromLocation(-13.536176,-172.39386, "crater-man","crater");
+  setMarkerFromLocation(-13.499144,-172.78738, "falealupo","snorkel");
+  setMarkerFromLocation(-13.745346,-172.3137, "afa-aau-waterfall","waterfall");
+  setMarkerFromLocation(-13.708181,-172.60092, "satuiatua","fale");
+  setMarkerFromLocation(-13.801262,-172.52443,"blow-hole","blow-hole");
+  setMarkerFromLocation(-14.037134,-171.67784, "maota-o-maa","fale");
   setMarkerFromLocation(-14.0157,-171.7358,"coastal-walk");
-  geocode("Apia, Samoa", setMarker("apia"));
-  geocode("Piula Caves, Samoa", setMarker("piula-cave"));
-  geocode("Sunset View, Manono, Samoa", setMarker("manono"));
-  geocode("faleolo", setMarker("plane"));
+  setMarkerFromLocation(-13.834241,-171.77185, "apia");
+  setMarkerFromLocation(-13.8756895,-171.60178, "piula-cave");
+  setMarkerFromLocation(-13.853478,-172.11687, "manono");
+  setMarkerFromLocation(-13.83045,-172.0081,"plane");
 
 
   geocode("papauta", setBounds);
