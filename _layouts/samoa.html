@@ -93,10 +93,14 @@ function setMarkerFromLocation(x,y,id,icon){
       }); 
   }
 
+  {% if page.file %}
+
   if("{{ page.file }}" == id){
     setCenter(location);
     addInfoWindow(marker);
   }
+
+  {% endif %}
   
   google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; }); 
 }
