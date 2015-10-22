@@ -65,7 +65,7 @@ var bounds = new google.maps.LatLngBounds();
 
 function setMarker(id, icon){ 
   return function(location) {
-    console.log(location);
+    console.log(JSON.stringify(location));
     var marker;
     if(typeof icon == "undefined") {
       marker = new google.maps.Marker( 
