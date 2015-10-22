@@ -84,14 +84,6 @@ function setMarkerFromLocation(x,y,id,icon){
   if("{{ page.file }}" == id){
     setCenter(location);
   }
-
-  if("{{ page.prev }}" == id){
-    setCenter(location);
-  }
-
-  if("{{ page.nex }}" == id){
-    setCenter(location);
-  }
   
   google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; }); 
 }
