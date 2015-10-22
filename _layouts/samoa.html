@@ -67,12 +67,14 @@ function setMarkerFromLocation(x,y,id,icon){
   if(typeof icon == "undefined") {
     marker = new google.maps.Marker( 
       { map: map, 
+        id: id,
         url: '/samoa/2015/08/' + id,
         position: location 
       }); 
   }else{
     marker = new google.maps.Marker( 
       { map: map, 
+        id: id,
         icon: "/samoa/icon/" + icon + ".svg" ,
         url: '/samoa/2015/08/' + id,
         position: location 
