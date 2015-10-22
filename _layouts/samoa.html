@@ -67,14 +67,12 @@ function setMarkerFromLocation(x,y,id,icon){
   if(typeof icon == "undefined") {
     marker = new google.maps.Marker( 
       { map: map, 
-        id: id,
         url: '/samoa/2015/08/' + id,
         position: location 
       }); 
   }else{
     marker = new google.maps.Marker( 
       { map: map, 
-        id: id,
         icon: "/samoa/icon/" + icon + ".svg" ,
         url: '/samoa/2015/08/' + id,
         position: location 
@@ -124,6 +122,22 @@ function initialize() {
   setMarkerFromLocation(-13.8756895,-171.60178, "piula-cave");
   setMarkerFromLocation(-13.853478,-172.11687, "manono");
   setMarkerFromLocation(-13.83045,-172.0081,"plane");
+
+
+  geocode("Falealupo, samoa", setBounds);
+  geocode("salelonga, samoa", setBounds);
+}
+
+
+function geocode(address,c1){
+  geocoder.geocode( {address:address}, 
+    function(results, status) { 
+      if (status == google.maps.GeocoderStatus.OK) { 
+      var test = results[0].geometry.location;
+        console.log(test);
+        c1(results[0].geometry.location);
+      } 
+  });
 }
 
 
