@@ -4,6 +4,7 @@ title: "Salelonga"
 categories: samoa
 prev: "bus"
 nex: "joelan"
+file: salelonga
 published: true
 ---
 

@@ -4,6 +4,7 @@ title: "Lava Fields"
 categories: samoa
 prev: "joelan"
 nex: "crater-man"
+file: lava-fields
 published: true
 ---
 

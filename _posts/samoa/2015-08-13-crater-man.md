@@ -4,6 +4,7 @@ title: "Da Crater Man"
 categories: samoa
 prev: "lava-fields"
 nex: "falealupo"
+file: crater-man
 published: true
 ---
 
