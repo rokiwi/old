@@ -63,6 +63,7 @@ var bounds = new google.maps.LatLngBounds();
 
 function setMarker(id, icon){ 
   return function(location) {
+    alert(location);
     var marker;
     if(typeof icon == "undefined") {
       marker = new google.maps.Marker( 
@@ -101,7 +102,7 @@ function setMarkerFromLocation(x,y,id,icon){
         position: location 
       }); 
   }
-  google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; });
+  google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; }); 
 }
 
 
