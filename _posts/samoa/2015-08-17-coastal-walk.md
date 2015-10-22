@@ -4,6 +4,7 @@ title: "Coastal Walk"
 categories: samoa
 prev: "maota-o-maa"
 nex: "apia"
+file: coastal-walk
 published: true
 ---
 

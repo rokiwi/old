@@ -5,6 +5,7 @@ categories: samoa
 image: ""
 prev: "afa-aau-waterfall"
 nex: "blow-hole"
+file: satuiatua
 published: true
 ---
 

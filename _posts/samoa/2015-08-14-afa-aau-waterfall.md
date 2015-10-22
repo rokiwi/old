@@ -4,6 +4,7 @@ title: "Afa Aau Waterfall"
 categories: samoa
 prev: "falealupo"
 nex: "satuiatua"
+file: afa-aau-waterfall
 published: true
 ---
 

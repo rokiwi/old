@@ -5,6 +5,7 @@ categories: samoa
 image: ""
 prev: "apia"
 nex: "manono"
+file: piula-cave
 published: true
 ---
 
