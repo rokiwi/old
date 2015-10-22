@@ -63,14 +63,15 @@ var bounds = new google.maps.LatLngBounds();
 
 function setMarker(id, icon){ 
   return function(location) {
+    var marker;
     if(typeof icon !== "undefined") {
-      var marker = new google.maps.Marker( 
+      marker = new google.maps.Marker( 
         { map: map, 
           url: '/samoa/2015/08/' + id,
           position: location 
         }); 
     }else{
-      var marker = new google.maps.Marker( 
+      marker = new google.maps.Marker( 
         { map: map, 
           icon: "/samoa/icon/" + icon + ".svg" ,
           url: '/samoa/2015/08/' + id,
