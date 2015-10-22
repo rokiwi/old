@@ -23,11 +23,11 @@ On our way along the West coast, we greet some old timers: Yakas, the 4 sisters,
 
 {% include image.html url="https://lh3.googleusercontent.com/-MHf6URgJ3p4/ViWAlzRS9vI/AAAAAAAAI0U/WnHXxHvpA_M/s912-Ic42/PhotoGrid_1445246183734.jpg" caption="Kauris" %}
 
-These trees were young shoots when Europeans arrived (they might not keep them in their hearts, many are not here anymore to talk about it). Anyway, settlements in the area were the among the first build by Europeans thanks to the wood industry.
+These trees were young shoots when Europeans arrived (they might not keep them in their hearts, many are not here anymore to talk about it). Anyway, settlements in the area were amongst the first built by Europeans thanks to the wood industry.
 
 {% include image.html url="https://lh3.googleusercontent.com/-wJH8d07MAkw/ViWA0Cl70SI/AAAAAAAAI0c/jle0SaWKGaw/s912-Ic42/PhotoGrid_1445246502667.jpg" caption="Hokianga Harbour and mangrove" %}
 
-Rawene, with its 16 churches and its ferry to cross Hokinga harbour, is really cute. Original pee break in Kawakawa where the art Deco toilets were created by Austrian architect Undertwasser. And we arrived with an empty bladder in Russell at Eoan and Lisette.
+Rawene, with its 16 churches and its ferry to cross Hokianga harbour, is really cute. Original pee break in Kawakawa where the art Deco toilets were created by Austrian architect Undertwasser. And we arrived with an empty bladder in Russell at Eoan and Lisette.
 
 {% include image.html url="https://lh3.googleusercontent.com/-jjGoCOP1kno/ViWA1qMyrZI/AAAAAAAAI0k/teBo4Pn6WsM/s912-Ic42/PhotoGrid_1445246848684.jpg" caption="Rawene" %}
 
@@ -36,7 +36,7 @@ Rawene, with its 16 churches and its ferry to cross Hokinga harbour, is really c
 {% include image.html url="https://lh3.googleusercontent.com/-UG0BcJtNo2U/ViWBN3o6rII/AAAAAAAAI00/IxuYdMmUcEs/s912-Ic42/PhotoGrid_1445247269407.jpg" caption="Artistic loo" %}
 
 
-We met them in Samoa and this kiwi couple, nature guides, invited us in their cabin " at the back of their garden ". An what a garden! Kiwis and wekas (even rarer than the kiwis) are nesting only a few metres away from where we sleep. It's even almost noisy at night ;)
+We met them in Samoa and this kiwi couple, nature guides, invited us in their cabin "at the back of their garden". And what a garden! Kiwis and wekas (even rarer than the kiwis) are nesting only a few metres away from where we sleep. It's even almost noisy at night ;)
 
 Weka sound:
 
