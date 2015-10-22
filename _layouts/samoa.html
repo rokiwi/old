@@ -62,13 +62,15 @@ var map;
 var bounds = new google.maps.LatLngBounds();
 
 function setMarker(location){ 
-  var marker = new google.maps.Marker( 
-  { map: map, 
-    //icon: "/samoa/icon/" + id + ".svg" ,
-    //url: 'http://www.google.com/',
-    position: location 
-  }); 
-  setBounds(location); 
+  return function(id){
+    var marker = new google.maps.Marker( 
+    { map: map, 
+      //icon: "/samoa/icon/" + id + ".svg" ,
+      //url: 'http://www.google.com/',
+      position: location 
+    }); 
+    setBounds(location); 
+  }
 }
 
 function setCenter(location){
@@ -96,7 +98,7 @@ function initialize() {
   setStyles(map);
   //geocode(TAFATAFA,setMarkerAndInfo(i2));
   //i3 = getInfoWindow("Piula","Pool cave");
-  geocode("tafatafa", setMarker);
+  geocode("tafatafa", setMarker("bus"));
   geocode("papauta", setBounds);
   geocode("vavau", setBounds);
 }
