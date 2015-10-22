@@ -61,8 +61,8 @@ var geocoder;
 var map;
 var bounds = new google.maps.LatLngBounds();
 
-function setMarker(location){ 
-  return function(id){
+function setMarker(location, id){ 
+  return function(id) {
     var marker = new google.maps.Marker( 
     { map: map, 
       icon: "/samoa/icon/" + id + ".svg" ,
