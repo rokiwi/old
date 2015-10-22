@@ -133,7 +133,7 @@ function initialize() {
   //geocode(TAFATAFA,setMarkerAndInfo(i2));
   //i3 = getInfoWindow("Piula","Pool cave");
 
-  geocode("Apolima, Samoa",setMarker("ferry"));
+  setMarkerFromLocation("ferry");
   geocode("Tuasivi, Samoa",setMarker("bus","bus"));
   geocode("Salelonga, Samoa",setMarker("salelonga"));
   geocode("Lano, Samoa", setMarker("joelan","fale"));
@@ -160,8 +160,8 @@ function geocode(address,c1){
   geocoder.geocode( {address:address}, 
     function(results, status) { 
       if (status == google.maps.GeocoderStatus.OK) { 
-        
-    console.log(results[0].geometry.location);
+      var test = results[0].geometry.location;
+        console.log(test);
         c1(results[0].geometry.location);
       } 
   });
