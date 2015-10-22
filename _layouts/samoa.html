@@ -80,6 +80,11 @@ function setMarkerFromLocation(x,y,id,icon){
         position: location 
       }); 
   }
+
+  if({{ page.prev }} == id){
+    setCenter(location);
+  }
+  
   google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; }); 
 }
 
@@ -126,8 +131,8 @@ function initialize() {
   setMarkerFromLocation(-13.83045,-172.0081,"plane");
 
 
-  geocode("Falealupo, samoa", setBounds);
-  geocode("salelonga, samoa", setBounds);
+  //geocode("Falealupo, samoa", setBounds);
+  //geocode("salelonga, samoa", setBounds);
 }
 
 
