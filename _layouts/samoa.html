@@ -61,11 +61,11 @@ var geocoder;
 var map;
 var bounds = new google.maps.LatLngBounds();
 
-function setMarker(id){ 
+function setMarker(id, icon){ 
   return function(location) {
     var marker = new google.maps.Marker( 
     { map: map, 
-      icon: "/samoa/icon/" + id + ".svg" ,
+      icon: "/samoa/icon/" + icon + ".svg" ,
       url: '/samoa/2015/08/' + id,
       position: location 
     }); 
@@ -99,8 +99,8 @@ function initialize() {
   setStyles(map);
   //geocode(TAFATAFA,setMarkerAndInfo(i2));
   //i3 = getInfoWindow("Piula","Pool cave");
-  geocode("tafatafa", setMarker("fale"));
-  geocode("apia", setMarker("fale"));
+  geocode("tafatafa", setMarker("maotaomaa","fale"));
+  geocode("apia", setMarker("bus","bus"));
   geocode("papauta", setBounds);
   geocode("vavau", setBounds);
 }
