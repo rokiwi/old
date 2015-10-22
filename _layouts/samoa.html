@@ -108,13 +108,20 @@ function initialize() {
   setStyles(map);
   //geocode(TAFATAFA,setMarkerAndInfo(i2));
   //i3 = getInfoWindow("Piula","Pool cave");
+
+  geocode("Apolima, Samoa",setMarker("ferry"));
+  geocode("Tuasivi, Samoa",setMarker("bus","bus"));
+  geocode("Salelonga, Samoa",setMarker("salelonga"));
+  geocode("Lano, Samoa", setMarker("joelan","fale"));
+  geocode("Saleaula Lava Fields, Samoa",setMarker("lava-fields"));
+
   geocode("tafatafa", setMarker("maota-o-maa","fale"));
   geocode("satuiatuana", setMarker("satuiatua","fale"));
-  geocode("lano,samoa", setMarker("joelan","fale"));
 
-  geocode("Palauli, Samoa",setMarker("blow-hole","blow-hole"))
-  geocode("Apolima, Samoa",setMarker("ferry"))
 
+  geocode("Alofaaga Blowholes, Samoa",setMarker("blow-hole","blow-hole"));
+
+  
   geocode("apia", setMarker("apia"));
   geocode("faleolo", setMarker("plane"));
 
