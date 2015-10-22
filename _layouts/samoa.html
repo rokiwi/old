@@ -91,14 +91,12 @@ function setMarkerFromLocation(x,y,id,icon){
   if(typeof icon == "undefined") {
     marker = new google.maps.Marker( 
       { map: map, 
-        id: id,
         url: '/samoa/2015/08/' + id,
         position: location 
       }); 
   }else{
     marker = new google.maps.Marker( 
-      { map: map, 
-        id: id,
+      { map: map,
         icon: "/samoa/icon/" + icon + ".svg" ,
         url: '/samoa/2015/08/' + id,
         position: location 
@@ -124,12 +122,6 @@ function setMarkerFromLocation(x,y,id,icon){
 
 function setCenter(location){
   map.setCenter(location);
-}
-
-function setBounds(location){
-  bounds.extend(location);
-  map.setCenter(bounds.getCenter());
-  map.fitBounds(bounds);
 }
 
 function setStyles(map){
@@ -164,20 +156,6 @@ function initialize() {
   setMarkerFromLocation(-13.83045,-172.0081, "plane");
 
 
-  //geocode("Falealupo, samoa", setBounds);
-  //geocode("salelonga, samoa", setBounds);
-}
-
-
-function geocode(address,c1){
-  geocoder.geocode( {address:address}, 
-    function(results, status) { 
-      if (status == google.maps.GeocoderStatus.OK) { 
-      var test = results[0].geometry.location;
-        console.log(test);
-        c1(results[0].geometry.location);
-      } 
-  });
 }
 
 
