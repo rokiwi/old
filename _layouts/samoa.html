@@ -63,16 +63,14 @@ var bounds = new google.maps.LatLngBounds();
 
 function addInfoWindow(marker){
   var contentString = '<div id="content">'+
-      '<h2 id="firstHeading" class="firstHeading">{{ page.title }}</h2>'+
+      '<h4 id="firstHeading" class="firstHeading">{{ page.title }}</h4>'+
       '</div>';
 
   var infowindow = new google.maps.InfoWindow({
     content: contentString
   });
 
-  marker.addListener('loaded', function() {
-    infowindow.open(map, marker);
-  });
+  infowindow.open(map, marker);
 }
 
 function setMarkerFromLocation(x,y,id,icon){
