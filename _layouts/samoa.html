@@ -29,6 +29,18 @@ layout: default
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
+      <h2>
+      <span>
+      {% if page.prev %}
+        <a href="/samoa/2015/08/{{ page.prev }}">&#8592 prev.</a>
+      {% endif %}
+      </span>
+      <span style="float:right;">
+      {% if page.nex %}
+        <a href="/samoa/2015/08/{{ page.nex }}">&#8594 next</a>
+      {% endif %}
+      </span>
+      </h2>
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
 				<aside>
