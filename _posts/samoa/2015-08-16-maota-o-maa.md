@@ -4,7 +4,7 @@ title: "Maota-o-Ma'a Beach Fale"
 categories: samoa
 prev: "blow-hole"
 nex: "coastal-walk"
-file: bus
+file: maota-o-maa
 published: true
 ---
 
