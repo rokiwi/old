@@ -2,8 +2,8 @@
 layout: samoa
 title: "Salelonga"
 categories: samoa
-prev: "bus"
-nex: "joelan"
+prev: "joelan"
+nex: "lava-fields"
 file: salelonga
 published: true
 ---
