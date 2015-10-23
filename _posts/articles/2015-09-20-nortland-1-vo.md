@@ -50,11 +50,8 @@ We're experiencing a new kind of hospitality: couch surfing. Unlike wwoofing, ou
 
 {% include image.html url="https://lh3.googleusercontent.com/-J3SA0a1IMkQ/ViWBgw81kSI/AAAAAAAAI1Q/V5JT8uaRQBE/s912-Ic42/PhotoGrid_1445249157281.jpg" caption="Russell" %}
 
-{% include image.html url="https://lh3.googleusercontent.com/-iTYS1Sfjfk4/ViWBhhuFZ1I/AAAAAAAAI1U/UlcvaOJaJ6Y/s912-Ic42/PhotoGrid_1445249370280.jpg" caption="Tapeka Point and Maiki, the flag mast with the Union Jack was cut four times by Hone Home, a rebel Maori chief" %}
+{% include image.html url="https://lh3.googleusercontent.com/-iTYS1Sfjfk4/ViWBhhuFZ1I/AAAAAAAAI1U/UlcvaOJaJ6Y/s912-Ic42/PhotoGrid_1445249370280.jpg" caption="Tapeka Point and Maiki, the flag mast with the Union Jack was cut four times by Hone Heke, a rebel Maori chief" %}
 
 The next part of our trip is another way to meet the locals: volunteering for the Department Of Conservation in Mimiwhangata national park, between Russell and Whangarei.
 
 PS : This is almost the end of our kiwi adventure and we can't bring the Chariot back to Europe. If you want to come for one year in New Zealand or if you know somebody who wants to come for one year in New Zealand, know that we're selling this "wonderful" car at a friendly price early November in Auckland.
-
-
-
