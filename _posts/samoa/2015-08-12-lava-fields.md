@@ -2,7 +2,7 @@
 layout: samoa
 title: "Lava Fields"
 categories: samoa
-prev: "joelan"
+prev: "salelonga"
 nex: "crater-man"
 file: lava-fields
 published: true
