@@ -89,13 +89,15 @@ function setMarkerFromLocation(x,y,id,icon){
       }); 
   }else{
     var image = {
-      url: "/samoa/icon/" + icon + ".svg" ,
-      size: new google.maps.Size(40, 40),
-      origin: new google.maps.Point(0, 0)
+      url: "/samoa/icon/" + icon + ".svg",
+      size: new google.maps.Size(71, 71),
+      origin: new google.maps.Point(0, 0),
+      anchor: new google.maps.Point(17, 34),
+      scaledSize: new google.maps.Size(25, 25)
     };
     marker = new google.maps.Marker( 
       { map: map,
-        icon: image
+        icon: image,
         url: '/samoa/2015/08/' + id,
         position: location 
       }); 
