@@ -16,9 +16,9 @@ Intérieur en cuir rouge, cheval aux ailes bleues sur le capot. Voilà à quoi r
 
 Petite page de pub pour ceux qui veulent aller aux Samoa ou ceux qui connaissent des gens qui veulent aller aux Samoa, on vous recommande vivement Maota-O-Ma'a : accueil très chaleureux et personnalisé, endroit très calme, propre et bien tenu, excellente nourriture traditionnelle, immersion dans la culture samoaise,...
 
-{% include image.html url="" caption="Maota-O-Ma'a Beach Fale" %}
+{% include image.html url="https://lh3.googleusercontent.com/-AgFvaLbc_9I/VimgVTTs3qI/AAAAAAAAJv8/_nPZPBgojVQ/s912-Ic42/upload_-1.jpg" caption="Maota-O-Ma'a Beach Fale" %}
 
-{% include image.html url="" caption="Plage de Tafatafa" %}
+{% include image.html url="https://lh3.googleusercontent.com/-VlwOrMMsVFw/VimkARSVhNI/AAAAAAAAJ5Q/PFQY3a0H9Mk/s912-Ic42/upload_-1.jpg" caption="Plage de Tafatafa" %}
 
 
 
