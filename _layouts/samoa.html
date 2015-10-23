@@ -64,11 +64,6 @@ layout: default
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 <script>
 
-APIA = "apia";
-TAFATAFA = "tafatafa";
-LALOMANU = "lalomanu";
-FATUOSOFIA = "samatau";
-
 var geocoder;
 var map;
 var bounds = new google.maps.LatLngBounds();
@@ -131,7 +126,7 @@ function initialize() {
   var mapCanvas = document.getElementById('map');
   var mapOptions = {
     zoom: 10,
-    centre: new google.maps.LatLng(-13.758136,-172.10477),
+    center: {lat: -13.758136, lng: -172.10477},
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
   map = new google.maps.Map(mapCanvas, mapOptions);
