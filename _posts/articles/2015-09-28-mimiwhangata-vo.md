@@ -8,7 +8,7 @@ date-end: 2015-10-11
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-_ti03QkE2MQ/Vib1iGqLkgI/AAAAAAAAJew/fsnDwVQO57M/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
-published: false
+published: true
 ---
 
 What's happening? Wanting to try something else? After nine months of wwoofing, we switch from couch surfing last week to volunteering now! Sometimes you don't really see the difference: working time and number of meals offered vary. But, in the end, we can check off some "kiwi must-do" in a record time...
