@@ -47,7 +47,7 @@ The topography of the farm is quite steep so it's easier to spread fertilisers w
 
 Other "must-do" accomplished :
 
-- **Sheep shearing** : there were only 16 and we shore only half a sheep. We must have been too slow, it's almost an art! :)
+- **Sheep shearing** : there were only 16 and we shore only half a sheep. We must have been too slow, it's an art! :)
 
 {% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEYXRuTkMwZzBuNlE/preview" caption="Sheep shearing" %}
 
@@ -55,9 +55,9 @@ Other "must-do" accomplished :
 
 - **In the skin of a DOC Ranger** : driving the company vehicle on the hills but also washing it and the camping toilets :)
 
-- **Go and see a rugby match** : Northland vs Otago. Pompom girls, mascots, supporters more or less enthusiastic. In spite of some impressive actions Northland lost 36 to 54 (Eoan warned us :) ) 
+- **Go and see a rugby match** : Northland vs Otago. Pompom girls, mascots, supporters more or less enthusiastic. In spite of some impressive actions, Northland lost 36 to 54 (Eoan warned us :) ) 
 
-- **Country golf** with Ben in the paddock next to the house. Wet learn how to improve our swing by aiming holes dug by excited bulls. By the way we help to move these builds and we notice their strength. They can jump a fence as easily as a goat, but without the grace.
+- **Country golf** with Ben in the paddock next to the house. Wet learn how to improve our swing by aiming holes dug by excited bulls. By the way, when we help to move these bulls, we could notice their strength. They can jump a fence as easily as a goat, but without the grace.
 
 {% include image.html url="https://lh3.googleusercontent.com/-X4oCVJUHn94/Vibx5iAsS2I/AAAAAAAAJRw/vBd92ilTup0/s912-Ic42/upload_-1.jpg" caption="During out free time..." %}
 
