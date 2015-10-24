@@ -33,9 +33,9 @@ Highlights :
 
 - **Butchery learning exchange** : we're taught how to skin and butcher (do you remember your biology lessons?) a sheep. We're not very good but Jack, the dog, isn't too fussy.
 
-- **Possum hunting** : we're talking again about these animals every Kiwi hates. Imported from Australia they multiplie endlessly in New Zealand. For the survival of native forests, Ben lays traps and we help him the next day to pluck the fur (it's a bit gruesome).
+- **Possum hunting** : we're talking again about these animals every Kiwi hates. Imported from Australia they multiply endlessly in New Zealand. For the survival of native forests, Ben lays traps and we help him the next day to pluck the fur (it's a bit gruesome).
 
-- **Rabbit hunting** : Ben hunts rabbits with a riffle but also with a bow and arrows. They are as invasive as possums but, when he found a cute baby bunny rabbit, he nurtures it.
+- **Rabbit hunting** : Ben hunts rabbits with a riffle but also with a bow and arrows. They are as invasive as possums but, when he found a cute baby bunny rabbit, he nurtured it.
 
 {% include image.html url="https://lh3.googleusercontent.com/-oslKArtl6vE/VibyGpJ2jfI/AAAAAAAAJSQ/yO0_9UwsgaM/s912-Ic42/upload_-1.jpg" caption="'Possum plucking, bunny rabbit and the company car" %}
 
@@ -57,9 +57,9 @@ Other "must-do" accomplished :
 
 - **Go and see a rugby match** : Northland vs Otago. Pompom girls, mascots, supporters more or less enthusiastic. In spite of some impressive actions, Northland lost 36 to 54 (Eoan warned us :) ) 
 
-- **Country golf** with Ben in the paddock next to the house. Wet learn how to improve our swing by aiming holes dug by excited bulls. By the way, when we help to move these bulls, we could notice their strength. They can jump a fence as easily as a goat, but without the grace.
+- **Country golf** with Ben in the paddock next to the house. We learn how to improve our swing by aiming holes dug by excited bulls. By the way, when we help to move these bulls, we could notice their strength. They can jump a fence as easily as a goat, but without the grace.
 
-{% include image.html url="https://lh3.googleusercontent.com/-X4oCVJUHn94/Vibx5iAsS2I/AAAAAAAAJRw/vBd92ilTup0/s912-Ic42/upload_-1.jpg" caption="During out free time..." %}
+{% include image.html url="https://lh3.googleusercontent.com/-X4oCVJUHn94/Vibx5iAsS2I/AAAAAAAAJRw/vBd92ilTup0/s912-Ic42/upload_-1.jpg" caption="During our free time..." %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-bqdshv5AiPw/Vibx26qAiJI/AAAAAAAAJRo/3EtCdzAz-Us/s912-Ic42/upload_-1.jpg" caption="...we enjoy..." %}
 
