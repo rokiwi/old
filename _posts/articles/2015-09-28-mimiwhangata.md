@@ -7,6 +7,7 @@ date-end: 2015-10-11
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-_ti03QkE2MQ/Vib1iGqLkgI/AAAAAAAAJew/fsnDwVQO57M/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/SiNeEBKHSS9sb6948"
+translation: "articles/2015/09/mimiwhangata-vo"
 published: true
 ---
 
