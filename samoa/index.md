@@ -7,7 +7,7 @@ title: "Samoa"
 
 <div id="map"></div>
 
-<table style="width:100%">
+<table>
   {% for isl in site.data.samoa-isl %}
   <tr>
     <h4>{{ isl.name }}</h4>
