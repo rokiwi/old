@@ -11,7 +11,7 @@ title: "Samoa"
   <tr>
   {% for isl in site.data.samoa-isl %}
   <td>
-    <h4>{{ isl.name }}</h4>
+    <b>{{ isl.name }}</b>
     <ul>
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
