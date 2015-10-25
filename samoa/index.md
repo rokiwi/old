@@ -18,9 +18,11 @@ title: "Samoa"
 <table style="width:100%">
   <tr>
     {% for post in site.categories.samoa %}
-    <td>
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </td>
+      {% if post.isl == "savaii" %}
+      <td>
+        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+      </td>
+      {% endif %}
     {% endfor %}
   </tr>
   <tr>
