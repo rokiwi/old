@@ -5,6 +5,7 @@ categories: samoa
 prev: "crater-man"
 nex: "afa-aau-waterfall"
 file: falealupo
+isl: savaii
 published: true
 ---
 

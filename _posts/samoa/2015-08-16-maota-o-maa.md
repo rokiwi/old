@@ -5,6 +5,7 @@ categories: samoa
 prev: "blow-hole"
 nex: "coastal-walk"
 file: maota-o-maa
+isl: upolu
 published: true
 ---
 
@@ -19,7 +20,3 @@ Petite page de pub pour ceux qui veulent aller aux Samoa ou ceux qui connaissent
 {% include image.html url="https://lh3.googleusercontent.com/-AgFvaLbc_9I/VimgVTTs3qI/AAAAAAAAJv8/_nPZPBgojVQ/s912-Ic42/upload_-1.jpg" caption="Maota-O-Ma'a Beach Fale" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-VlwOrMMsVFw/VimkARSVhNI/AAAAAAAAJ5Q/PFQY3a0H9Mk/s912-Ic42/upload_-1.jpg" caption="Plage de Tafatafa" %}
-
-
-
-

@@ -5,6 +5,7 @@ categories: samoa
 prev: "falealupo"
 nex: "satuiatua"
 file: afa-aau-waterfall
+isl: savaii
 published: true
 ---
 
