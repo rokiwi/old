@@ -10,7 +10,7 @@ title: "Samoa"
 <table>
   {% for isl in site.data.samoa-isl %}
   <tr>
-    <h4>{{ isl.name }}</h4>
+    <th>{{ isl.name }}</th>
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
       <td>
