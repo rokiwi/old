@@ -5,6 +5,7 @@ categories: samoa
 prev: "salelonga"
 nex: "crater-man"
 file: lava-fields
+isl: savaii
 published: true
 ---
 

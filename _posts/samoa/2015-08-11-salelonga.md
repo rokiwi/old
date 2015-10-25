@@ -5,6 +5,7 @@ categories: samoa
 prev: "joelan"
 nex: "lava-fields"
 file: salelonga
+isl: savaii
 published: true
 ---
 
