@@ -8,7 +8,7 @@ title: "Samoa"
 <div id="map"></div>
 
 <table style="width:100%">
-  {% for isl in site.data.navigation %}
+  {% for isl in site.data.samoa-isl %}
   <tr>
     <h4>{{ isl.name }}</h4>
     {% for post in site.categories.samoa %}
