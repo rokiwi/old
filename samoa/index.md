@@ -7,11 +7,20 @@ title: "Samoa"
 
 <div id="map"></div>
 
+<script>
+var savaiiBounds = {lat:-13.499144, "lng:-172.78738};
+
+function click() { 
+  map.setCenter(savaiiBounds);
+}
+
+</script>
+
 <table>
   <tr>
   {% for isl in site.data.samoa-isl %}
   <td style="vertical-align:top">
-    <div style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</div>
+    <div onclick="click()" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</div>
     <ul>
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
