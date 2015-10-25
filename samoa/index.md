@@ -10,7 +10,7 @@ title: "Samoa"
 <table>
   <tr>
   {% for isl in site.data.samoa-isl %}
-  <th>
+  <td style="vertical-align:top">
     <b>{{ isl.name }}</b>
     <ul>
     {% for post in site.categories.samoa %}
@@ -21,7 +21,7 @@ title: "Samoa"
       {% endif %}
     {% endfor %}
     </ul>
-  </th>
+  </td>
   {% endfor %}
   </tr>
 </table>
