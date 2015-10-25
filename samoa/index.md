@@ -8,10 +8,11 @@ title: "Samoa"
 <div id="map"></div>
 
 <table>
+  <tr>
   {% for isl in site.data.samoa-isl %}
-  <tr>
-    <th>{{ isl.name }}</th>
-    <td>
+  <td>
+    <h4>{{ isl.name }}</h4>
+    <
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
       
@@ -19,9 +20,10 @@ title: "Samoa"
       
       {% endif %}
     {% endfor %}
-    </td>
-  </tr>
+    
+  </td>
   {% endfor %}
+  </tr>
 </table>
 
 </div>
