@@ -8,15 +8,18 @@ title: "Samoa"
 <div id="map"></div>
 
 <table style="width:100%">
+  {% for isl in site.data.navigation %}
   <tr>
+    <h4>{{ isl.name }}</h4>
     {% for post in site.categories.samoa %}
-      {% if post.isl == "savaii" %}
+      {% if post.isl == isl.code %}
       <td>
         <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
       </td>
       {% endif %}
     {% endfor %}
   </tr>
+  {% endfor %}
 </table>
 
 </div>
