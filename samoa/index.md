@@ -15,6 +15,21 @@ title: "Samoa"
 
 <div id="map"></div>
 
+<table style="width:100%">
+  <tr>
+    {% for post in site.categories.samoa %}
+    <td>
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+    </td>
+    {% endfor %}
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
 
 <style>
 #map {
