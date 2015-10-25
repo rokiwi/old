@@ -11,13 +11,15 @@ title: "Samoa"
   {% for isl in site.data.samoa-isl %}
   <tr>
     <th>{{ isl.name }}</th>
+    <td>
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
-      <td>
-        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-      </td>
+      
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}, </a>
+      
       {% endif %}
     {% endfor %}
+    </td>
   </tr>
   {% endfor %}
 </table>
