@@ -3,15 +3,7 @@ layout: home
 title: "Samoa"
 ---
 
-<ul>
-{% for post in site.categories.samoa %}
-
-<li>
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-</li>
-  
-{% endfor %}
-</ul>
+<div>
 
 <div id="map"></div>
 
@@ -31,6 +23,8 @@ title: "Samoa"
     <td>94</td>
   </tr>
 </table>
+
+</div>
 
 
 <style>
