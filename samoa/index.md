@@ -130,6 +130,17 @@ var savaii = [
   new google.maps.LatLng(-13.66891, -172.17941),
   new google.maps.LatLng(-13.801262, -172.52443)
 ];
+
+var upolu = [
+  new google.maps.LatLng(-13.83045,-172.0081),
+  new google.maps.LatLng(-13.8756895, -171.60178),
+  new google.maps.LatLng(-14.037134, -171.67784)
+];
+
+var savaii = [
+  new google.maps.LatLng(-13.853478,-172.11687),
+  new google.maps.LatLng(-13.83045, -172.11687),
+];
 </script>
 
 
