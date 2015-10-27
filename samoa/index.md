@@ -106,7 +106,7 @@ function setStyles(map){
 
 function initialize() {
   
-  $('#post').load('http://rokiwi.github.io/samoa/2015/08/crater-man/');
+  $('#post').load('/samoa/2015/08/story/');
  
   geocoder = new google.maps.Geocoder();  
   var mapCanvas = document.getElementById('map');
