@@ -7,7 +7,7 @@ title: "Samoa"
 
 <div id="map"></div>
 
-<iframe src="http://www.w3schools.com" > something </iframe>
+<div id="post"></div>
 
 <table>
   <tr>
@@ -106,6 +106,9 @@ function setStyles(map){
 }
 
 function initialize() {
+  
+  $('#post').load('http://rokiwi.github.io/samoa/2015/08/crater-man/');
+ 
   geocoder = new google.maps.Geocoder();  
   var mapCanvas = document.getElementById('map');
   var mapOptions = {
