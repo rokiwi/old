@@ -1,14 +1,5 @@
 - code: savaii
-  name: Savai'i
-  limit:
-    - x: -13.499144 # falealupo
-      y: -172.78738
-    - x: -13.451613 # lava fields
-      y: -172.33061
-    - x: -13.66891
-      y: -172.17941 # bus
-    - x: -13.801262
-      y: -172.52443
+  name: Savai
 - code: upolu
   name: Upolu
 - code: manono

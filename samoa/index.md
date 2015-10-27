@@ -15,7 +15,7 @@ layout: home
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
       <li>
-      <a href="JavaScript:setPost('{{ isl.code }}')">{{ post.title }}</a>
+      <a href="JavaScript:setPost('{{ post.file }}')">{{ post.title }}</a>
       </li>
       {% endif %}
     {% endfor %}
@@ -77,7 +77,7 @@ function setMarkerFromLocation(x,y,id,icon){
   if(typeof icon == "undefined") {
     marker = new google.maps.Marker( 
       { map: map, 
-        url: '/samoa/2015/08/' + id,
+        url: 'javaScript:setPost(' + id + ')',
         position: location 
       }); 
   }else{
