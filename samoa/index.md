@@ -15,7 +15,7 @@ layout: home
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
       <li>
-      <a href="JavaScript:setPost('{{ post.file }}')">{{ post.title }}</a>
+      <a id="link{{ post.file }}" href="JavaScript:setPost('{{ post.file }}')">{{ post.title }}</a>
       </li>
       {% endif %}
     {% endfor %}
@@ -60,6 +60,7 @@ var manono = [
 ];
 
 function setPost(code) {
+  $('#link' + code).css('text-decoration', 'line-through');
   $('#post').load('/samoa/2015/08/' + code + '/', function() {
     $('#post').get(0).scrollIntoView();
   });
