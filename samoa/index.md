@@ -34,7 +34,7 @@ title: "Samoa"
 <style>
 #map {
   width: 90vw; 
-  height: 45vw; 
+  height: 70vw; 
 }
 </style>
 
