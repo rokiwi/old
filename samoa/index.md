@@ -60,10 +60,8 @@ var manono = [
 ];
 
 function setPost(code) {
-  $('#post')
-    .load('/samoa/2015/08/' + code + '/')
-    .focus();
- 
+  $('#post').load('/samoa/2015/08/' + code + '/');
+  $('#post').focus();
 }
 
 function setBounds(bounds){
