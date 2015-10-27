@@ -28,7 +28,7 @@ title: "Samoa"
   </tr>
 </table>
 
-<iframe src="http://rokiwi.github.io/samoa/2015/08/crater-man/"></iframe>
+<iframe src="http://www.w3schools.com"></iframe>
 
 </div>
 
