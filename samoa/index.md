@@ -58,7 +58,7 @@ var upolu = [
 
 var manono = [
   new google.maps.LatLng(-13.853478,-172.11687),
-  new google.maps.LatLng(-13.83045, -172.11687),
+  new google.maps.LatLng(-13.83045, -172.0081),
 ];
 
 function setBounds(bounds){
