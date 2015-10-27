@@ -119,12 +119,15 @@ google.maps.event.addDomListener(window, 'load', initialize);
 function setBounds(bounds){
   var bs = new google.maps.LatLngBounds();
   bounds.forEach(function(a) { 
-    bs.extend(a.lat,a.lng);
-    alert("test");
+    bs.extend(a);
   });
-  map.fitBounds(bounds);
-  map.setCenter(map.bounds.getCenter());
+  map.fitBounds(bs);
 }
 
-var savaii = [{lat:-13.499144, lng:-172.78738},{ lat:-13.451613, lng: -172.33061}];
+var savaii = [
+  new google.maps.LatLng(-13.499144,-172.78738),
+  new google.maps.LatLng(-13.451613, -172.33061)
+];
 </script>
+
+
