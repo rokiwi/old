@@ -7,7 +7,7 @@ title: "Samoa"
 
 <div id="map"></div>
 
-
+<iframe src="http://www.w3schools.com"></iframe>
 
 <table>
   <tr>
@@ -27,8 +27,6 @@ title: "Samoa"
   {% endfor %}
   </tr>
 </table>
-
-<iframe src="http://www.w3schools.com"></iframe>
 
 </div>
 
