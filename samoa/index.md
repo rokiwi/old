@@ -8,9 +8,10 @@ title: "Samoa"
 <div id="map"></div>
 
 <script>
-var savaiiBounds = {lat:-13.499144, "lng:-172.78738};
+var savaiiBounds = {lat:-13.499144, lng:-172.78738};
 
 function click() { 
+  alert("test");
   map.setCenter(savaiiBounds);
 }
 
