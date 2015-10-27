@@ -60,6 +60,7 @@ var manono = [
 ];
 
 function setPost(code) {
+  alert(code);
   $('#post').load('/samoa/2015/08/' + code + '/');
 }
 
@@ -85,7 +86,7 @@ function setMarkerFromLocation(x,y,id,icon){
     marker = new google.maps.Marker( 
       { map: map,
         icon: image,
-        url: 'javaScript:setPost(' + id + ')',
+        url: 'JavaScript:setPost(' + id + ')',
         position: location 
       }); 
   
