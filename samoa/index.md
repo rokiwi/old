@@ -27,6 +27,8 @@ layout: home
 
 <div id="post"></div>
 
+<a href='#map'>Début / Carte</a>
+
 </div>
 
 <style>
