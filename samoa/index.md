@@ -126,7 +126,9 @@ function setBounds(bounds){
 
 var savaii = [
   new google.maps.LatLng(-13.499144,-172.78738),
-  new google.maps.LatLng(-13.451613, -172.33061)
+  new google.maps.LatLng(-13.451613, -172.33061),
+  new google.maps.LatLng(-13.66891, -172.17941),
+  new google.maps.LatLng(-13.801262, -172.52443)
 ];
 </script>
 
