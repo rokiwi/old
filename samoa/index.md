@@ -9,6 +9,7 @@ title: "Samoa"
 
 <script>
 function setBounds(bounds){
+  alert("test");
   var bs = new google.maps.LatLngBounds();
   bounds.forEach(function(a) { 
     bs.extend(a);
