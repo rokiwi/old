@@ -23,7 +23,7 @@ var savaii = [{lat:-13.499144, lng:-172.78738},{ lat:-13.451613, lng: -172.3306
   <tr>
   {% for isl in site.data.samoa-isl %}
   <td style="vertical-align:top">
-    <button onclick="setBounds({{ isl }})" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
+    <button onclick="setBounds({{ isl.code }})" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
     <ul>
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
