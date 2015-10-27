@@ -61,7 +61,8 @@ var manono = [
 
 function setPost(code) {
   $('#post').load('/samoa/2015/08/' + code + '/');
-  location.hash = '#post';
+  $('#post').get(0).scrollIntoView();
+  //location.hash = '#post';
 }
 
 function setBounds(bounds){
