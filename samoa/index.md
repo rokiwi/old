@@ -110,7 +110,7 @@ function setStyles(map){
 
 function initialize() {
   
-  setPost(story);
+  setPost('story');
  
   geocoder = new google.maps.Geocoder();  
   var mapCanvas = document.getElementById('map');
