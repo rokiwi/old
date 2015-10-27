@@ -60,9 +60,9 @@ var manono = [
 ];
 
 function setPost(code) {
-  $('#post').load('/samoa/2015/08/' + code + '/');
-  $('#post').get(0).scrollIntoView();
-  //location.hash = '#post';
+  $('#post').load('/samoa/2015/08/' + code + '/', function() {
+    $('#post').get(0).scrollIntoView();
+  });
 }
 
 function setBounds(bounds){
