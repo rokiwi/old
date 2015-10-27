@@ -108,8 +108,6 @@ function setStyles(map){
 function initialize() {
   
   $('#post').load('/samoa/2015/08/story/');
- 
-  geocoder = new google.maps.Geocoder();  
   var mapCanvas = document.getElementById('map');
   var mapOptions = {
     zoom: 10,
