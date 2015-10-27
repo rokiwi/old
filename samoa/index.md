@@ -7,19 +7,7 @@ title: "Samoa"
 
 <div id="map"></div>
 
-<script>
-function setBounds(bounds){
-  var bs = new google.maps.LatLngBounds();
-  bounds.forEach(function(a) { 
-    bs.extend(a.lat,a.lng);
-    alert("test");
-  });
-  map.fitBounds(bounds);
-  map.setCenter(map.bounds.getCenter());
-}
 
-var savaii = [{lat:-13.499144, lng:-172.78738},{ lat:-13.451613, lng: -172.33061}];
-</script>
 
 <table>
   <tr>
@@ -54,7 +42,6 @@ var savaii = [{lat:-13.499144, lng:-172.78738},{ lat:-13.451613, lng: -172.3306
 
 <script>
 var map;
-var bounds = new google.maps.LatLngBounds();
 
 function setMarkerFromLocation(x,y,id,icon){
   var location = new google.maps.LatLng(x,y);
@@ -126,4 +113,18 @@ function initialize() {
 
 google.maps.event.addDomListener(window, 'load', initialize);
 
+</script>
+
+<script>
+function setBounds(bounds){
+  var bs = new google.maps.LatLngBounds();
+  bounds.forEach(function(a) { 
+    bs.extend(a.lat,a.lng);
+    alert("test");
+  });
+  map.fitBounds(bounds);
+  map.setCenter(map.bounds.getCenter());
+}
+
+var savaii = [{lat:-13.499144, lng:-172.78738},{ lat:-13.451613, lng: -172.33061}];
 </script>
