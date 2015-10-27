@@ -137,7 +137,7 @@ var upolu = [
   new google.maps.LatLng(-14.037134, -171.67784)
 ];
 
-var savaii = [
+var manono = [
   new google.maps.LatLng(-13.853478,-172.11687),
   new google.maps.LatLng(-13.83045, -172.11687),
 ];
