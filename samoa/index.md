@@ -86,7 +86,7 @@ function setMarkerFromLocation(x,y,id,icon){
     marker = new google.maps.Marker( 
       { map: map,
         icon: image,
-        url: 'JavaScript:setPost(' + id + ')',
+        url: 'JavaScript:setPost("bus")',
         position: location 
       }); 
   
