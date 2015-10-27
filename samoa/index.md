@@ -7,7 +7,7 @@ title: "Samoa"
 
 <div id="map"></div>
 
-<iframe src="http://www.w3schools.com"></iframe>
+<iframe src="http://www.w3schools.com" />
 
 <table>
   <tr>
