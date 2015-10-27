@@ -11,10 +11,11 @@ title: "Samoa"
 function setBounds(bounds){
   var bs = new google.maps.LatLngBounds();
   bounds.forEach(function(a) { 
-    bs.extend(a);
+    bs.extend(a.lat,a.lng);
     alert("test");
   });
   map.fitBounds(bounds);
+  map.setCenter(map.bounds.getCenter());
 }
 
 var savaii = [{lat:-13.499144, lng:-172.78738},{ lat:-13.451613, lng: -172.33061}];
