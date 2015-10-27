@@ -86,12 +86,13 @@ function setMarkerFromLocation(x,y,id,icon){
     marker = new google.maps.Marker( 
       { map: map,
         icon: image,
-        url: 'JavaScript:setPost("bus")',
         position: location 
       }); 
+
+    
   
   
-  google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; }); 
+  google.maps.event.addListener(marker, 'click', function() { setPost(id); }); 
 }
 
 
