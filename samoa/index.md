@@ -7,8 +7,6 @@ title: "Samoa"
 
 <div id="map"></div>
 
-<div id="post"></div>
-
 <table>
   <tr>
   {% for isl in site.data.samoa-isl %}
@@ -27,6 +25,8 @@ title: "Samoa"
   {% endfor %}
   </tr>
 </table>
+
+<div id="post"></div>
 
 </div>
 
