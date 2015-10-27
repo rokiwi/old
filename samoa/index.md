@@ -59,6 +59,10 @@ var manono = [
   new google.maps.LatLng(-13.83045, -172.0081),
 ];
 
+function setPost(code) {
+  $('#post').load('/samoa/2015/08/' + code + '/');
+}
+
 function setBounds(bounds){
   var bs = new google.maps.LatLngBounds();
   bounds.forEach(function(a) { 
@@ -106,7 +110,7 @@ function setStyles(map){
 
 function initialize() {
   
-  $('#post').load('/samoa/2015/08/story/');
+  setPost(story);
  
   geocoder = new google.maps.Geocoder();  
   var mapCanvas = document.getElementById('map');
