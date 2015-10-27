@@ -74,13 +74,7 @@ function setBounds(bounds){
 function setMarkerFromLocation(x,y,id,icon){
   var location = new google.maps.LatLng(x,y);
   var marker;
-  if(typeof icon == "undefined") {
-    marker = new google.maps.Marker( 
-      { map: map, 
-        url: 'javaScript:setPost(' + id + ')',
-        position: location 
-      }); 
-  }else{
+
     var image = {
       url: "/samoa/icon/" + icon + ".svg",
       size: new google.maps.Size(50, 50),
@@ -91,10 +85,10 @@ function setMarkerFromLocation(x,y,id,icon){
     marker = new google.maps.Marker( 
       { map: map,
         icon: image,
-        url: '/samoa/2015/08/' + id,
+        url: 'javaScript:setPost(' + id + ')',
         position: location 
       }); 
-  }
+  
   
   google.maps.event.addListener(marker, 'click', function() { window.location.href = marker.url; }); 
 }
