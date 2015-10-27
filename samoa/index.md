@@ -8,6 +8,12 @@ title: "Samoa"
 <div id="map"></div>
 
 <script>
+function myFunction() {
+ alert("test");
+}
+</script>
+
+<script>
 var savaiiBounds = {lat:-13.499144, lng:-172.78738};
 
 function click() { 
@@ -21,6 +27,7 @@ function click() {
   <tr>
   {% for isl in site.data.samoa-isl %}
   <td style="vertical-align:top">
+    <button onclick="myFunction()">Click me</button>
     <button onclick="click()" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
     <ul>
     {% for post in site.categories.samoa %}
