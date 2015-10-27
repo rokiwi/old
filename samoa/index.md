@@ -43,6 +43,32 @@ title: "Samoa"
 <script>
 var map;
 
+var savaii = [
+  new google.maps.LatLng(-13.499144,-172.78738),
+  new google.maps.LatLng(-13.451613, -172.33061),
+  new google.maps.LatLng(-13.66891, -172.17941),
+  new google.maps.LatLng(-13.801262, -172.52443)
+];
+
+var upolu = [
+  new google.maps.LatLng(-13.83045,-172.0081),
+  new google.maps.LatLng(-13.8756895, -171.60178),
+  new google.maps.LatLng(-14.037134, -171.67784)
+];
+
+var manono = [
+  new google.maps.LatLng(-13.853478,-172.11687),
+  new google.maps.LatLng(-13.83045, -172.11687),
+];
+
+function setBounds(bounds){
+  var bs = new google.maps.LatLngBounds();
+  bounds.forEach(function(a) { 
+    bs.extend(a);
+  });
+  map.fitBounds(bs);
+}
+
 function setMarkerFromLocation(x,y,id,icon){
   var location = new google.maps.LatLng(x,y);
   var marker;
@@ -85,7 +111,6 @@ function initialize() {
   var mapCanvas = document.getElementById('map');
   var mapOptions = {
     zoom: 10,
-    center: {lat: -13.758136, lng: -172.10477},
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
   map = new google.maps.Map(mapCanvas, mapOptions);
@@ -107,7 +132,7 @@ function initialize() {
   setMarkerFromLocation(-13.853478,-172.11687, "manono", "fale");
   setMarkerFromLocation(-13.83045,-172.0081, "plane", "plane");
 
-
+  setBounds(savaii);
 }
 
 
@@ -115,32 +140,5 @@ google.maps.event.addDomListener(window, 'load', initialize);
 
 </script>
 
-<script>
-function setBounds(bounds){
-  var bs = new google.maps.LatLngBounds();
-  bounds.forEach(function(a) { 
-    bs.extend(a);
-  });
-  map.fitBounds(bs);
-}
-
-var savaii = [
-  new google.maps.LatLng(-13.499144,-172.78738),
-  new google.maps.LatLng(-13.451613, -172.33061),
-  new google.maps.LatLng(-13.66891, -172.17941),
-  new google.maps.LatLng(-13.801262, -172.52443)
-];
-
-var upolu = [
-  new google.maps.LatLng(-13.83045,-172.0081),
-  new google.maps.LatLng(-13.8756895, -171.60178),
-  new google.maps.LatLng(-14.037134, -171.67784)
-];
-
-var manono = [
-  new google.maps.LatLng(-13.853478,-172.11687),
-  new google.maps.LatLng(-13.83045, -172.11687),
-];
-</script>
 
 
