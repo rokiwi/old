@@ -20,7 +20,7 @@ function click() {
   <tr>
   {% for isl in site.data.samoa-isl %}
   <td style="vertical-align:top">
-    <div onclick="click()" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</div>
+    <button onclick="click()" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
     <ul>
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
