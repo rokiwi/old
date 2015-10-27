@@ -8,18 +8,22 @@ title: "Samoa"
 <div id="map"></div>
 
 <script>
-var savaiiBounds = {lat:-13.499144, lng:-172.78738};
-
-function myFunction() {
- map.setCenter(savaiiBounds);
+function setBounds(bounds){
+  var bs = new google.maps.LatLngBounds();
+  bounds.forEach(function(a) { 
+    bs.extend(a);
+  });
+  map.fitBounds(bounds);
 }
+
+var savaii = [{lat:-13.499144, lng:-172.78738},{ lat:-13.451613, lng: -172.33061}];
 </script>
 
 <table>
   <tr>
   {% for isl in site.data.samoa-isl %}
   <td style="vertical-align:top">
-    <button onclick="myFunction()" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
+    <button onclick="setBounds({{ isl }})" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
     <ul>
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
