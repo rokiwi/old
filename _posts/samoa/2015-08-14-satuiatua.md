@@ -6,6 +6,7 @@ image: ""
 prev: "afa-aau-waterfall"
 nex: "blow-hole"
 file: satuiatua
+isl: savaii
 published: true
 ---
 
