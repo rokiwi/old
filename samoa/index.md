@@ -104,7 +104,7 @@ function nextIcon() {
     
     if(markersCl.length > 0){
       var prev = markersCl[markersCl.length - 1];
-      prev.setMap(map);
+      prev.setMap(null);
     }
     markersCl.push(marker);
   }else{
