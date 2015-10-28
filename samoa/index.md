@@ -8,7 +8,9 @@ layout: home
 
 <div id="map"></div>
 
+<h4>
 Click on all the icons to discover the places we visited in Samoa and don't forget to go to all the islands by clicking on the related button (Savai'i, Upolu and Manono). Try to find the icons in order, see table underneath (the name will be crossed once you found it).
+</h4>
 
 <table>
   <tr>
