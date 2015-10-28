@@ -85,7 +85,8 @@ function setMarkerFromLocation(x,y,id,icon){
   marker = new google.maps.Marker( 
   { map: map,
     icon: image,
-    position: location 
+    position: location,
+    visible: false
   }); 
   
   google.maps.event.addListener(marker, 'click', 
@@ -95,12 +96,10 @@ function setMarkerFromLocation(x,y,id,icon){
     }
   ); 
 
-  marker.setVisible(false);
   markers.push(marker);
 }
 
 function nextIcon() {
-  console.log(markers.length);
   // if(markers.length > 0){
     var marker = markers.shift();
     marker.setVisible(true);
