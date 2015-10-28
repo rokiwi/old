@@ -24,8 +24,7 @@ layout: home
 </style>
 
 <script src="https://maps.googleapis.com/maps/api/js"></script>
-
-<script src="http://jsconsole.com/remote.js?02A5ED41-3841-490F-9854-CA327C951637"></script>
+<script src="http://jsconsole.com/remote.js?357FF436-2B60-4A08-8BC5-35CBE8EDDCBE"></script>
 
 <script>
 var map;
