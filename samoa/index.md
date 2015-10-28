@@ -25,8 +25,6 @@ layout: home
 
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 
-<script src="http://jsconsole.com/remote.js?02A5ED41-3841-490F-9854-CA327C951637"></script>
-
 <script>
 var map;
 var markers = new Array();
@@ -107,10 +105,10 @@ function nextIcon() {
     var marker = markers.shift();
     marker.setVisible(true);
     
-    if(markersCl.length > 0){
-      var prev = markersCl[markersCl.length - 1];
-      prev.setVisible(false);
-    }
+    //if(markersCl.length > 0){
+    //  var prev = markersCl[markersCl.length - 1];
+    //  prev.setVisible(false);
+    //}
     markersCl.push(marker);
   }else{
     showAllIcons();
