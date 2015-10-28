@@ -115,7 +115,7 @@ function nextIcon() {
 
 function showAllIcons() {
   $.each( markers, function( key, value ) {
-    markers.delete(key);
+    markers.splice(key,1);
     markers.push(value);
   });
 
