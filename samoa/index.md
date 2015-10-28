@@ -9,7 +9,7 @@ layout: home
 <div id="map"></div>
 
 <h4>
-Click on all the icons to discover the places we visited in Samoa and don't forget to go to all the islands by clicking on the related button (Savai'i, Upolu and Manono). Try to find the icons in order, see table underneath (the name will be crossed once you found it).
+Clique sur toutes les petites icônes noires pour découvrir notre voyage aux îles Samoa.
 </h4>
 
 <table>
@@ -50,6 +50,13 @@ Click on all the icons to discover the places we visited in Samoa and don't forg
 
 <script>
 var map;
+
+var samoa = [
+  new google.maps.LatLng(-13.499144,-172.78738),
+  new google.maps.LatLng(-13.451613, -172.33061),
+  new google.maps.LatLng(-13.8756895, -171.60178),
+  new google.maps.LatLng(-14.037134, -171.67784)
+];
 
 var savaii = [
   new google.maps.LatLng(-13.499144,-172.78738),
@@ -144,7 +151,7 @@ function initialize() {
   setMarkerFromLocation(-13.853478,-172.11687, "manono", "fale");
   setMarkerFromLocation(-13.83045,-172.0081, "plane", "plane");
 
-  setBounds(savaii);
+  setBounds(samoa);
 }
 
 
