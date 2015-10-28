@@ -20,7 +20,7 @@ Click on all the icons to discover the places we visited in Samoa and don't forg
     <ul>
     {% for post in site.categories.samoa reversed %}
       {% if post.isl == isl.code %}
-      <li>
+      <li id="link{{ post.file }}">
      <!-- <a id="link{{ post.file }}"  href="JavaScript:setPost('{{ post.file }}')"> -->
   {{ post.title }}
      <!-- </a> -->
