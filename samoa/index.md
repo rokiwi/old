@@ -21,6 +21,8 @@ layout: home
 
 <script>
 var map;
+var markers = new Array();
+var markersCl = new Array();
 
 var samoa = [
   new google.maps.LatLng(-13.499144,-172.78738),
@@ -83,13 +85,14 @@ function setMarkerFromLocation(x,y,id,icon){
   google.maps.event.addListener(marker, 'click', 
     function() { 
       setPost(id); 
+      var marker = markers.shift();
+      marker.setVisible(true);
+      markersCl.push(marker);
     }
   ); 
-}
 
-
-function setCenter(location){
-  map.setCenter(location);
+  marker.setVisible(false);
+  markers.push(marker);
 }
 
 function setStyles(map){
@@ -106,6 +109,7 @@ function initialize() {
   };
   map = new google.maps.Map(mapCanvas, mapOptions);
   setStyles(map);
+
   setMarkerFromLocation(-13.753836,-172.11687,"ferry","ferry");
   setMarkerFromLocation(-13.613283,-172.20215, "joelan","fale");
   setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
