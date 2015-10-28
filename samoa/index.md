@@ -4,39 +4,16 @@ layout: home
 
 <div>
 
-<h1>Samoa</h1>
-
-<div id="map"></div>
-
-<h4>
-Clique sur toutes les petites icônes noires pour découvrir notre voyage aux îles Samoa.
-</h4>
-  <tr>
-  {% for isl in site.data.samoa-isl %}
-  
-    <span>{{ isl.name }}</span>
-    <div>
-    {% for post in site.categories.samoa reversed %}
-      {% if post.isl == isl.code %}
-      <span id="link{{ post.file }}">
-       {{ post.title }}, 
-      </span>
-      {% endif %}
-    {% endfor %}
-    </div>
-  
-  {% endfor %}
-
 <div id="post"></div>
 
-<h4> <a href='#map'>Go back to map and find more places</a> </h4>
+<div id="map"></div>
 
 </div>
 
 <style>
 #map {
   width: 90vw; 
-  height: 50vw; 
+  height: 60vw; 
 }
 </style>
 
@@ -72,7 +49,6 @@ var manono = [
 ];
 
 function setPost(code) {
-  $('#link' + code).css('text-decoration', 'line-through');
   $('#post').load('/samoa/2015/08/' + code + '/', function() {
     $('#post').get(0).scrollIntoView();
   });
@@ -90,23 +66,25 @@ function setMarkerFromLocation(x,y,id,icon){
   var location = new google.maps.LatLng(x,y);
   var marker;
 
-    var image = {
-      url: "/samoa/icon/" + icon + ".svg",
-      size: new google.maps.Size(50, 50),
-      origin: new google.maps.Point(0, 0),
-      anchor: new google.maps.Point(25, 25),
-      scaledSize: new google.maps.Size(25, 25)
-    };
-    marker = new google.maps.Marker( 
-      { map: map,
-        icon: image,
-        position: location 
-      }); 
+  var image = {
+    url: "/samoa/icon/" + icon + ".svg",
+    size: new google.maps.Size(50, 50),
+    origin: new google.maps.Point(0, 0),
+    anchor: new google.maps.Point(25, 25),
+    scaledSize: new google.maps.Size(25, 25)
+  };
 
-    
+  marker = new google.maps.Marker( 
+  { map: map,
+    icon: image,
+    position: location 
+  }); 
   
-  
-  google.maps.event.addListener(marker, 'click', function() { setPost(id); }); 
+  google.maps.event.addListener(marker, 'click', 
+    function() { 
+      setPost(id); 
+    }
+  ); 
 }
 
 
@@ -129,9 +107,9 @@ function initialize() {
   map = new google.maps.Map(mapCanvas, mapOptions);
   setStyles(map);
   setMarkerFromLocation(-13.753836,-172.11687,"ferry","ferry");
+  setMarkerFromLocation(-13.613283,-172.20215, "joelan","fale");
   setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
   setMarkerFromLocation(-13.748744,-172.22913,"salelonga", "market");
-  setMarkerFromLocation(-13.613283,-172.20215, "joelan","fale");
   setMarkerFromLocation(-13.451613,-172.33061, "lava-fields", "church");
   setMarkerFromLocation(-13.536176,-172.39386, "crater-man","crater");
   setMarkerFromLocation(-13.499144,-172.78738, "falealupo","snorkel");
