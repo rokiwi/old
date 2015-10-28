@@ -109,7 +109,7 @@ function nextIcon() {
 
 function showAllIcons() {
   $.each(markersCl, function(index, value ) {
-   value.setvisible(true);
+   value.setVisible(true);
    alert("test");
   });
 }
