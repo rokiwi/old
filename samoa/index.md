@@ -103,17 +103,14 @@ function nextIcon() {
     }
     markersCl.push(marker);
   }else{
-    alert("test");
     showAllIcons();
   }
 }
 
 function showAllIcons() {
-  $.each(markers, function(index, value ) {
-   value.setvisible(true);
-  });
   $.each(markersCl, function(index, value ) {
    value.setvisible(true);
+   alert("test");
   });
 }
 
