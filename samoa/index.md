@@ -35,7 +35,7 @@ Click on all the icons to discover the places we visited in Samoa and don't forg
 
 <div id="post"></div>
 
-<a href='#map'>Début / Carte</a>
+<h4> <a href='#map'>Go back to map and find more places</a> </h4>
 
 </div>
 
