@@ -96,6 +96,8 @@ function setMarkerFromLocation(x,y,id,icon){
 function nextIcon() {
   var marker = markers.shift();
   marker.setVisible(true);
+  var prev = markersCl.[markersCl.length - 1];
+  prev.setVisible(false);
   markersCl.push(marker);
 }
 
