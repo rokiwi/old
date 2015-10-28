@@ -101,7 +101,7 @@ function setMarkerFromLocation(x,y,id,icon){
 
 function nextIcon() {
   console.log(markers.length);
-  if(markers.length > 0){
+  // if(markers.length > 0){
     var marker = markers.shift();
     marker.setVisible(true);
     
@@ -110,9 +110,9 @@ function nextIcon() {
     //  prev.setVisible(false);
     //}
     markersCl.push(marker);
-  }else{
-    showAllIcons();
-  }
+  // }else{
+   // showAllIcons();
+  //}
 }
 
 function showAllIcons() {
