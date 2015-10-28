@@ -100,8 +100,8 @@ function nextIcon() {
     if(markersCl.length > 0){
       var prev = markersCl[markersCl.length - 1];
       prev.setVisible(false);
-     markersCl.push(marker);
     }
+    markersCl.push(marker);
   }else{
     showAllIcons();
   }
