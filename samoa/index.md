@@ -67,6 +67,7 @@ var upolu = [
 var manono = [
   new google.maps.LatLng(-13.853478,-172.11687),
   new google.maps.LatLng(-13.83045, -172.0081),
+  new google.maps.LatLng(-13.753836,-172.11687)
 ];
 
 function setPost(code) {
