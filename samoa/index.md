@@ -42,7 +42,7 @@ Clique sur toutes les petites icônes noires pour découvrir notre voyage aux î
 <style>
 #map {
   width: 90vw; 
-  height: 70vw; 
+  height: 50vw; 
 }
 </style>
 
