@@ -109,7 +109,7 @@ function nextIcon() {
     }
     markersCl.push(marker);
   }else{
-   // showAllIcons();
+    showAllIcons();
   }
 }
 
