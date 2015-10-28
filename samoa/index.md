@@ -103,6 +103,7 @@ function nextIcon() {
     }
     markersCl.push(marker);
   }else{
+    alert("test");
     showAllIcons();
   }
 }
