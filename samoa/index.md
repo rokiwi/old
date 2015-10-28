@@ -120,7 +120,7 @@ function showAllIcons() {
   });
 
   $.each( markersCl, function( key, value ) {
-    alert( key + ": " + value );
+    value.setVisible(true);
   });
 
 
