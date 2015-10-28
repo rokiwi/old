@@ -98,18 +98,18 @@ function setMarkerFromLocation(x,y,id,icon){
 }
 
 function nextIcon() {
-  // if(markers.length > 0){
+  if(markers.length > 0){
     var marker = markers.shift();
     marker.setMap(map);
     
-    //if(markersCl.length > 0){
-    //  var prev = markersCl[markersCl.length - 1];
-    //  prev.setVisible(false);
-    //}
+    if(markersCl.length > 0){
+      var prev = markersCl[markersCl.length - 1];
+      prev.setMap(map);
+    }
     markersCl.push(marker);
-  // }else{
-   // showAllIcons();
-  //}
+  }else{
+    showAllIcons();
+  }
 }
 
 function showAllIcons() {
