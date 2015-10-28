@@ -114,8 +114,8 @@ function nextIcon() {
 }
 
 function showAllIcons() {
-  markers.splice(key,1);
   markersCl = markers.concat(markersCl);
+  markers = new Array();
 
   $.each( markersCl, function( key, value ) {
     value.setVisible(true);
