@@ -8,13 +8,13 @@ layout: home
 
 <div id="map"></div>
 
-<div>
+<p>
   <a href="JavaScript:showAllIcons()">Toutes les icônes,</a>
   <a href="JavaScript:setBounds(samoa)"> Samoa,</a>
   <a href="JavaScript:setBounds(savaii)"> Savai'i,</a>
   <a href="JavaScript:setBounds(upolu)"> Upolu,</a>
   <a href="JavaScript:setBounds(manono)"> Manono</a>
-</div>
+</p>
 
 <style>
 #map {
