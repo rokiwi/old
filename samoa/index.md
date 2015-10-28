@@ -4,9 +4,11 @@ layout: home
 
 <div>
 
+<h1>Samoa</h1>
+
 <div id="map"></div>
 
-Click on all the icons to discover the places we visited and don't forget to go to all the islands (Savai'i, Upolu and Manono).
+Click on all the icons to discover the places we visited in Samoa and don't forget to go to all the islands by clicking on the related button (Savai'i, Upolu and Manono). Try to find the icons in order, see table underneath (the name will be crossed once you found it).
 
 <table>
   <tr>
@@ -14,7 +16,7 @@ Click on all the icons to discover the places we visited and don't forget to go 
   <td style="vertical-align:top">
     <button onclick="setBounds({{ isl.code }})" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
     <ul>
-    {% for post in site.categories.samoa %}
+    {% for post in site.categories.samoa reversed %}
       {% if post.isl == isl.code %}
       <li>
      <!-- <a id="link{{ post.file }}"  href="JavaScript:setPost('{{ post.file }}')"> -->
