@@ -85,14 +85,18 @@ function setMarkerFromLocation(x,y,id,icon){
   google.maps.event.addListener(marker, 'click', 
     function() { 
       setPost(id); 
-      var marker = markers.shift();
-      marker.setVisible(true);
-      markersCl.push(marker);
+      nextIcon();
     }
   ); 
 
   marker.setVisible(false);
   markers.push(marker);
+}
+
+function nextIcon() {
+  var marker = markers.shift();
+  marker.setVisible(true);
+  markersCl.push(marker);
 }
 
 function setStyles(map){
@@ -128,6 +132,7 @@ function initialize() {
   setMarkerFromLocation(-13.83045,-172.0081, "plane", "plane");
 
   setBounds(samoa);
+  nextIcon();
 }
 
 
