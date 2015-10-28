@@ -11,27 +11,21 @@ layout: home
 <h4>
 Clique sur toutes les petites icônes noires pour découvrir notre voyage aux îles Samoa.
 </h4>
-
-<table>
   <tr>
   {% for isl in site.data.samoa-isl %}
-  <td style="vertical-align:top">
-    <button onclick="setBounds({{ isl.code }})" style="text-align:center;font-weight:bold;width:100%;">{{ isl.name }}</button>
-    <ul>
+  
+    <span>{{ isl.name }}</span>
+    <div>
     {% for post in site.categories.samoa reversed %}
       {% if post.isl == isl.code %}
-      <li id="link{{ post.file }}">
-     <!-- <a id="link{{ post.file }}"  href="JavaScript:setPost('{{ post.file }}')"> -->
-  {{ post.title }}
-     <!-- </a> -->
-      </li>
+      <span id="link{{ post.file }}">
+       {{ post.title }}, 
+      </span>
       {% endif %}
     {% endfor %}
-    </ul>
-  </td>
+    </div>
+  
   {% endfor %}
-  </tr>
-</table>
 
 <div id="post"></div>
 
