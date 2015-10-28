@@ -9,6 +9,7 @@ layout: home
 <div id="map"></div>
 
 <p> 
+  <a href="JavaScript:showAllIcons()">Manono</a>
   <a href="JavaScript:setBounds('samoa')">Samoa</a> ,
   <a href="JavaScript:setBounds('savaii')">Savai'i</a> ,
   <a href="JavaScript:setBounds('upolu')">Upolu</a> ,
@@ -113,7 +114,12 @@ function nextIcon() {
 }
 
 function showAllIcons() {
-  $.each( obj, function( key, value ) {
+  $.each( markers, function( key, value ) {
+    markers.delete(key);
+    markers.push(value);
+  });
+
+  $.each( markersCl, function( key, value ) {
     alert( key + ": " + value );
   });
 
