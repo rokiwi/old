@@ -6,6 +6,8 @@ layout: home
 
 <div id="map"></div>
 
+Click on all the icons to discover the places we visited and don't forget to go to all the islands (Savai'i, Upolu and Manono).
+
 <table>
   <tr>
   {% for isl in site.data.samoa-isl %}
@@ -15,7 +17,9 @@ layout: home
     {% for post in site.categories.samoa %}
       {% if post.isl == isl.code %}
       <li>
-      <a id="link{{ post.file }}" href="JavaScript:setPost('{{ post.file }}')">{{ post.title }}</a>
+     <!-- <a id="link{{ post.file }}"  href="JavaScript:setPost('{{ post.file }}')"> -->
+  {{ post.title }}
+     <!-- </a> -->
       </li>
       {% endif %}
     {% endfor %}
