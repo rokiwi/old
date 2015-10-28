@@ -59,6 +59,7 @@ var manono = [
 ];
 
 function setPost(code) {
+  console.log(code);
   $('#post').load('/samoa/2015/08/' + code + '/', function() {
     $('#post').get(0).scrollIntoView();
   });
@@ -102,6 +103,7 @@ function setMarkerFromLocation(x,y,id,icon){
 }
 
 function nextIcon() {
+  console.log(markers.length);
   if(markers.length > 0){
     var marker = markers.shift();
     marker.setVisible(true);
