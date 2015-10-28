@@ -108,10 +108,11 @@ function nextIcon() {
 }
 
 function showAllIcons() {
-  $.each(markersCl, function(index, value ) {
-   value.setVisible(true);
-   alert("test");
+  $.each( obj, function( key, value ) {
+    alert( key + ": " + value );
   });
+
+
 }
 
 function setStyles(map){
