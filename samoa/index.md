@@ -94,12 +94,15 @@ function setMarkerFromLocation(x,y,id,icon){
 }
 
 function nextIcon() {
-  var marker = markers.shift();
-  marker.setVisible(true);
-  var prev = markersCl[markersCl.length - 1];
-  prev.setVisible(false);
-  markersCl.push(marker);
-  if(markers.length == 0){
+  if(markers.length > 0){
+    var marker = markers.shift();
+    marker.setVisible(true);
+    if(markersCl.length > 0){
+      var prev = markersCl[markersCl.length - 1];
+      prev.setVisible(false);
+     markersCl.push(marker);
+    }
+  }else{
     showAllIcons();
   }
 }
