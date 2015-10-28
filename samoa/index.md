@@ -24,7 +24,8 @@ layout: home
 </style>
 
 <script src="https://maps.googleapis.com/maps/api/js"></script>
-<script src="http://jsconsole.com/remote.js?357FF436-2B60-4A08-8BC5-35CBE8EDDCBE"></script>
+
+<script src="http://jsconsole.com/remote.js?02A5ED41-3841-490F-9854-CA327C951637"></script>
 
 <script>
 var map;
@@ -58,7 +59,6 @@ var manono = [
 ];
 
 function setPost(code) {
-  console.log(code);
   $('#post').load('/samoa/2015/08/' + code + '/', function() {
     $('#post').get(0).scrollIntoView();
   });
@@ -87,13 +87,11 @@ function setMarkerFromLocation(x,y,id,icon){
   marker = new google.maps.Marker( 
   { map: map,
     icon: image,
-    position: location,
-    code: id
+    position: location 
   }); 
   
   google.maps.event.addListener(marker, 'click', 
     function() { 
-      console.log(marker);
       setPost(id); 
       nextIcon();
     }
@@ -108,13 +106,7 @@ function nextIcon() {
   if(markers.length > 0){
     var marker = markers.shift();
     marker.setVisible(true);
-    google.maps.event.addListener(marker, 'click', 
-    function() { 
-      console.log(marker);
-      setPost(marker.code); 
-      nextIcon();
-    }
-  ); 
+    
     if(markersCl.length > 0){
       var prev = markersCl[markersCl.length - 1];
       prev.setVisible(false);
