@@ -149,7 +149,7 @@ function initialize() {
   
 
   setMarkerFromLocation(-13.451613,-172.33061, "lava-fields", "church");
-setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
+//setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
   setMarkerFromLocation(-13.536176,-172.39386, "crater-man","crater");
   setMarkerFromLocation(-13.499144,-172.78738, "falealupo","snorkel");
   setMarkerFromLocation(-13.745346,-172.3137, "afa-aau-waterfall","waterfall");
