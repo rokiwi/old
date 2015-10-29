@@ -26,6 +26,8 @@ layout: home
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 
 <script>
+$.ajaxSetup ({ // Disable caching of AJAX responses cache: false });
+
 var map;
 var markers = new Array();
 var markersCl = new Array();
