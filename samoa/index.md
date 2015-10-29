@@ -75,7 +75,7 @@ function addListener(i) {
       function() { 
        var mark = this;
        nextIcon();
-       setPost(mark.co); 
+       //setPost(mark.co); 
        
       }
     ); 
