@@ -72,7 +72,7 @@ function setBounds(bounds){
 
 function setMarkerFromLocation(x,y,id,icon){
   var location = new google.maps.LatLng(x,y);
-  var marker;
+  var m;
 
   var image = {
     url: "/samoa/icon/" + icon + ".svg",
@@ -88,14 +88,14 @@ function setMarkerFromLocation(x,y,id,icon){
     co: id
   }); 
  
-  google.maps.event.addListener(marker, 'click', 
+  google.maps.event.addListener(m, 'click', 
       function() { 
        setPost(this.co); 
        nextIcon();
       }
     ); 
 
-  markers.push(marker);
+  markers.push(m);
 }
 
 function nextIcon() {
