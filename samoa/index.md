@@ -73,8 +73,9 @@ function setBounds(bounds){
 function addListener(i) {
   google.maps.event.addListener(i, 'click', 
       function() { 
-       setPost(this.co); 
        nextIcon();
+       setPost(this.co); 
+       
       }
     ); 
   }
@@ -105,13 +106,12 @@ function setMarkerFromLocation(x,y,id,icon){
 
 function nextIcon() {
   if(markers.length > 0){
-    var mar = markers.shift();
-    mar.setMap(map);
-    
     if(markersCl.length > 0){
       var prev = markersCl[markersCl.length - 1];
       prev.setMap(null);
     }
+    var mar = markers.shift();
+    mar.setMap(map);
     markersCl.push(mar);
   }else{
     showAllIcons();
