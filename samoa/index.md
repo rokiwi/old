@@ -70,6 +70,15 @@ function setBounds(bounds){
   map.fitBounds(bs);
 }
 
+function addListener(i) {
+  google.maps.event.addListener(i, 'click', 
+      function() { 
+       setPost(this.co); 
+       nextIcon();
+      }
+    ); 
+  }
+
 function setMarkerFromLocation(x,y,id,icon){
   var location = new google.maps.LatLng(x,y);
   var m;
@@ -88,14 +97,6 @@ function setMarkerFromLocation(x,y,id,icon){
     co: id
   }); 
  
-  var addListener = function (i) {
-  google.maps.event.addListener(i, 'click', 
-      function() { 
-       setPost(i.co); 
-       nextIcon();
-      }
-    ); 
-  }
 
   addListener(m);
 
@@ -104,14 +105,14 @@ function setMarkerFromLocation(x,y,id,icon){
 
 function nextIcon() {
   if(markers.length > 0){
-    var marker = markers.shift();
-    marker.setMap(map);
+    var mar = markers.shift();
+    mar.setMap(map);
     
     if(markersCl.length > 0){
       var prev = markersCl[markersCl.length - 1];
       prev.setMap(null);
     }
-    markersCl.push(marker);
+    markersCl.push(mar);
   }else{
     showAllIcons();
   }
@@ -123,12 +124,6 @@ function showAllIcons() {
 
   $.each( markersCl, function( key, value ) {
     value.setMap(map);
-    google.maps.event.addListener(value, 'click', 
-      function() { 
-       setPost(value.co); 
-       nextIcon();
-      }
-    ); 
   });
 
 
