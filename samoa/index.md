@@ -82,18 +82,22 @@ function setMarkerFromLocation(x,y,id,icon){
     scaledSize: new google.maps.Size(25, 25)
   };
 
-  marker = new google.maps.Marker( 
+  m = new google.maps.Marker( 
   { icon: image,
     position: location,
     co: id
   }); 
  
-  google.maps.event.addListener(m, 'click', 
+  var addListener = function (i) {
+  google.maps.event.addListener(i, 'click', 
       function() { 
-       setPost(this.co); 
+       setPost(i.co); 
        nextIcon();
       }
     ); 
+  }
+
+  addListener(m);
 
   markers.push(m);
 }
