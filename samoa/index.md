@@ -87,6 +87,13 @@ function setMarkerFromLocation(x,y,id,icon){
     position: location,
     co: id
   }); 
+ 
+  google.maps.event.addListener(marker, 'click', 
+      function() { 
+       setPost(marker.co); 
+       nextIcon();
+      }
+    ); 
 
   markers.push(marker);
 }
@@ -95,13 +102,6 @@ function nextIcon() {
   if(markers.length > 0){
     var marker = markers.shift();
     marker.setMap(map);
-    
-    google.maps.event.addListener(marker, 'click', 
-      function() { 
-       setPost(marker.co); 
-       nextIcon();
-      }
-    ); 
     
     if(markersCl.length > 0){
       var prev = markersCl[markersCl.length - 1];

@@ -9,7 +9,7 @@ isl: savaii
 published: true
 ---
 
-Le véhicule qu'on a conduit en allant à cette cascade est un peu particulier : un mini-bus de 15 places pour nous trois. Comment en est-on arrivé là ? C'est une longue histoire... Tu te rappelles de cette voiture (4×4 qui n'en est pas un) qu'on a loué [voir Crater Man]? La police nous interpelle pour nous signaler que l'assurance n'est pas en ordre, on ne reçoit pas d'amende mais on doit retourner immédiatement au point de location pour régler ce 'détail'. Apparemment, c'est juste une question d'autocollant qui doit arriver dans le ferry de 14h (ça sent l'embrouille non ?!). En attendant, on peut utiliser l'unique véhicule disponible à savoir un mini-bus de 15 places. 
+Le véhicule qu'on a conduit en allant à cette cascade est un peu particulier : un mini-bus de 15 places pour nous trois. Comment en est-on arrivé là ? C'est une longue histoire... Tu te rappelles de cette voiture (4×4 qui n'en est pas un) qu'on a loué? La police nous interpelle pour nous signaler que l'assurance n'est pas en ordre, on ne reçoit pas d'amende mais on doit retourner immédiatement au point de location pour régler ce 'détail'. Apparemment, c'est juste une question d'autocollant qui doit arriver dans le ferry de 14h (ça sent l'embrouille non ?!). En attendant, on peut utiliser l'unique véhicule disponible à savoir un mini-bus de 15 places. 
 
 {% include image.html url="https://lh3.googleusercontent.com/-Dcu6opTdrvc/VimgiFyivYI/AAAAAAAAJwc/ngUnRVDm3ZI/s912-Ic42/upload_-1.jpg" caption="" %}
 
