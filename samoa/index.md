@@ -97,11 +97,8 @@ function setMarkerFromLocation(x,y,id,icon){
     position: location,
     co: id
   }); 
- 
-
-  addListener(m);
-
   markers.push(m);
+  addListener(m);
 }
 
 function nextIcon() {
@@ -111,8 +108,8 @@ function nextIcon() {
       prev.setMap(null);
     }
     var mar = markers.shift();
-    mar.setMap(map);
     markersCl.push(mar);
+    mar.setMap(map);
   }else{
     showAllIcons();
   }
