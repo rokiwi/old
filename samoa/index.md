@@ -57,7 +57,8 @@ var manono = [
 ];
 
 function setPost(code) {
-  $('#post').load('/samoa/2015/08/' + code + '/', function() {
+  $('#post').load('/samoa/2015/08/' + code + '/', function(responseText, textStatus, req) {
+    alert(textStatus);
     $('#post').get(0).scrollIntoView();
   });
 }
