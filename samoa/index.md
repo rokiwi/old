@@ -79,6 +79,7 @@ function addListener(i) {
        setPost(mark.co); 
       }
     ); 
+  alert(i.co);
   }
 
 function setMarkerFromLocation(x,y,id,icon){
