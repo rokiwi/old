@@ -73,8 +73,9 @@ function setBounds(bounds){
 function addListener(i) {
   google.maps.event.addListener(i, 'click', 
       function() { 
+       var mark = this;
        nextIcon();
-       setPost(i.co); 
+       setPost(mark.co); 
        
       }
     ); 
