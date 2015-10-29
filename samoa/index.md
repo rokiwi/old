@@ -6,7 +6,7 @@ layout: home
 
 <div id="post"></div>
 
-<div id="map"></div>
+<div id="map" data-tap-disabled="true"></div>
 
 <p>
   <a href="JavaScript:showAllIcons()">Toutes les icônes,</a>
