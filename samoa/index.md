@@ -90,7 +90,7 @@ function setMarkerFromLocation(x,y,id,icon){
  
   google.maps.event.addListener(marker, 'click', 
       function() { 
-       setPost(marker.co); 
+       setPost(this.co); 
        nextIcon();
       }
     ); 
