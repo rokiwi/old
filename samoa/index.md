@@ -72,7 +72,7 @@ function setBounds(bounds){
 }
 
 function addListener(i) {
-  google.maps.event.addListener(i, 'click', 
+  google.maps.event.addListener(i, 'mousedown', 
       function() { 
        var mark = this;
        nextIcon();
