@@ -4,6 +4,8 @@ layout: home
 
 <div>
 
+<h4><a href="{{ page.album }}">Album Photo</a></h4>
+
 <div id="post"></div>
 
 <div id="map" scroll="false" data-tap-disabled="true"></div>
