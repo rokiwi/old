@@ -145,7 +145,7 @@ function initialize() {
 
   setMarkerFromLocation(-13.753836,-172.11687,"ferry","ferry");
   setMarkerFromLocation(-13.613283,-172.20215, "joelan","fale");
-  //setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
+  setMarkerFromLocation(-13.66891,-172.17941,"bus","bus");
   setMarkerFromLocation(-13.748744,-172.22913,"salelonga", "market");
   
 
