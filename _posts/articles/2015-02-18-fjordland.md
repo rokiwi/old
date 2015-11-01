@@ -7,7 +7,7 @@ date-begin: 2015-02-18
 date-end: 2015-02-25
 image: 
   teaser-ext: "http://lh3.ggpht.com/-aglojgKaOuM/VPfAVU7idJI/AAAAAAAAC4k/WDkdQ-FFJ3M/s1280/upload_-1.jpg"
-album: "https://plus.google.com/photos/104897435834545155307/albums/6121920856713170433?authkey=CIrR7oLl_J-kigE"
+album: "https://goo.gl/photos/jL14wur6HztWFGwH6"
 translation: "/articles/2015/02/fjordland-vo"
 published: true
 ---

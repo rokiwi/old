@@ -7,7 +7,7 @@ date-begin: 2015-04-08
 date-end: 2015-04-13
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-nUbkQJfCqek/VTG9ZHliKKI/AAAAAAAAEfM/GRHHp1gpvd8/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/MarlboroughSound?authkey=Gv1sRgCPCZs9r5homilQE"
+album: "https://goo.gl/photos/8jjCriXuNXR9BBqf8"
 published: true
 ---
 

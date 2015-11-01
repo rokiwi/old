@@ -6,7 +6,7 @@ date-begin: 2015-04-28
 date-end: 2015-05-05
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-62-Rm21F-z4/VU2sy48in1I/AAAAAAAAFTU/sreA80JBX0M/s640/IMG_3446.JPG"
-album: "https://plus.google.com/photos/104897435834545155307/albums/6146742259154179905?authkey=COXhl-Lw_57vwAE"
+album: "https://goo.gl/photos/hx4EpN3MzeggcXoX8"
 translation: "/articles/2015/04/lewis-pass-vo"
 published: true
 ---

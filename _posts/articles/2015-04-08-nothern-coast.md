@@ -7,7 +7,7 @@ date-begin: 2015-04-08
 date-end: 2015-04-13
 image: 
   teaser-ext: "http://lh3.googleusercontent.com/-nUbkQJfCqek/VTG9ZHliKKI/AAAAAAAAEfM/GRHHp1gpvd8/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/MarlboroughSound?authkey=Gv1sRgCPCZs9r5homilQE"
+album: "https://goo.gl/photos/8jjCriXuNXR9BBqf8"
 translation: "/articles/2015/04/nothern-coast-vo"
 published: true
 ---
@@ -47,11 +47,3 @@ On fignole notre stock, encore bien fourni grâce à Dieter, au marché fermier 
 {% include image.html url="http://lh3.googleusercontent.com/-Rr5NYE0-eCo/VTR37jis8II/AAAAAAAAE8A/DWtkrZ6XtSg/s1280/upload_-1.jpg" caption="Le French Pass et notre dernière -slurp- pastèque" %}
 
 {% include image.html url="http://lh3.googleusercontent.com/-X2aabBXHETM/VTR30dPHwRI/AAAAAAAAE7w/_t3gPuuzbc8/s1280/upload_-1.jpg" caption="Pelorus Bridge (vu dans le Hobbit) et le ferry pour l'île du nord" %}
-
-
-
-
-
-
-
-

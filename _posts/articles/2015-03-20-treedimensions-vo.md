@@ -7,7 +7,7 @@ date-begin: 2015-03-20
 date-end: 2015-04-08
 image: 
   teaser-ext: "http://lh3.ggpht.com/-f4G8tUyLOc8/VSRPCeJJeAI/AAAAAAAAD7c/9y8rNaLdSQA/s1280/upload_-1.jpg"
-album: "https://picasaweb.google.com/104897435834545155307/TreeDimension?authkey=Gv1sRgCIviwNrIl_OkXQ"
+album: "https://goo.gl/photos/6Whdjvg9QgnQopjH6"
 published: true
 ---
 
@@ -54,5 +54,3 @@ Tui sound
 {% include image.html url="http://lh6.ggpht.com/-CU0cEfXugMs/VStSYhDQdfI/AAAAAAAAEXA/u5mtxqnBrRc/s1280/upload_-1.jpg" caption="Some veggies" %}
 
 {% include image.html url="http://lh5.ggpht.com/-Giy3HWk2P-4/VStR0e70yTI/AAAAAAAAEWI/D1rh2AzEgM0/s1280/upload_-1.jpg" caption="" %}
-
-

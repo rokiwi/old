@@ -7,7 +7,7 @@ date-begin: 2015-04-13
 date-end: 2015-04-28
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-Bt2BHGGLWbE/VU2Y8iBkJuI/AAAAAAAAFFc/YGFyZ6cwNi4/s640/IMG_3188.JPG"
-album: "https://plus.google.com/photos/104897435834545155307/albums/6142247041019927633?authkey=CLGLxpSah43ErAE"
+album: "https://goo.gl/photos/Nv7Ym9S117mw7PVm8"
 published: true
 ---
 

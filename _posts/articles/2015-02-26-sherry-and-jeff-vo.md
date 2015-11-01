@@ -7,7 +7,7 @@ date-begin: 2015-02-25
 date-end: 2015-03-09
 image: 
   teaser-ext: "http://lh4.ggpht.com/-7NTv5HPPmH8/VPujsKKIcdI/AAAAAAAADB0/mXyZuivmRro/s1280/upload_-1.jpg"
-album: "https://plus.google.com/photos/104897435834545155307/albums/6123665301348472513"
+album: "https://goo.gl/photos/7Goas7r6CGHrVMDj7"
 published: true
 ---
 
