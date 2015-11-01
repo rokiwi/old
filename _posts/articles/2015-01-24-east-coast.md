@@ -5,7 +5,7 @@ categories: articles
 tags: "Oamaru"
 image: 
   teaser-ext: " http://lh6.ggpht.com/-lNSZRszsoB0/VOb5i5TcbNI/AAAAAAAABG0/zaml7vqi5fk/s1280/upload_-1.jpg "
-album: " https://picasaweb.google.com/104897435834545155307/EastCoast?authkey=Gv1sRgCLa176_kxdKmWQ "
+album: "https://goo.gl/photos/i8NDkJLxkTNGD8Ka9"
 published: true
 ---
 
@@ -56,5 +56,3 @@ Dernier arrêt avant notre prochain wwoofing: Laurence. On a malheureusement lou
 {% include image.html url=" http://lh5.ggpht.com/-9cF0M2La44E/VOjVyf3Xe8I/AAAAAAAACG8/Y7K6BvGr26s/s1280/upload_-1.jpg " caption="Clutha River" %}
 
 {% include image.html url=" http://lh4.ggpht.com/-BIYNPbCmv7g/VOeYvm8qkCI/AAAAAAAACDg/p2fNZMjoGTE/s1280/upload_-1.jpg " caption="Glencoe DOC campsite et bain dans la rivière" %}
-
-

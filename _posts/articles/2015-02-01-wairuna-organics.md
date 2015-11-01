@@ -5,7 +5,7 @@ categories: articles
 tags: "Clinton"
 image: 
   teaser-ext: " http://lh6.ggpht.com/-gcehNllkj8A/VOb_AenaU8I/AAAAAAAABUE/Lqh3a4PMq8k/s1280/upload_-1.jpg "
-album: " https://picasaweb.google.com/104897435834545155307/WairunaOrganics?authkey=Gv1sRgCMqVsLu0rtmZPQ "
+album: "https://goo.gl/photos/t5oshXucxc4fdPQo8"
 published: true
 ---
 

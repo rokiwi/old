@@ -5,7 +5,7 @@ categories: articles
 tags: "christchurch, french"
 image: 
   teaser-ext: " http://lh5.ggpht.com/-nC58FeSYPOs/VOeRgYNQLQI/AAAAAAAAB-4/NhJEN7OsHMA/s1280/upload_-1.jpg "
-album: "https://picasaweb.google.com/104897435834545155307/Christchurch02?authkey=Gv1sRgCPehg6OFqtOggQE"
+album: "https://goo.gl/photos/nqP4SdTP2cXFjKfD9"
 published: true
 ---
 
@@ -20,6 +20,3 @@ Parmi les must sur place : le jardin botanique et ses arbres géants, les nombre
 {% include image.html url=" http://lh6.ggpht.com/-cQtGMWzuzXU/VPF4Bz5ZysI/AAAAAAAACLg/xVW0F_fsYo0/s1280/upload_-1.jpg " caption="Les girafes" %}
 
 {% include image.html url=" http://lh6.ggpht.com/-zNgBHfr3x8c/VPF37wDxGdI/AAAAAAAACLQ/AXnfvplAANQ/s1280/upload_-1.jpg " caption="Le jardin botanique" %}
-
-
-

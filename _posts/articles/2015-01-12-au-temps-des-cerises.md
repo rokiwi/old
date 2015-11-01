@@ -7,7 +7,7 @@ location: "90+Ripponvale+Cromwell"
 image: 
   teaser-ext: "http://lh6.ggpht.com/-ZhNQ0RaXpWY/VNGjd-vhQQI/AAAAAAAAAFU/GY5SNdtVr0k/s1280/IMG_0637.JPG"
 published: true
-album: "https://picasaweb.google.com/104897435834545155307/AuTempsDesCerises?authkey=Gv1sRgCPfT8pn34ZGRfg"
+album: "https://goo.gl/photos/edkoN1QoLQSoWNmeA"
 ---
 
 
