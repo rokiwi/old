@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sb="http://simplector.lyoshka.net/base/2.0"
+   xmlns:sp="http://simplector.lyoshka.net/pro/2.0"
+   width="38.0px"
+   height="30.0px"
+   viewBox="0 0 38.0 30.0"
+   sb:fontSize="Custom"
+   sb:pageOrientation="Portrait"
+   version="1.1"
+   sb:version="2.0.22"
+   >
+   <desc>Created in Simplector</desc>
+   <path
+      id="2"
+      transform="matrix(0.07540058,0.0,0.0,0.07540058,-0.41523886,-5.0994263)"
+      fill="rgb(0,0,0)"
+      fill-opacity="1.0"
+      stroke-width="4.0"
+      stroke-linecap="butt"
+      stroke-linejoin="miter"
+      stroke-miterlimit="2.0"
+      stroke="rgb(0,0,0)"
+      stroke-opacity="0.0"
+      d="
+      M 36.816467 450.67853 C 37.564255 267.39758 106.9301 251.81198 145.7796 95.514435 
+      Q 250.65544 422.03217 398.2857 81.514496 C 374.6068 246.07281 441.74884 248.76682 468.7279 447.4585 
+      
+      "
+
+      sb:layerName="PathFigure-2"
+      sb:layerVisible="true"
+      sb:layerLocked="false"
+      sb:pathType="path"
+      >
+   </path>
+</svg>
