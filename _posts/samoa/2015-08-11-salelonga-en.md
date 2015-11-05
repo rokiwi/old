@@ -9,8 +9,9 @@ isl: savaii
 published: false
 ---
 
-Si tu cherches quelque chose à Savaii, c'est là que tu le trouveras. Voilà ce qu'on a acheté : des tongs, des lava-lava, un paillasson en chiffons de récupération, une carte de GSM, des cacahuètes samoaises, des beignets de poulet, du taro cuit à la noix de coco, un régime de bananes, une grande cuillère en bois.
+If you're looking for something on Savaii, that's where you're very likely to find it. We bought there flip-flops, lava-lava, a recycled doormat, a SIM card, Samoan peanuts, chicken fritters, taro cooked with coconut cream, a bunch of bananas, a large wooden spoon.
 
-C'est aussi un lieu de rencontre avec tables de billard et jeux de dames. D'ailleurs, on y a revu Joelan, sa femme et Ricardo. Jenn est partie faire du shopping avec elle et on est resté boire du kava avec les hommes. Le kava est une boisson obtenue en macérant des racines de kava, c'est servi dans une demi noix de coco et ça endort un peu les lèvres. Il parait que les sensations sont les mêmes que celles de l'alcool (à part devoir faire pipi, on n'a pas eu d'autres soucis) et ça se boit cul-sec. 
+It's also a meeting place with pool tables and Checkers. By the way, we met there Joelan, his wife and Ricardo. Jenn went for some shopping with her and we stayed to try 'kava' with the men. Kava is a drink resulting from the soaking of kava roots, it's drunk in a halved coconut shell and it numbs slightly your lips. It's supposed to intoxicate you like alcohol (except from going to pee we didn't feel it) and you have to drink it bottom up.
+
 
 {% include image.html url="https://lh3.googleusercontent.com/-NSEs3He7XIA/VimgrFIVLMI/AAAAAAAAJw0/I554MP53ReM/s912-Ic42/upload_-1.jpg" caption="Kava" %}
