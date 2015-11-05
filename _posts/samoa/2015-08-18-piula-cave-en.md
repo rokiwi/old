@@ -7,7 +7,7 @@ prev: "apia"
 nex: "manono"
 file: piula-cave
 isl: upolu
-published: false
+published: true
 ---
 
 Samoan culture is very Christian so we visit a few churches, or rather natural pools next to churches. Piula is a Methodist Church and there's a pool carved into the rock. The water is so pure that you can see the fish swimming. The pool is also going into a cave, if you want to swim in the shade ;).

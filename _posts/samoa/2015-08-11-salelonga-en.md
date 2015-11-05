@@ -6,7 +6,7 @@ prev: "joelan"
 nex: "lava-fields"
 file: salelonga
 isl: savaii
-published: false
+published: true
 ---
 
 If you're looking for something on Savaii, that's where you're very likely to find it. We bought there flip-flops, lava-lava, a recycled doormat, a SIM card, Samoan peanuts, chicken fritters, taro cooked with coconut cream, a bunch of bananas, a large wooden spoon.

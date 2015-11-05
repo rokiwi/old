@@ -7,7 +7,7 @@ prev: "satuiatua"
 nex: "maota-o-maa"
 file: blow-hole
 isl: savaii
-published: false
+published: true
 ---
 
 A blowhole is a sink in a cliff next to the sea. When a huge wave comes, pressure is built in the narrow sink and water is blown outside in fine drops. When you throw a coconut in a blow-hole and there's a powerful wave, your coconut flies in the air. It's very funny! ;)

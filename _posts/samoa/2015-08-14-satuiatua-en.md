@@ -7,7 +7,7 @@ prev: "afa-aau-waterfall"
 nex: "blow-hole"
 file: satuiatua
 isl: savaii
-published: false
+published: true
 ---
 
 {% include image.html url="https://lh3.googleusercontent.com/-A3PxNckJY58/VimgfAgUdJI/AAAAAAAAJwU/49t1h1jzj3I/s912-Ic42/upload_-1.jpg" caption="" %}

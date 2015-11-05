@@ -6,7 +6,7 @@ prev: "maota-o-maa"
 nex: "apia"
 file: coastal-walk
 isl: upolu
-published: false
+published: true
 ---
 
 The food at Maota-o-Ma'a is far too rich. We decide to go for a walk to burn some calories. After our host kindly drop us along the main road, we walk 3.5kms to reach "the coastal walk". It goes on top of lava cliffs where massive waves crashed, eroding arches and blowholes. Temperature is rising and wet open our first picnic coconut.
