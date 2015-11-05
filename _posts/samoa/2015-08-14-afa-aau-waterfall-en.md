@@ -9,7 +9,7 @@ isl: savaii
 published: true
 ---
 
-The vehicle we were driving to go to this Waterfall was quite special: a mini-bus with 15 seats for the three of us only. How did we get there? It's a long story... Do you remember the car we hired (the 4WD which actually wasn't one)? The police stopped us to indicate us the insurance wasn't up-to-date, we don't get fined but we have to go back straight away to the hiring company to sort this "detail" out. Actually, it's only a problem of sticker which should arrive in the 2 o'clock ferry (this sounds a bit funny doesn't it?!). In the meantime, we can use the only vehicle available, a 15 seats bus.
+The vehicle we were driving to go to this Waterfall was quite special: a mini-bus with 15 seats for the three of us only. How did we get there? It's a long story... Do you remember the car we hired (the 4WD which actually wasn't one)? The police stop us to tell us the insurance wasn't up-to-date, we don't get fined but we have to go back straight away to the hiring company to sort this "detail" out. Actually, it's only a problem of sticker which should arrive in the 2 o'clock ferry (this sounds a bit funny doesn't it?!). In the meantime, we can use the only vehicle available, a 15 seats bus.
 
 {% include image.html url="https://lh3.googleusercontent.com/-Dcu6opTdrvc/VimgiFyivYI/AAAAAAAAJwc/ngUnRVDm3ZI/s912-Ic42/upload_-1.jpg" caption="" %}
 
