@@ -1,6 +1,6 @@
 ---
 layout: samoa
-title: "Blow Holes, cascade et cratère"
+title: "Blow Holes, waterfalls and crater"
 categories: samoa
 image: ""
 prev: "satuiatua"
