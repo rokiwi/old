@@ -11,7 +11,7 @@ album: "https://goo.gl/photos/3kYahx5JnbfiCX227"
 published: true
 ---
 
-Kiwi aren't particularly rebellious and popeyed when French farmers go along the Champs-Élysées with their tractor to protest. But the discovery a car wreck freshly burned along a gravel road on the way from Mimiwhangata leaves us puzzled : is protesting showed differently ?
+Kiwi aren't particularly rebellious and popeyed when French farmers go along the Champs-Élysées with their tractor to protest. But discovering a car wreck freshly burned along a gravel road on the way from Mimiwhangata leaves us puzzled : is protesting showed differently ?
 
 We meanders through the harbours along the coast : small wooden bridges to cross it by foot (small :), one of them is the longest in the southern hemisphere), surf beaches and a WWII cannon (tree shots in total, the ones to see if it was working).
 
@@ -21,7 +21,7 @@ Exploring caves, Waipu and Abbey Caves, becomes a good alternative to the slight
 
 {% include image.html url="https://lh3.googleusercontent.com/-jmMbYX02FqM/Vjj2x-INFDI/AAAAAAAALZ8/jpUHaE3MccU/s912-Ic42/upload_-1.jpg" caption="Caves and glow worms (our camera is not able to reproduce the Milky Way that the glow worms draw on the cave roof)" %}
 
-Following the advise of our travel GP (he vaccinated us against thyphoid fever to go to Thailand), we leave for Mitimiti, another Maori settlement, to harvest mussels ... Beginners mistake, the tide isn't right but we stop in the lovely historical village of Kohukohu, in front of Rawene (see post [Northland 1](/articles/2015/09/northland-1-vo/) ).
+Following the advise of our travel GP (he vaccinated us against thyphoid fever to go to Thailand), we leave for Mitimiti, another Maori settlement, to harvest mussels ... Beginners mistake, the tide isn't right but we stop in the lovely historical village of Kohukohu, in front of Rawene (see post [Northland 1](/articles/2015/09/nortland-1-vo/) ).
 
 {% include image.html url="https://lh3.googleusercontent.com/-asOPOfmUohE/Vjj23DaX2xI/AAAAAAAALaM/ZubEI5PmRg8/s912-Ic42/upload_-1.jpg" caption="Kohukohu" %}
 
