@@ -40,10 +40,7 @@ Further North, we come across huge white sand beaches (one is 90km long) until C
 
 Then Karikari peninsula, that thanks to its 'sock' shape, has  beaches exposed to each compass point. You have to pull yourself up with a chain the last 10m but the 180° view over Whangaroa Harbour and the oysters farm on top of St Paul's Rock is worth the effort. Olivier has discovered a fondness for raw oysters and nibbles some occasionally.
 
-
- St Paul's Rock, un petit promontoire rocheux où tu dois t'aider d'une chaîne pour grimper les dix derniers mètres, offre un panorama à 180° sur l'estuaire de Whangaroa et les fermes d'huîtres. 
-
-{% include image.html url="https://lh3.googleusercontent.com/-pXCbnQA7wbo/Vjj20X-LJdI/AAAAAAAALaE/SwuX3TvfWXw/s912-Ic42/upload_-1.jpg" caption="Karikari peninsula with, amongst other things, the 'coca cola' lake of which the colour remind you the one of the famous drink" %}
+{% include image.html url="https://lh3.googleusercontent.com/-pXCbnQA7wbo/Vjj20X-LJdI/AAAAAAAALaE/SwuX3TvfWXw/s912-Ic42/upload_-1.jpg" caption="Karikari peninsula with, amongst other things, the 'coca cola' lake of which the colour reminds you the one of the famous drink" %}
 
 {% include image.html url="https://lh3.googleusercontent.com/-tatPgNxTw6c/Vjj3DSbsADI/AAAAAAAALa0/IHVYcLbS-P0/s912-Ic42/upload_-1.jpg" caption="Maitai Bay in Karikari" %}
 
@@ -51,7 +48,7 @@ Then Karikari peninsula, that thanks to its 'sock' shape, has  beaches exposed t
 
 {% include image.html url="https://lh3.googleusercontent.com/-REEy2L_ahwY/VjjxJi2jYbI/AAAAAAAALZc/nBvm1_k2r_4/s912-Ic42/upload_-1.jpg" caption="On the way to Auckland" %}
 
-The next and final stop in the land of the long white cloud is Auckland, and by the way The place to sell or buy a car (our chariot is not coming to Europe, snif)  where a last wwoofing is expecting us.
+The next and final stop in the land of the long white cloud is Auckland, and by the way THE place to sell or buy a car (our chariot is not coming to Europe, snif)  where a last wwoofing is expecting us.
 
 
 
