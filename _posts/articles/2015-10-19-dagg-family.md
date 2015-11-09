@@ -20,7 +20,7 @@ On se retrouve chez Kathryn et Chris, d'actifs pensionnés avec un jardin regorg
 
 Après de nombreuses visites (dont un surfeur allemand qui voulait caser deux planches de surf à l'intérieur), la chariotte a trouvé deux jeunes parisiennes comme chanceuses nouvelles propriétaires. On a dû rehausser la plateforme du lit pour que leurs énormes (!!) valises rentrent et les voilà parties pour de nouvelles aventures...
 
-{% include image.html url="https://lh3.googleusercontent.com/-uspSVV7VjIw/Vj-NM82mD6I/AAAAAAAAL5A/QPRayQ6zBpg/s912-Ic42/upload_-1.jpg" caption="Visite dans le centre ville après une "démonstration de chariotte" à de potentiels acheteurs" %}
+{% include image.html url="https://lh3.googleusercontent.com/-uspSVV7VjIw/Vj-NM82mD6I/AAAAAAAAL5A/QPRayQ6zBpg/s912-Ic42/upload_-1.jpg" caption="Visite dans le centre ville après une 'démonstration de chariotte' à de potentiels acheteurs" %}
 
 Outre la vente de le voiture, on profite de notre temps libre pour continuer nos visites. À Muriwai, plage de sable noir et bruyante, odorante, surpeuplée colonie de fous des antipodes.
 
