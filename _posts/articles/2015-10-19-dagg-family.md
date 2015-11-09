@@ -7,7 +7,7 @@ date-end: 2015-11-9
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-85iB-z-CCzE/Vj8hjmY-6YI/AAAAAAAALyQ/y-Ms_D70RwU/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/J4YnQzsrua6cf9Cr7"
-published: false
+published: true
 ---
 
 C'est difficile à croire mais on est déjà à la dernière étape de notre voyage en terre néo-zélandaise: Auckland, la plus grosse ville du pays où presque tous les voyageurs transitent... Notre principale préoccupation du moment est vendre la chariotte (la malheureuse ne se plairait pas en Belgique, elle est faite pour rouler à gauche), mais, pour ne pas changer des habitudes, on fait du wwoofing. 
