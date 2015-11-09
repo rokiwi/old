@@ -12,7 +12,7 @@ published: true
 
 C'est difficile à croire mais on est déjà à la dernière étape de notre voyage en terre néo-zélandaise: Auckland, la plus grosse ville du pays où presque tous les voyageurs transitent... Notre principale préoccupation du moment est vendre la chariotte (la malheureuse ne se plairait pas en Belgique, elle est faite pour rouler à gauche), mais, pour ne pas changer des habitudes, on fait du wwoofing. 
 
-On se retrouve chez Kathryn et Chris, d'actifs pensionnés avec un jardin regorgeant de mauvaises herbes, le rêve de tout bon wwoofer... Nelly, le chien de la maison, surveille avec intérêt nos moindres faits et gestes, toujours à la recherche d'affection... Le mercredi, c'est la journée "grands-parents", on a donc la chance de voir débarquer trois petits-enfants. L'agitation de la coupe du monde de rugby nous frappe aussi de plein fouet et on devient de fervents supporters. On se lève même à 4 et 5h du matin (décalage horaire oblige) pour regarder les demi-finales et la finale... Ça en vaut la peine : les All Blacks sont les meilleurs !!
+On se retrouve chez Kathryne et Chris, d'actifs pensionnés avec un jardin regorgeant de mauvaises herbes, le rêve de tout bon wwoofer... Nelly, le chien de la maison, surveille avec intérêt nos moindres faits et gestes, toujours à la recherche d'affection... Le mercredi, c'est la journée "grands-parents", on a donc la chance de voir débarquer trois petits-enfants. L'agitation de la coupe du monde de rugby nous frappe aussi de plein fouet et on devient de fervents supporters. On se lève même à 4 et 5h du matin (décalage horaire oblige) pour regarder les demi-finales et la finale... Ça en vaut la peine : les All Blacks sont les meilleurs !!
 
 {% include image.html url="https://lh3.googleusercontent.com/-qF5YMOSZkTs/Vj-NcuGPPyI/AAAAAAAAL5c/Tt5FhB9e4G4/s912-Ic42/upload_-1.jpg" caption="Chez Kathryn et Chris" %}
 
@@ -39,6 +39,3 @@ On prend le bateau vers une des îles de la baie : Tiritiri Matangi. Vierge de p
 On passe nos deux derniers jours chez Helen (la fille de Kath et Chris) et son mari Joe et Georges (2 ans et demi) et Hugo (8 mois). Leur jardin-jungle a bien besoin de wwoofers expérimentés comme nous et on dégage, en trois jours, plusieurs m³ de plantes indésirables. On exerce aussi nos talents de baby-sitters avec les deux garçons. On est tellement bons que Helen veut bien nous embaucher quand on reviendra en Nouvelle-Zélande... Le retour vers le plat pays est cependant amorcé mais, d'abord, une étape de trois semaines en Thaïlande...
 
 Hare Ra Te Atearoa...
-
-
-
