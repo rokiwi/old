@@ -5,7 +5,7 @@ categories: articles
 date-begin: 2015-10-19
 date-end: 2015-11-9
 image: 
-  teaser-ext: ""
+  teaser-ext: "https://lh3.googleusercontent.com/-85iB-z-CCzE/Vj8hjmY-6YI/AAAAAAAALyQ/y-Ms_D70RwU/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/J4YnQzsrua6cf9Cr7"
 published: true
 ---
@@ -22,8 +22,8 @@ published: true
 
 {% include image.html url="https://lh3.googleusercontent.com/-uvXdCjaJgUg/Vj-NgR8isYI/AAAAAAAAL5k/RWBieZP_Lhk/s912-Ic42/upload_-1.jpg" caption="Nelly" %}
 
-{% include video.html url="" caption="Gannett" %}
+{% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEcEZ2MU95ZWhlb1E/preview" caption="Gannett" %}
 
-<audio controls> <source src="" type="audio/mp3"> </audio>
+<audio controls> <source src="https://drive.google.com/uc?export=download&id=0BzIZ3dfuz-CEdlpUdG1KSnFFZHc" type="audio/mp3"> </audio>
 
 
