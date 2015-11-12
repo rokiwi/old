@@ -11,9 +11,9 @@ album: "https://goo.gl/photos/J4YnQzsrua6cf9Cr7"
 published: true
 ---
 
-Hard to face the reality : this is already our last stop on kiwi land : Auckland, the biggest city and the hub that nearly every tourist goes through. Our main concern is selling the car (the European ones would make fun of her right-sided steering wheel) but sticking to our habits we are wwoofing.
+Hard to face the reality but this is already our last stop on kiwi land : Auckland, the biggest city and the hub that nearly every tourist goes through. Our main concern is selling the car (the European ones would make fun of her right-sided steering wheel) but sticking to our habits we are wwoofing.
 
-Kathryne and Chris, an active retired couple, possess a gigantic garden full of weeds : a dream come true to any good wwoofer. Nelly, the domestic dog, spends the day spying on us, always looking for affection. On Wednesday, it's grandparents day : a bombing of three (sometimes more) grandchildren hit the house. We got equally struck by the rugby world cup and as loyal supporters, we get up at 4 or 5 (due to jet lag) to watch the semi and final. No regrets, the All Blacks were, are and will be te best.
+Kathryne and Chris, an active retired couple, possess a gigantic garden full of weeds : a dream come true to any good wwoofer. Nelly, the domestic dog, spends the day spying on us, always looking for affection. On Wednesday, it's grandparents day : a bombing of three (sometimes more) grandchildren hit the house. We got equally struck by the rugby world cup and as loyal supporters, we get up at 4 or 5 (due to jet lag) to watch the semi and final. No regrets, the All Blacks were, are and will be the best.
 
 {% include image.html url="https://lh3.googleusercontent.com/-qF5YMOSZkTs/Vj-NcuGPPyI/AAAAAAAAL5c/Tt5FhB9e4G4/s912-Ic42/upload_-1.jpg" caption="At Kathryn and Chris'" %}
 
@@ -37,6 +37,6 @@ Tiritiri Matangi is an island in the bay well worth the visit. We sail to this b
 
 {% include image.html url="https://lh3.googleusercontent.com/-yyKGTOHD6Yw/Vj-NYBCgY3I/AAAAAAAAL5o/3GP9TcbsPp0/s912-Ic42/upload_-1.jpg" caption="Last road trip with the chariot : Whatipu and Cornwallis" %}
 
-We spend the last two days at Helen (Kath and Chris' daughter) and her husband Joe, Georges (two and a half) and Hugo's (8 months). Experimented wwoofers are welcomed : there is a huge jungle-garden and in three days, we manage to dig out several cubic metres of undesired plants. We also got the opportunity to babysit and Helen would definitely hire us when we come back to NZ. The cows and the flat land are in sight now but first let's stop three weeks in Thailand...
+We spend the last two days at Helen (Kath and Chris' daughter) and her husband Joe, Georges (two and a half) and Hugo's (8 months). Experimented wwoofers are welcomed : there is a huge jungle-garden and in three days, we manage to dig out several cubic metres of undesired plants. We also got the opportunity to babysit and Helen would definitely hire us when we come back to NZ. Home, "le plat pays", is in sight now but first let's stop three weeks in Thailand...
 
 Haere Ra Aotearoa...
