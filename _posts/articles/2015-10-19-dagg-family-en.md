@@ -29,7 +29,7 @@ Selling the car is time consuming but we manage to spend some time hanging out. 
 
 {% include video.html url="https://drive.google.com/file/d/0BzIZ3dfuz-CEcEZ2MU95ZWhlb1E/preview" caption="Gannett Colony" %}
 
-Tiritiri Matangi is a well worth island to visit in the bay. We sail to this bird sanctuary free of any predators. It gives you a rough idea what NZ was like before men put a foot on it : colourful and noisy. Many birds more or less endangered make a hell of party but unfortunately some cannot be found on the two main islands anymore.
+Tiritiri Matangi is an island in the bay well worth the visit. We sail to this bird sanctuary free of any predators. It gives you a rough idea what NZ was like before men put a foot on it : colourful and noisy. Many birds more or less endangered make a hell of a party but unfortunately some cannot be found on the two main islands anymore.
 
 {% include image.html url="https://lh3.googleusercontent.com/-FjQuktr9ANs/Vj-NUspG3rI/AAAAAAAAL5Q/LOvAUL8FTSw/s912-Ic42/upload_-1.jpg" caption="Tiritiri Matangi. From top left : red saddle back, crown parakeet, White head, wood pigeon, red saddle back, tui drinking flax nectar, the old lighthouse, tui, stitch bird, tui, bell bird and bell bird" %}
 
