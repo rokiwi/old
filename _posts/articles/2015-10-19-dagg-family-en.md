@@ -19,11 +19,11 @@ On se retrouve chez Kathryne et Chris, d'actifs pensionnés avec un jardin regor
 
 {% include image.html url="https://lh3.googleusercontent.com/-uvXdCjaJgUg/Vj-NgR8isYI/AAAAAAAAL5k/RWBieZP_Lhk/s912-Ic42/upload_-1.jpg" caption="Nelly" %}
 
-Après de nombreuses visites (dont un surfeur allemand qui voulait caser deux planches de surf à l'intérieur), la chariotte a trouvé deux jeunes parisiennes comme chanceuses nouvelles propriétaires. On a dû rehausser la plateforme du lit pour que leurs énormes (!!) valises rentrent et les voilà parties pour de nouvelles aventures...
+Several car shows later (one of them involved an Australian wishing to put two surf boards in the chariot), the chariot finds its new hosts : two young girls from Paris. Their two huge suitcases required some alterations : raising the platform and reallocating a post. Once the job was finished, the chariot drove towards new adventures.
 
 {% include image.html url="https://lh3.googleusercontent.com/-uspSVV7VjIw/Vj-NM82mD6I/AAAAAAAAL5A/QPRayQ6zBpg/s912-Ic42/upload_-1.jpg" caption="City trip after a 'chariot show' to potential buyers" %}
 
-Outre la vente de le voiture, on profite de notre temps libre pour continuer nos visites. À Muriwai, plage de sable noir et bruyante, odorante, surpeuplée colonie de fous des antipodes.
+Selling the car is time consuming but we manage to spend some time hanging out. At Muriwai, for instance, with its black sand beaches and a noisy smelly busy gannett colony.
 
 {% include image.html url="https://lh3.googleusercontent.com/-DxhoythLKHs/Vj-NQj7HJ2I/AAAAAAAAL5I/8Wyig7YfgYc/s912-Ic42/upload_-1.jpg" caption="Muriwai" %}
 
