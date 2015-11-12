@@ -7,6 +7,7 @@ date-end: 2015-11-9
 image: 
   teaser-ext: "https://lh3.googleusercontent.com/-85iB-z-CCzE/Vj8hjmY-6YI/AAAAAAAALyQ/y-Ms_D70RwU/s912-Ic42/upload_-1.jpg"
 album: "https://goo.gl/photos/J4YnQzsrua6cf9Cr7"
+translation: "/articles/2015/10/dagg-family-en/"
 published: true
 ---
 

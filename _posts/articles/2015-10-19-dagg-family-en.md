@@ -13,9 +13,7 @@ published: true
 
 Hard to face the reality : this is already our last stop on kiwi land : Auckland, the biggest city and the hub that nearly every tourist goes through. Our main concern is selling the car (the European ones would make fun of her right-sided steering wheel) but sticking to our habits we are wwoofing.
 
-Kathryne 
-
-On se retrouve chez Kathryne et Chris, d'actifs pensionnés avec un jardin regorgeant de mauvaises herbes, le rêve de tout bon wwoofer... Nelly, le chien de la maison, surveille avec intérêt nos moindres faits et gestes, toujours à la recherche d'affection... Le mercredi, c'est la journée "grands-parents", on a donc la chance de voir débarquer trois petits-enfants. L'agitation de la coupe du monde de rugby nous frappe aussi de plein fouet et on devient de fervents supporters. On se lève même à 4 et 5h du matin (décalage horaire oblige) pour regarder les demi-finales et la finale... Ça en vaut la peine : les All Blacks sont les meilleurs !!
+Kathryne and Chris, an active retired couple, possess a gigantic garden full of weeds : a dream come true to any good wwoofer. Nelly, the domestic dog, spends the day spying on us, always looking for affection. On Wednesday, it's grandparents day : a bombing of three (sometimes more) grandchildren hit the house. We got equally struck by the rugby world cup and as loyal supporters, we get up at 4 or 5 (due to jet lag) to watch the semi and final. No regrets, the All Blacks were, are and will be te best.
 
 {% include image.html url="https://lh3.googleusercontent.com/-qF5YMOSZkTs/Vj-NcuGPPyI/AAAAAAAAL5c/Tt5FhB9e4G4/s912-Ic42/upload_-1.jpg" caption="At Kathryn and Chris'" %}
 
