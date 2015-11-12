@@ -11,7 +11,9 @@ album: "https://goo.gl/photos/J4YnQzsrua6cf9Cr7"
 published: true
 ---
 
-C'est difficile à croire mais on est déjà à la dernière étape de notre voyage en terre néo-zélandaise: Auckland, la plus grosse ville du pays où presque tous les voyageurs transitent... Notre principale préoccupation du moment est vendre la chariotte (la malheureuse ne se plairait pas en Belgique, elle est faite pour rouler à gauche), mais, pour ne pas changer des habitudes, on fait du wwoofing. 
+Hard to face the reality : this is already our last stop on kiwi land : Auckland, the biggest city and the hub that nearly every tourist goes through. Our main concern is selling the car (the European ones would make fun of her right-sided steering wheel) but sticking to our habits we are wwoofing.
+
+Kathryne 
 
 On se retrouve chez Kathryne et Chris, d'actifs pensionnés avec un jardin regorgeant de mauvaises herbes, le rêve de tout bon wwoofer... Nelly, le chien de la maison, surveille avec intérêt nos moindres faits et gestes, toujours à la recherche d'affection... Le mercredi, c'est la journée "grands-parents", on a donc la chance de voir débarquer trois petits-enfants. L'agitation de la coupe du monde de rugby nous frappe aussi de plein fouet et on devient de fervents supporters. On se lève même à 4 et 5h du matin (décalage horaire oblige) pour regarder les demi-finales et la finale... Ça en vaut la peine : les All Blacks sont les meilleurs !!
 
@@ -39,4 +41,4 @@ Tiritiri Matangi is a well worth island to visit in the bay. We sail to this bir
 
 We spend the last two days at Helen (Kath and Chris' daughter) and her husband Joe, Georges (two and a half) and Hugo's (8 months). Experimented wwoofers are welcomed : there is a huge jungle-garden and in three days, we manage to dig out several cubic metres of undesired plants. We also got the opportunity to babysit and Helen would definitely hire us when we come back to NZ. The cows and the flat land are in sight now but first let's stop three weeks in Thailand...
 
-Hare Ra Te Atearoa...
+Haere Ra Aotearoa...
