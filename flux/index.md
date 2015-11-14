@@ -10,7 +10,11 @@ layout: default
 {% endif %}
 
 {% assign m = post.date | date: "%s" %}
-{% if m < '1441884350' %}
+{% if m < '1439207341' %}
+  {% continue %}
+{% endif %}
+
+{% if m > '1440071341' %}
   {% continue %}
 {% endif %}
 
