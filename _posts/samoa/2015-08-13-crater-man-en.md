@@ -2,6 +2,7 @@
 layout: samoa
 title: "Da Crater Man"
 categories: samoa
+tags: English
 prev: "lava-fields"
 nex: "falealupo"
 file: crater-man

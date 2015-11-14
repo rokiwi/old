@@ -2,6 +2,7 @@
 layout: samoa
 title: "Afa Aau Waterfall"
 categories: samoa
+tags: English
 prev: "falealupo"
 nex: "satuiatua"
 file: afa-aau-waterfall

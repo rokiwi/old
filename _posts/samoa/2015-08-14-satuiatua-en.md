@@ -2,6 +2,7 @@
 layout: samoa
 title: "Satuiatua Beach Fale"
 categories: samoa
+tags: English
 image: ""
 prev: "afa-aau-waterfall"
 nex: "blow-hole"

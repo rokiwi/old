@@ -2,6 +2,7 @@
 layout: samoa
 title: "Blow Holes, waterfalls and crater"
 categories: samoa
+tags: English
 image: ""
 prev: "satuiatua"
 nex: "maota-o-maa"

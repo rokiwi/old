@@ -2,6 +2,7 @@
 layout: samoa
 title: "Coastal Walk"
 categories: samoa
+tags: English
 prev: "maota-o-maa"
 nex: "apia"
 file: coastal-walk

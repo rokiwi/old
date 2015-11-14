@@ -2,6 +2,7 @@
 layout: samoa
 title: "Falealupo"
 categories: samoa
+tags: English
 prev: "crater-man"
 nex: "afa-aau-waterfall"
 file: falealupo

@@ -2,6 +2,7 @@
 layout: samoa
 title: "Lava Fields"
 categories: samoa
+tags: English
 prev: "salelonga"
 nex: "crater-man"
 file: lava-fields

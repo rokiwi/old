@@ -2,6 +2,7 @@
 layout: samoa
 title: "Salelonga"
 categories: samoa
+tags: English
 prev: "joelan"
 nex: "lava-fields"
 file: salelonga
