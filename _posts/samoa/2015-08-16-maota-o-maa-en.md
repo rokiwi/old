@@ -2,6 +2,7 @@
 layout: samoa
 title: "Maota-o-Ma'a Beach Fale"
 categories: samoa
+tags: English
 prev: "blow-hole"
 nex: "coastal-walk"
 file: maota-o-maa
