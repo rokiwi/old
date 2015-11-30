@@ -11,8 +11,8 @@ album: "https://goo.gl/photos/DbGPpAgCsZmZJLMd6"
 published: true
 ---
 
-Pirom makes sure we got a place to go before letting us wander again. A complex Thai discussion and a phone call later, we leave the Tourist Authority of Thailand (TAT) in a
-"song-ta-ou" (small BYO [Build Your Own] pickup taxi) and head North along the Mekong. A small and smart guesthouse has been arranged for us in That Uthen. While feeding the fish from the reef, the owner tells us in rough English that he built a "nest" for them several years ago : dams and overfishing endanger the river biodiversity. Later on, he lends us bikes for a lovely sunset cycle.
+Pirom makes sure we got a place where to go before letting us wander again. A complex Thai discussion and a phone call later, we leave the Tourist Authority of Thailand (TAT) in a
+"song-ta-ou" (small BYO [Build Your Own] pickup taxi) and head North along the Mekong. A small and smart guesthouse has been arranged for us in That Uthen. While feeding the fish from the bank, the owner tells us in a rough English that he built a "nest" for them several years ago : dams and overfishing endanger the river biodiversity. Later on, he lends us bikes for a lovely sunset cycle.
 
 {% include image.html url="https://lh3.googleusercontent.com/-e1CDMm9kxFI/VlsDwHcTjmI/AAAAAAAANP0/97b9Hudk5kg/s912-Ic42/PhotoGrid_1448532871470.jpg" caption="That Uthen" %}
 
@@ -32,7 +32,7 @@ Bunloed and Angelina propose us to help them in the garden, in the rice paddy an
 
 We don't plan to stay a year in Thailand so we hit the road to Nong Khai, a little town close to Lao border. We mix with the locals at Loi Krathong festival. We buy a small boat made of banana leafs and stem, decorated with flowers, candles and incense. Then you launch it into the river and make a wish that the water spirits supposedly fulfill. The bigger and prettier the boat, the more likely your wish will come true.
 
-The region is so flat, we cannot miss the opportunity to cycle again : 55kms under heavy sunshine to visit, among others, a sericulture research centre. We don't learn a lot about how to breed silk worms since nobody is fluent in English. But we have some good fun with the employees as they ask us to join them to drink a coconut. Unbeatable Thai hospitality.
+The region is so flat, we cannot miss the opportunity to cycle again : 55kms under heavy sunshine to visit, among others, a sericulture research centre. We don't learn a lot about how to breed silk worms since nobody is fluent in English. But we have some good fun with the employees as they ask us to join for a drink of coconut. Unbeatable Thai hospitality.
 
 {% include image.html url="https://lh3.googleusercontent.com/-bP4NHRYBIrw/VlsDwF7L3iI/AAAAAAAANP0/Zh60QzK_3Zs/s912-Ic42/PhotoGrid_1448533514080.jpg" caption="Loi Krathong in Nong Khai" %}
 
@@ -40,7 +40,7 @@ The region is so flat, we cannot miss the opportunity to cycle again : 55kms und
 
 {% include image.html url="https://lh3.googleusercontent.com/-QY7LhhQ2Nvo/VlsDwBmKEyI/AAAAAAAANP0/lPHokWS54U4/s912-Ic42/PhotoGrid_1448804002904.jpg" caption="Same old cycling (!) at Lamai's" %}
 
-This article was published from Bangkok airport so we will see you soon my friends (from Europe)... ;)
+This article was published from Bangkok airport so see you soon my friends (from Europe)... ;)
 
 
 
