@@ -18,7 +18,7 @@ Pirom makes sure we got a place to go before letting us wander again. A complex 
 
 Further on, off the beaten track and waiting for the bus, we are surrendered by local curiosity. From students to police officers, they all want to help us despite the fact that none of them really speaks English. After a long discussion and laughter, everyone agrees : we are waiting at the right place for the right bus. We waited for three hours ...
 
-Ban Kham Pia, here we are! We are welcomed bilingually by Bunloed (he couldn't be more local) and Angelina (from France). A peaceful breath comes out those small bamboo bungalows and invites us to rest after Pirom's busy tour. Cycling, guided walk through the national park next door, playing cards : we take it really easy for the next 5 days.
+Ban Kham Pia, here we are! We are welcomed bilingually by Bunloed (he couldn't be more local) and Angelina (from France). A peaceful breath comes out of those small bamboo bungalows and invites us to rest after Pirom's busy tour. Cycling, guided walk through the national park next door, playing cards : we take it really easy for the next 5 days.
 
 {% include image.html url="https://lh3.googleusercontent.com/-iLf0xIDkbCg/VlsDwDsjSMI/AAAAAAAANP0/XSwjuuIa1g0/s912-Ic42/PhotoGrid_1448535390782.jpg" caption="At Bunloed and Angelina's" %}
 
